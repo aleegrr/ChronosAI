@@ -1,0 +1,8 @@
+id_departamento,nombre_departamento,porcentaje_maximo_inactivos,numero_total_empleados
+1,Recursos Humanos,11,28
+2,Ventas,10,13
+3,Marketing,18,23
+4,Desarrollo de Producto,23,35
+5,Atención al Cliente,17,17
+6,Finanzas,18,18
+7,Logística,25,16
