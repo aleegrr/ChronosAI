@@ -1,151 +1,151 @@
-id,nombre_apellidos,edad,antiguedad,persona_a_cargo,rol,minusvalia,activo,id_departamento
-1,Juanita Orozco Adán,18,0,0,Director de tienda,Sí,Sí,3
-2,Abril Daza Mas,36,0,4,Dependiente,Sí,No,7
-3,Natalio Ripoll Cabrera,64,45,0,Gerente de tienda,No,Sí,1
-4,Roque Ledesma Milla,47,12,5,Encargado de tienda,Sí,No,7
-5,Pánfilo Guerrero Lasa,50,11,1,Jefe de sección,Sí,Sí,3
-6,Ileana Jordá Rosa,59,39,0,Jefe de tienda,Sí,No,6
-7,Noemí Galván Priego,59,18,0,Dependiente,No,Sí,7
-8,Fito Luque Cabo,64,45,2,Encargado de tienda,Sí,Sí,1
-9,Augusto Romero Quesada,60,35,5,Dependiente,Sí,No,6
-10,Manuela Cadenas Porcel,59,30,7,Gerente de tienda,No,No,3
-11,Agapito Arnaiz Ocaña,64,32,3,Subdirector de tienda,No,No,1
-12,Eligia Quesada Izquierdo,25,4,3,Gerente de tienda,No,No,5
-13,Jimena Jiménez Cornejo,56,20,2,Director de tienda,Sí,Sí,7
-14,Eliana Arellano Pera,54,36,3,Encargado de tienda,No,Sí,7
-15,Herberto Cañizares Expósito,36,15,6,Jefe de sección,Sí,No,2
-16,Mayte Rosales Carreño,19,0,3,Jefe de sección,Sí,Sí,5
-17,Arsenio Garriga Egea,48,12,3,Subdirector de tienda,Sí,No,4
-18,Saturnino Arroyo Romero,57,39,7,Jefe de tienda,No,Sí,5
-19,César Santamaría Cases,43,7,7,Jefe de sección,Sí,No,7
-20,Leticia Maldonado Gomila,31,2,4,Jefe de tienda,Sí,No,5
-21,María Carmen Lastra Gárate,53,5,1,Encargado de tienda,No,Sí,1
-22,Loreto Cañizares Coronado,64,32,1,Gerente de tienda,Sí,No,4
-23,Calisto Portero Jaume,59,12,5,Jefe de tienda,Sí,Sí,1
-24,Nereida Durán Castro,49,19,4,Jefe de tienda,No,No,4
-25,Florentino Lillo Navas,25,3,7,Subdirector de tienda,Sí,No,5
-26,Marcia Rocamora Villa,22,2,0,Dependiente,No,No,6
-27,Nazaret Bou Canales,36,8,1,Subdirector de tienda,Sí,No,2
-28,Lalo Hurtado Bas,52,28,1,Director de tienda,No,Sí,2
-29,Magdalena Múgica Martín,48,12,1,Director de tienda,Sí,Sí,6
-30,Ale Sáez Llorens,50,9,1,Jefe de tienda,Sí,No,5
-31,Gema Romero Girón,18,0,4,Gerente de tienda,No,No,5
-32,Vanesa Martin Mancebo,42,18,1,Dependiente,No,No,5
-33,Pablo Murcia Yuste,18,0,2,Subdirector de tienda,Sí,Sí,2
-34,Milagros Cañizares Lago,52,1,6,Director de tienda,No,Sí,6
-35,Ángela Artigas Roig,23,2,7,Gerente de tienda,No,Sí,2
-36,Ruben Casas Rosa,58,30,0,Director de tienda,No,Sí,6
-37,Dorita Company Salazar,64,36,7,Gerente de tienda,No,Sí,3
-38,Ani Cadenas Prats,41,6,1,Encargado de tienda,No,No,5
-39,Georgina Cortés Piñol,33,12,0,Dependiente,Sí,No,7
-40,Néstor Monreal Quintanilla,55,10,7,Gerente de tienda,No,Sí,7
-41,Graciela Roig Baquero,27,0,3,Jefe de sección,Sí,No,5
-42,Donato Uriarte Abril,59,16,0,Director de tienda,Sí,Sí,4
-43,Epifanio Gras Llabrés,37,4,7,Subdirector de tienda,Sí,No,1
-44,Calista Blasco Yáñez,48,0,0,Encargado de tienda,Sí,Sí,1
-45,Juanita Arias Garcés,36,5,3,Gerente de tienda,Sí,No,7
-46,Íñigo Carlos Elías,50,32,7,Subdirector de tienda,Sí,Sí,7
-47,Sebastián Romero Anaya,32,6,1,Gerente de tienda,No,Sí,2
-48,Nilda Zapata Cuadrado,62,15,7,Director de tienda,Sí,No,1
-49,Primitivo Páez Pont,27,3,0,Gerente de tienda,Sí,Sí,3
-50,Clementina Acero Herrera,27,5,6,Dependiente,Sí,Sí,6
-51,Amancio Pina Sotelo,51,27,4,Gerente de tienda,Sí,No,6
-52,Gerónimo Perea Casanovas,61,32,1,Subdirector de tienda,No,No,1
-53,Ruth Blasco Bermudez,33,14,5,Jefe de tienda,No,Sí,3
-54,Amaro Leon Costa,37,18,6,Jefe de tienda,No,Sí,6
-55,Aura Alemán Vendrell,27,5,4,Jefe de tienda,No,Sí,5
-56,Diana Páez Belmonte,31,4,4,Jefe de tienda,Sí,Sí,3
-57,Abraham Córdoba Díez,28,10,4,Director de tienda,No,Sí,1
-58,Carmelo Fuster Cuadrado,37,14,3,Subdirector de tienda,No,Sí,4
-59,Delia Boada Solera,50,26,0,Gerente de tienda,Sí,Sí,4
-60,Balduino Morante Benítez,28,6,1,Subdirector de tienda,Sí,Sí,6
-61,Bernardo Artigas Pomares,32,8,6,Dependiente,No,No,6
-62,Purificación Vera Baeza,33,1,1,Jefe de tienda,No,No,6
-63,María Ángeles Ros Manso,61,31,1,Gerente de tienda,No,No,6
-64,Ciro Agustín Peralta,26,0,2,Jefe de sección,No,Sí,3
-65,Aristides Durán Barrios,60,6,7,Dependiente,Sí,No,4
-66,Gisela Ibañez Juárez,61,20,6,Subdirector de tienda,Sí,No,5
-67,Amparo Montero Téllez,27,9,3,Gerente de tienda,Sí,No,3
-68,Azeneth Baró Cano,56,5,5,Dependiente,No,No,2
-69,Maura Sevilla Elorza,30,0,7,Director de tienda,Sí,Sí,7
-70,Sebastian Castejón Aroca,34,6,4,Director de tienda,No,Sí,3
-71,Blanca Álvaro Parejo,40,0,1,Jefe de sección,Sí,No,3
-72,Morena Folch Aguirre,20,0,0,Jefe de sección,Sí,Sí,3
-73,Oriana Font Bayo,25,3,0,Jefe de tienda,Sí,Sí,3
-74,Dani León Mas,32,1,5,Director de tienda,Sí,No,2
-75,Trini Tomas Amigó,62,28,3,Gerente de tienda,Sí,Sí,2
-76,Serafina Gomez Gras,61,12,0,Jefe de tienda,Sí,No,7
-77,Adelardo Belda Royo,26,2,2,Encargado de tienda,No,No,1
-78,Nydia Seco Muro,18,0,3,Jefe de tienda,Sí,No,1
-79,Armando Cabrero Tormo,57,35,3,Encargado de tienda,No,No,7
-80,Yaiza Vigil Uriarte,62,11,3,Dependiente,Sí,No,4
-81,Begoña Luna Zamora,59,32,6,Encargado de tienda,Sí,Sí,5
-82,Itziar Esteve Jordá,30,4,2,Dependiente,No,Sí,1
-83,Pelayo Escolano Tudela,34,15,0,Subdirector de tienda,Sí,Sí,1
-84,Fortunata Cabañas Malo,28,2,2,Director de tienda,No,No,7
-85,Andrés Felipe Gallego Gonzalez,49,12,4,Director de tienda,No,Sí,3
-86,Carmelita Arnaiz Carro,31,11,4,Gerente de tienda,Sí,Sí,5
-87,Héctor Pou Sedano,64,40,6,Encargado de tienda,No,No,1
-88,Delia Martí Lucena,44,9,0,Dependiente,Sí,No,4
-89,Emilio Bru Palomar,48,4,7,Encargado de tienda,No,No,7
-90,Rogelio Abella Arenas,45,2,3,Dependiente,Sí,No,4
-91,Sandalio Benavente Gimenez,21,3,5,Jefe de sección,Sí,No,6
-92,Pablo Camps Quesada,41,7,4,Jefe de tienda,No,Sí,2
-93,Fidel Vilanova Belmonte,31,1,0,Gerente de tienda,No,Sí,3
-94,Severino Pallarès Verdú,38,20,4,Jefe de sección,Sí,No,1
-95,Mohamed Tovar Mayo,64,37,6,Encargado de tienda,Sí,No,2
-96,Leocadia Villalonga Duarte,29,10,1,Encargado de tienda,Sí,No,1
-97,Mamen Cañas Pavón,57,21,5,Jefe de sección,No,Sí,3
-98,Nicodemo Rodríguez Agudo,37,16,7,Jefe de sección,Sí,Sí,2
-99,Manola Serra Navarro,55,19,0,Subdirector de tienda,Sí,No,3
-100,Cristóbal Coello Marqués,64,42,5,Director de tienda,No,No,2
-101,Jordán Gallego Arnau,60,22,3,Gerente de tienda,Sí,Sí,2
-102,Dolores Escalona López,22,1,2,Director de tienda,No,Sí,1
-103,Chucho Frías Gómez,60,15,3,Encargado de tienda,Sí,No,2
-104,Ramiro Estévez Gallego,49,10,4,Director de tienda,Sí,Sí,6
-105,Osvaldo Huerta Pujol,36,9,2,Gerente de tienda,No,No,2
-106,Felicia Prado Gomila,29,7,1,Encargado de tienda,Sí,Sí,2
-107,Marisa Cañas Criado,30,12,7,Dependiente,No,No,1
-108,Zoraida Nicolás Cobos,59,22,4,Encargado de tienda,Sí,Sí,3
-109,Ximena Garay Benitez,34,7,1,Jefe de sección,Sí,Sí,5
-110,Gaspar Priego Catalá,64,2,6,Jefe de tienda,No,No,2
-111,Susanita Abril Rovira,22,0,6,Encargado de tienda,No,Sí,5
-112,Lupe Sevillano Vergara,21,2,6,Subdirector de tienda,No,No,1
-113,Lorenza Sebastián Beltran,60,12,1,Encargado de tienda,No,No,5
-114,Emelina Priego Pinedo,24,1,0,Jefe de sección,Sí,No,3
-115,Lupe Castro Anglada,19,0,1,Subdirector de tienda,No,No,5
-116,Óscar Peralta Losa,46,24,4,Subdirector de tienda,No,Sí,6
-117,Rocío Morcillo Roura,22,2,1,Gerente de tienda,Sí,No,4
-118,Jose Luis Ariza Jaume,40,9,7,Gerente de tienda,No,Sí,1
-119,Chus Sáez Jover,55,28,4,Subdirector de tienda,No,Sí,3
-120,Amaro Porcel Jerez,31,11,0,Gerente de tienda,No,No,7
-121,Arcelia Moraleda Calderon,28,1,0,Dependiente,No,Sí,5
-122,Samu Alonso Cañizares,61,13,6,Jefe de tienda,Sí,Sí,2
-123,Iker Riquelme Cuervo,52,7,3,Gerente de tienda,Sí,No,2
-124,Jenaro Gual Pomares,39,7,2,Dependiente,No,Sí,4
-125,Gervasio Segovia Estévez,32,2,3,Jefe de tienda,Sí,No,6
-126,Consuela Vicens Cases,21,3,6,Encargado de tienda,No,No,6
-127,Bonifacio Matas Bermejo,37,9,7,Jefe de tienda,Sí,No,6
-128,Roberta Manjón Durán,41,17,6,Gerente de tienda,Sí,No,5
-129,Benito Baquero Aguirre,45,4,6,Jefe de sección,No,Sí,6
-130,Merche Bautista Malo,60,9,0,Jefe de sección,Sí,No,3
-131,Nicodemo Avilés Alberto,20,0,4,Jefe de tienda,Sí,Sí,1
-132,Teófila Aragón Pérez,24,3,4,Dependiente,No,No,7
-133,Natalio Gallo Blanch,49,19,1,Director de tienda,Sí,Sí,1
-134,Maximiliano Nieto Guitart,29,5,1,Dependiente,No,No,7
-135,Régulo Elías Posada,25,0,2,Gerente de tienda,Sí,No,7
-136,Teo Rovira Conde,53,34,2,Jefe de tienda,No,No,3
-137,Juan Carlos Lucena Rincón,50,31,1,Jefe de tienda,No,Sí,6
-138,Benita Sans Español,45,24,1,Dependiente,Sí,No,1
-139,Ulises Llabrés Lledó,48,29,6,Encargado de tienda,No,Sí,6
-140,Jerónimo Cal López,51,31,5,Jefe de sección,Sí,No,5
-141,Víctor Pintor Valdés,40,5,6,Jefe de sección,No,Sí,6
-142,Olalla Bayona Calvo,43,2,2,Gerente de tienda,No,Sí,6
-143,Balduino Abellán Báez,32,7,0,Encargado de tienda,No,Sí,4
-144,René Querol Agullo,35,10,5,Director de tienda,Sí,Sí,2
-145,Julio César Marí Nogueira,57,27,4,Dependiente,Sí,No,3
-146,Natalio Salas Fuente,38,20,0,Jefe de tienda,Sí,Sí,6
-147,Roldán Marín Dávila,60,26,1,Encargado de tienda,No,No,1
-148,Dionisio Porras Nieto,42,10,2,Director de tienda,No,Sí,3
-149,Dani Quintanilla Estévez,26,0,3,Jefe de tienda,No,No,3
-150,Dalila Trillo Sabater,61,9,3,Dependiente,No,No,4
+id_empleado,nombre_completo,edad_empleado,antiguedad_anos,personas_a_cargo,rol_empleado,minusvalia,activo,id_departamento
+1,Cecilio Bravo Recio,25,1,6,Gerente de tienda,Sí,Sí,2
+2,Clarisa Cadenas Escobar,49,6,7,Gerente de tienda,No,No,2
+3,Chelo Pinto Bonilla,53,3,2,Subdirector de tienda,Sí,Sí,3
+4,Alejo Echevarría Diez,22,4,3,Dependiente,Sí,Sí,4
+5,Visitación Pedraza Haro,54,23,7,Jefe de tienda,No,No,5
+6,Brunilda Baños Osorio,47,4,3,Gerente de tienda,No,No,7
+7,Espiridión Rivera Solsona,21,1,4,Jefe de sección,Sí,No,5
+8,Lina Arregui Morante,55,12,5,Jefe de tienda,Sí,No,7
+9,Hernando Vazquez Vigil,33,3,1,Jefe de sección,Sí,Sí,3
+10,Joaquina Chamorro Costa,48,7,0,Director de tienda,No,Sí,6
+11,Rufino Prat Cervera,37,12,6,Gerente de tienda,Sí,Sí,3
+12,Juan Carlos Jimenez Castell,27,1,0,Director de tienda,No,Sí,7
+13,Lupita Sola Matas,36,3,0,Subdirector de tienda,Sí,Sí,5
+14,Inmaculada Folch Espinosa,60,0,5,Director de tienda,No,Sí,2
+15,Vidal Gilabert Canet,33,15,5,Dependiente,No,No,6
+16,Tomás Cámara Cantero,21,2,4,Jefe de tienda,Sí,No,6
+17,Dimas Coloma Gárate,27,2,1,Jefe de tienda,No,No,3
+18,Francisca Arias Cisneros,44,22,7,Subdirector de tienda,No,No,6
+19,Juan Manuel Barrios Benavente,49,20,5,Encargado de tienda,Sí,Sí,5
+20,Macario Mínguez Ruiz,64,19,1,Subdirector de tienda,No,Sí,3
+21,Albano Ayala Reyes,50,23,2,Subdirector de tienda,No,Sí,3
+22,Hilda Alegria Herrera,27,2,1,Jefe de tienda,No,Sí,4
+23,Rafa Alberdi Pons,33,8,1,Dependiente,Sí,No,2
+24,Nidia Pelayo Robledo,61,12,7,Dependiente,Sí,No,7
+25,Jose Manuel Fernández Maldonado,43,16,1,Subdirector de tienda,No,Sí,1
+26,Basilio Vigil Benitez,23,0,1,Gerente de tienda,No,Sí,2
+27,Florencio Escolano Vallés,24,6,2,Jefe de sección,No,Sí,5
+28,Clarisa Arteaga Aguado,38,12,0,Dependiente,Sí,No,3
+29,Yaiza Gisbert Romero,45,16,3,Director de tienda,Sí,No,7
+30,Eusebia Blanch Hidalgo,53,35,6,Encargado de tienda,No,Sí,7
+31,Macarena Asenjo Andreu,37,1,1,Encargado de tienda,Sí,No,5
+32,Pilar Bello Peral,64,4,2,Encargado de tienda,Sí,No,1
+33,Mateo España Rivera,34,13,2,Jefe de tienda,Sí,No,6
+34,Íngrid Ricart Páez,54,0,1,Jefe de sección,Sí,Sí,7
+35,Ciríaco Vallés Martorell,19,1,2,Encargado de tienda,No,Sí,3
+36,Irma Bas Lucas,44,12,4,Subdirector de tienda,Sí,Sí,2
+37,Damián Ferreras Campoy,56,19,3,Subdirector de tienda,No,No,4
+38,Hector Aguado Bustamante,25,3,3,Gerente de tienda,No,No,6
+39,Cristian Flor Sanabria,64,45,6,Director de tienda,Sí,No,1
+40,Maximiliano Ibarra Cuenca,51,15,5,Jefe de sección,No,No,1
+41,Reina Cánovas Alemán,33,4,6,Encargado de tienda,Sí,No,4
+42,Isa Almansa Castañeda,54,20,5,Jefe de tienda,No,Sí,1
+43,Gaspar Cámara Jaén,46,16,7,Director de tienda,No,Sí,3
+44,Macarena Abril Calderón,58,6,2,Encargado de tienda,No,Sí,3
+45,América Gomila Portero,41,0,1,Dependiente,No,No,4
+46,María Pilar Pardo Arias,43,2,6,Subdirector de tienda,No,No,5
+47,Leyre Huguet Folch,42,0,7,Subdirector de tienda,No,Sí,4
+48,Marc Diego Maestre,23,3,0,Dependiente,Sí,No,6
+49,Javiera Espejo Vilanova,58,5,1,Director de tienda,No,No,2
+50,Diana Carreño Sanz,49,13,2,Jefe de tienda,Sí,Sí,1
+51,Haroldo Egea Chaparro,58,28,4,Dependiente,No,No,7
+52,Nico Casanovas Nadal,46,17,5,Encargado de tienda,Sí,No,7
+53,Domitila Varela Tamarit,55,12,1,Subdirector de tienda,No,Sí,3
+54,Fernando Santana Perales,58,36,2,Subdirector de tienda,No,Sí,3
+55,Antonio Sebastián Madrigal,52,1,4,Subdirector de tienda,Sí,Sí,4
+56,Griselda Casado Villalba,57,36,0,Dependiente,Sí,No,2
+57,Octavia Mayo Cobos,29,7,6,Director de tienda,Sí,Sí,7
+58,Ainara Donoso Guijarro,50,22,7,Gerente de tienda,Sí,No,3
+59,Amaro Zurita Piquer,54,20,1,Jefe de sección,No,Sí,7
+60,Abigaíl Arce Silva,31,12,2,Jefe de tienda,Sí,No,6
+61,Olivia Campoy Abella,35,9,7,Encargado de tienda,No,Sí,3
+62,Bonifacio Almeida Vicente,51,2,7,Jefe de sección,No,Sí,2
+63,Bruno Abascal Álvarez,54,19,7,Encargado de tienda,Sí,No,3
+64,Juan Pablo Bartolomé Cervantes,18,0,4,Director de tienda,Sí,Sí,3
+65,Iker Artigas Neira,31,3,0,Encargado de tienda,Sí,Sí,4
+66,Severiano Campillo Rosselló,29,2,4,Director de tienda,No,Sí,2
+67,Rodrigo Palma Rozas,60,35,4,Director de tienda,No,Sí,4
+68,Guiomar Bejarano Avilés,26,8,4,Director de tienda,No,No,6
+69,Lidia Fernandez Santiago,22,0,1,Dependiente,Sí,No,6
+70,Clementina Padilla Requena,62,37,6,Jefe de sección,No,No,4
+71,Chema Roldan Batalla,56,15,1,Jefe de sección,Sí,No,6
+72,Herberto Falcón Pedraza,64,18,5,Encargado de tienda,Sí,Sí,5
+73,Manu Melero Villaverde,37,13,2,Jefe de sección,Sí,No,3
+74,Erasmo Pol Vicente,33,2,0,Dependiente,No,No,1
+75,Visitación Jara Arregui,31,10,7,Encargado de tienda,No,Sí,1
+76,Lucio Huguet Gimenez,50,31,0,Jefe de tienda,Sí,Sí,4
+77,Eugenio Escobar Calzada,38,14,7,Jefe de tienda,No,Sí,4
+78,Rita Ródenas Abascal,25,4,2,Subdirector de tienda,Sí,No,2
+79,Custodio Bonilla Rius,28,8,3,Jefe de tienda,No,Sí,5
+80,Flor Pulido Jurado,33,6,6,Encargado de tienda,No,Sí,5
+81,Sol Jove Parejo,58,25,4,Gerente de tienda,Sí,No,1
+82,Mauricio España Elorza,22,2,0,Gerente de tienda,Sí,No,1
+83,Teófilo Rodríguez Rodriguez,52,31,2,Subdirector de tienda,Sí,No,2
+84,Maxi Durán Peral,61,7,1,Director de tienda,No,Sí,7
+85,Crescencia Manrique Araujo,33,12,6,Jefe de tienda,No,Sí,6
+86,Ester Mas Villar,38,12,3,Subdirector de tienda,Sí,Sí,6
+87,Emelina Prado Bernad,31,3,0,Gerente de tienda,No,Sí,5
+88,Elba Peinado Moles,39,21,2,Dependiente,No,Sí,3
+89,Jacinta Olivares Álamo,31,10,2,Gerente de tienda,Sí,Sí,3
+90,Benigno Goicoechea Aramburu,27,1,7,Encargado de tienda,No,No,5
+91,Marc Moles Villa,40,16,2,Director de tienda,No,Sí,4
+92,Eligio Castrillo Prado,35,0,5,Jefe de tienda,No,No,7
+93,Juan Bautista Diéguez Miguel,64,7,1,Director de tienda,Sí,No,7
+94,Emiliano Girona Mayol,45,9,7,Director de tienda,No,No,1
+95,Yaiza Mármol Suarez,24,2,2,Director de tienda,No,Sí,2
+96,Eusebio Miranda Pazos,57,26,0,Gerente de tienda,No,No,7
+97,José Manuel Arregui Benavente,58,22,6,Gerente de tienda,No,Sí,2
+98,Abril Prieto Arellano,40,7,6,Subdirector de tienda,Sí,No,7
+99,Mauricio Ribes Sainz,48,21,3,Gerente de tienda,No,Sí,7
+100,Griselda Dalmau Álvaro,39,10,5,Gerente de tienda,Sí,Sí,7
+101,Araceli Lobato Rios,34,0,1,Dependiente,No,Sí,2
+102,Ramiro Iñiguez Manzanares,24,6,5,Gerente de tienda,Sí,Sí,3
+103,Sebastian Villaverde Ribas,58,18,2,Subdirector de tienda,No,Sí,5
+104,Celestina Gallego Feijoo,46,9,3,Gerente de tienda,Sí,Sí,1
+105,Florentina Barral Benavente,31,1,0,Jefe de tienda,No,Sí,6
+106,Nicodemo Moya Prat,36,16,0,Jefe de tienda,Sí,No,3
+107,Cristina Bartolomé Camacho,65,15,7,Director de tienda,Sí,No,7
+108,Marisol Cerezo Meléndez,20,2,1,Director de tienda,No,No,1
+109,Aura Bellido Olivé,57,31,1,Encargado de tienda,Sí,Sí,7
+110,Delia Cortes Grau,22,3,7,Jefe de tienda,No,Sí,6
+111,Ezequiel Alberto Tudela,33,10,7,Gerente de tienda,Sí,No,1
+112,Pía Alvarado Giner,65,32,7,Jefe de tienda,Sí,Sí,1
+113,Fortunato Ríos Oliveras,25,4,4,Encargado de tienda,No,No,4
+114,Gema Otero Linares,64,42,7,Jefe de tienda,No,Sí,4
+115,Samu Campos Cornejo,48,0,7,Encargado de tienda,No,No,5
+116,Zoraida Diego Hoz,62,32,3,Gerente de tienda,No,No,7
+117,Macarena Montoya Vicente,35,14,7,Subdirector de tienda,Sí,Sí,1
+118,Abel Portero Valenciano,24,0,6,Gerente de tienda,Sí,Sí,7
+119,Ofelia Chaparro Aller,64,31,1,Jefe de sección,Sí,Sí,2
+120,Adrián Sarabia Mármol,63,43,1,Director de tienda,Sí,Sí,7
+121,Pili Vaquero Diego,43,22,2,Encargado de tienda,Sí,Sí,1
+122,Cruz Cañete Toro,29,4,6,Subdirector de tienda,No,No,3
+123,Aureliano Cerdá Ríos,51,19,3,Jefe de sección,No,Sí,6
+124,Abraham Echeverría Solís,20,1,2,Gerente de tienda,No,No,1
+125,Obdulia Fábregas Jerez,62,8,1,Gerente de tienda,Sí,No,6
+126,Matilde Barrera Valderrama,31,1,7,Director de tienda,No,No,5
+127,Azahar Tomás Gordillo,46,13,3,Dependiente,Sí,No,4
+128,Juan Pablo Morata Trillo,42,11,4,Encargado de tienda,No,No,3
+129,Andrés Menendez Gabaldón,46,25,6,Subdirector de tienda,No,No,6
+130,Edmundo Anguita Sanabria,20,2,3,Subdirector de tienda,Sí,No,1
+131,Elías Caparrós Benavente,27,8,2,Dependiente,Sí,No,6
+132,Víctor Iglesia Gámez,37,6,4,Subdirector de tienda,Sí,Sí,6
+133,Apolinar Noriega Gutierrez,31,1,1,Gerente de tienda,Sí,No,6
+134,Maximiano Cánovas Fuentes,46,16,5,Jefe de sección,Sí,Sí,1
+135,Juan José Ibáñez Mancebo,32,3,0,Jefe de sección,No,Sí,3
+136,Renato Torrents Casanovas,44,6,5,Subdirector de tienda,No,Sí,3
+137,Zaida Hidalgo Cuadrado,49,10,4,Jefe de sección,No,No,6
+138,Lucho Lluch Salom,55,2,1,Director de tienda,Sí,No,2
+139,Amanda Piquer Galan,18,0,5,Gerente de tienda,No,Sí,3
+140,Natalia Palma Boix,46,10,2,Jefe de tienda,No,Sí,5
+141,Iker Royo Tenorio,53,5,0,Jefe de sección,No,No,4
+142,Camilo Casanova Solano,27,2,4,Director de tienda,No,Sí,1
+143,Sebastián Torralba Patiño,37,18,2,Dependiente,No,No,2
+144,Domingo Balaguer Fuertes,19,1,3,Director de tienda,Sí,No,1
+145,Elisabet Quiroga Rubio,61,13,1,Jefe de tienda,Sí,Sí,4
+146,Mayte Guerra Higueras,59,41,1,Encargado de tienda,No,No,3
+147,Virginia Azcona Madrid,42,19,4,Director de tienda,Sí,Sí,7
+148,Gaspar Ros Gibert,20,2,7,Jefe de tienda,No,Sí,1
+149,Maite Cid Urrutia,29,5,0,Encargado de tienda,No,No,6
+150,Felisa Monreal Galán,23,2,6,Gerente de tienda,Sí,Sí,6

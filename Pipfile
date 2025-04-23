@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 faker = "*"
 pandas = "*"
+scikit-learn = "*"
+xgboost = "*"
+matplotlib = "*"
+seaborn = "*"
+catboost = "*"
 
 [dev-packages]
 
