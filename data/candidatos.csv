@@ -1,0 +1,1001 @@
+candidato_id,nombre,email,cv_keywords,prueba_psicometrica_resultado,habilidades_blandas_evaluacion,experiencia_anos,encaje_cultural_potencial,decision_rrhh
+C001,Graciano Contreras Mena,ferrerasevelia@example.com,"marketing,impuestos,selección,contabilidad,ventas,estrategia",Medio,"Comunicación efectiva,Liderazgo,Trabajo en equipo,Atención al detalle",2,Alto,Contratado
+C002,Prudencio Barrena,lorena44@example.org,"estrategia,ventas,java",Alto,"Negociación,Atención al detalle",12,Bajo,Contratado
+C003,Fidela Tomé Vera,baezabenjamin@example.com,"selección,python,nóminas,diseño ux,desarrollo",Bajo,"Análisis,Creatividad,Comunicación efectiva",8,Bajo,Contratado
+C004,Clotilde Jimenez,ovalero@example.org,"recursos humanos,contabilidad,ui,marketing,selección,estrategia",Bajo,"Negociación,Organización",3,Medio,No contratado
+C005,Trini Iborra Ortuño,serafina41@example.net,"finanzas,desarrollo,impuestos",Medio,"Análisis,Comunicación efectiva,Organización",5,Alto,Contratado
+C006,Dimas Múgica Cuervo,nicolasamiguel@example.com,"ui,marketing,selección,prototipado,desarrollo",Medio,"Análisis,Organización",13,Alto,Contratado
+C007,Magdalena Carretero Requena,garcesofelia@example.org,"selección,contabilidad,python,nóminas,recursos humanos",Medio,"Liderazgo,Trabajo en equipo,Análisis",5,Medio,No contratado
+C008,Matilde Osorio-Alvarado,sebastianarellano@example.com,"prototipado,finanzas,desarrollo,ventas",Bajo,"Liderazgo,Negociación",15,Alto,No contratado
+C009,Brígida Rosa-Somoza,csanchez@example.com,"diseño ux,prototipado,estrategia",Alto,"Resolución de problemas,Trabajo en equipo,Empatía",13,Alto,En revisión
+C010,Hector del Pellicer,adolfo40@example.org,"marketing,java,ui,diseño ux,selección",Bajo,"Organización,Análisis,Empatía,Trabajo en equipo",12,Medio,En revisión
+C011,Martín Nacho Morillo Torralba,edelmirosole@example.net,"selección,finanzas,nóminas",Bajo,"Creatividad,Análisis,Organización,Comunicación efectiva",7,Medio,No contratado
+C012,Miguela Arellano Pedro,trini69@example.org,"java,selección,ui,nóminas,recursos humanos,estrategia",Alto,"Organización,Comunicación efectiva,Análisis,Atención al detalle",4,Medio,En revisión
+C013,Toribio Mir Ferreras,sarita61@example.com,"contabilidad,marketing,ventas,impuestos,python,java",Bajo,"Creatividad,Análisis",3,Medio,En revisión
+C014,Macaria Vallejo Chacón,boixmoises@example.com,"nóminas,prototipado,diseño ux",Alto,"Comunicación efectiva,Negociación",15,Medio,No contratado
+C015,Danilo Fuente Moya,reyes28@example.org,"selección,marketing,ventas,ui,contabilidad,estrategia",Medio,"Organización,Trabajo en equipo,Comunicación efectiva",0,Alto,No contratado
+C016,Alberto de Calderón,zoraida13@example.com,"selección,estrategia,desarrollo,python,finanzas,impuestos",Medio,"Análisis,Comunicación efectiva,Liderazgo,Resolución de problemas",4,Medio,En revisión
+C017,Gracia Coloma Feijoo,ehervas@example.net,"selección,python,marketing",Alto,"Trabajo en equipo,Creatividad",5,Alto,No contratado
+C018,Reina Ribas Baena,custodiojurado@example.net,"contabilidad,impuestos,desarrollo,marketing,prototipado,python",Alto,"Liderazgo,Creatividad",12,Medio,En revisión
+C019,Pablo Aramburu Molina,yvinas@example.org,"prototipado,java,finanzas,diseño ux,selección,python,nóminas",Bajo,"Empatía,Creatividad,Resolución de problemas",14,Alto,Contratado
+C020,Prudencia Cuéllar-Manjón,pallaresarmando@example.org,"python,java,impuestos,nóminas",Medio,"Comunicación efectiva,Empatía,Atención al detalle,Liderazgo",2,Bajo,Contratado
+C021,Eusebio Granados,sconde@example.com,"ui,ventas,diseño ux,finanzas,prototipado",Bajo,"Empatía,Comunicación efectiva",2,Medio,En revisión
+C022,Jennifer de Arias,helorza@example.org,"finanzas,java,impuestos,diseño ux,prototipado",Medio,"Trabajo en equipo,Creatividad,Atención al detalle,Liderazgo",2,Medio,No contratado
+C023,León Vallés Clavero,carreteroselena@example.net,"finanzas,java,nóminas",Medio,"Empatía,Creatividad,Organización,Liderazgo",8,Bajo,En revisión
+C024,Jacinta Barceló Armas,emiliano82@example.org,"ventas,estrategia,desarrollo,finanzas,contabilidad",Bajo,"Empatía,Atención al detalle,Comunicación efectiva,Análisis",13,Bajo,En revisión
+C025,Ceferino Carrión Tovar,teo86@example.com,"prototipado,marketing,recursos humanos,java,finanzas",Alto,"Liderazgo,Trabajo en equipo,Comunicación efectiva",2,Alto,Contratado
+C026,Celia Rueda Ródenas,catalinapelayo@example.net,"recursos humanos,python,nóminas,finanzas,selección,diseño ux,desarrollo",Alto,"Análisis,Comunicación efectiva",7,Medio,En revisión
+C027,Verónica Olmo-Cardona,milagros83@example.com,"ui,selección,nóminas,estrategia,impuestos,java",Bajo,"Comunicación efectiva,Atención al detalle,Análisis,Trabajo en equipo",13,Bajo,En revisión
+C028,Violeta Coronado Bauzà,bvera@example.com,"finanzas,ui,diseño ux,nóminas,contabilidad,selección,impuestos",Bajo,"Trabajo en equipo,Atención al detalle,Análisis,Creatividad",10,Bajo,Contratado
+C029,Ofelia de Mate,pomarescamila@example.com,"estrategia,recursos humanos,python",Bajo,"Organización,Negociación",1,Alto,Contratado
+C030,Susanita Tovar Llano,maria-fernanda08@example.net,"python,nóminas,desarrollo,ui",Medio,"Empatía,Resolución de problemas,Liderazgo,Atención al detalle",12,Bajo,No contratado
+C031,Roldán Quintero,hierromontserrat@example.org,"contabilidad,desarrollo,selección",Alto,"Atención al detalle,Trabajo en equipo,Análisis",14,Medio,Contratado
+C032,Nicolás Viña,benigno76@example.org,"desarrollo,prototipado,estrategia,recursos humanos,marketing,impuestos",Medio,"Empatía,Comunicación efectiva,Liderazgo",9,Alto,No contratado
+C033,Vinicio Tejada,cebrianhervas@example.org,"nóminas,marketing,python,finanzas,ui",Medio,"Organización,Negociación,Trabajo en equipo",12,Bajo,Contratado
+C034,Anna Seco Marqués,ycamacho@example.org,"estrategia,finanzas,diseño ux,recursos humanos,python",Bajo,"Atención al detalle,Creatividad,Liderazgo",9,Medio,En revisión
+C035,Aníbal Pol Gual,vicenshumberto@example.com,"java,prototipado,ui",Alto,"Liderazgo,Comunicación efectiva,Resolución de problemas,Creatividad",7,Medio,Contratado
+C036,Benita Moraleda Solís,qbarroso@example.com,"selección,nóminas,estrategia,ui",Bajo,"Empatía,Negociación",7,Alto,No contratado
+C037,Curro Querol Cano,montoyaolivia@example.org,"java,selección,impuestos,estrategia,prototipado",Bajo,"Comunicación efectiva,Atención al detalle,Trabajo en equipo,Resolución de problemas",4,Bajo,No contratado
+C038,Ruy Gálvez Lara,valderramacayetana@example.com,"marketing,prototipado,finanzas,contabilidad,impuestos,nóminas",Alto,"Trabajo en equipo,Empatía,Negociación",0,Alto,Contratado
+C039,Araceli Bauzà Bosch,borregopepe@example.net,"marketing,diseño ux,python,estrategia,desarrollo,impuestos",Alto,"Análisis,Empatía",10,Alto,No contratado
+C040,Ambrosio Vila Manuel,virginia74@example.org,"java,desarrollo,contabilidad,estrategia,ventas,diseño ux",Bajo,"Comunicación efectiva,Creatividad,Atención al detalle",10,Bajo,No contratado
+C041,Manolo Torralba Borja,zmulet@example.org,"java,recursos humanos,diseño ux",Alto,"Creatividad,Negociación,Liderazgo,Análisis",8,Alto,Contratado
+C042,Calista Larrea-Andrade,domitila41@example.net,"contabilidad,prototipado,python",Alto,"Organización,Negociación",15,Alto,Contratado
+C043,Máxima Saez Agudo,anifranch@example.net,"finanzas,diseño ux,ventas,recursos humanos,impuestos",Medio,"Análisis,Organización,Empatía,Trabajo en equipo",6,Medio,En revisión
+C044,Alba Ariza Izquierdo,eric15@example.com,"desarrollo,estrategia,selección,ventas,impuestos,prototipado,contabilidad",Medio,"Organización,Trabajo en equipo,Análisis,Empatía",0,Medio,No contratado
+C045,Amado Rivera Jordá,hipolito65@example.net,"contabilidad,ui,java,finanzas,python,selección",Medio,"Creatividad,Empatía",9,Alto,Contratado
+C046,Reina Luisa Coll Boada,odomenech@example.com,"contabilidad,ui,impuestos,estrategia",Alto,"Comunicación efectiva,Empatía",12,Medio,No contratado
+C047,Elisa Sola Martín,carroroberto@example.net,"java,marketing,prototipado,desarrollo",Bajo,"Negociación,Comunicación efectiva",14,Medio,En revisión
+C048,Ariel Somoza-Martí,kbernad@example.net,"diseño ux,selección,finanzas,impuestos,recursos humanos",Alto,"Organización,Comunicación efectiva",15,Alto,Contratado
+C049,María José Ropero Rubio,earana@example.com,"python,ventas,prototipado,finanzas",Bajo,"Liderazgo,Organización,Comunicación efectiva,Empatía",1,Bajo,Contratado
+C050,Maite Ordóñez Abril,inocencio89@example.com,"desarrollo,ui,marketing,impuestos,contabilidad,python,java",Medio,"Atención al detalle,Creatividad,Liderazgo",10,Bajo,No contratado
+C051,Casandra Taboada Portillo,zacariasguillen@example.net,"recursos humanos,estrategia,java,contabilidad,ventas",Alto,"Empatía,Organización,Resolución de problemas",0,Alto,En revisión
+C052,Jacobo Mayol Jimenez,zaidaferrando@example.com,"diseño ux,java,nóminas,marketing",Bajo,"Negociación,Trabajo en equipo,Resolución de problemas",6,Alto,No contratado
+C053,Eulalia Calderón Roca,benaventeaurelio@example.net,"contabilidad,recursos humanos,python,finanzas",Medio,"Trabajo en equipo,Creatividad,Análisis,Atención al detalle",2,Alto,No contratado
+C054,Marciano Celestino Solana Gaya,ciro07@example.org,"contabilidad,desarrollo,nóminas,recursos humanos,prototipado,finanzas,marketing",Medio,"Comunicación efectiva,Trabajo en equipo,Negociación,Análisis",5,Medio,En revisión
+C055,Cándido Uría Puig,tamayopaula@example.org,"estrategia,finanzas,desarrollo,recursos humanos,impuestos",Alto,"Organización,Atención al detalle,Análisis,Comunicación efectiva",13,Medio,Contratado
+C056,Bibiana Rivero Pacheco,cabanillasagata@example.net,"impuestos,ui,finanzas,selección,recursos humanos,java,ventas",Alto,"Negociación,Empatía,Análisis,Atención al detalle",7,Medio,En revisión
+C057,Loreto Baños Cuervo,parejalalo@example.com,"nóminas,recursos humanos,contabilidad,ventas",Medio,"Análisis,Liderazgo,Comunicación efectiva",1,Medio,En revisión
+C058,Celia Feliu Carreño,calixtolago@example.com,"java,diseño ux,desarrollo,estrategia",Alto,"Comunicación efectiva,Organización",15,Bajo,Contratado
+C059,Emiliano Baeza,kfrias@example.net,"estrategia,ui,prototipado,finanzas,recursos humanos",Bajo,"Análisis,Organización,Empatía",6,Bajo,Contratado
+C060,Amador Ricardo Maldonado Pablo,tclavero@example.org,"desarrollo,nóminas,diseño ux,estrategia,finanzas,java,ventas",Bajo,"Organización,Liderazgo,Atención al detalle",11,Alto,Contratado
+C061,Apolinar Trinidad Cordero Coronado,toledoingrid@example.com,"impuestos,ui,recursos humanos,selección,nóminas,contabilidad",Alto,"Resolución de problemas,Empatía,Creatividad,Negociación",5,Bajo,En revisión
+C062,Herberto Anguita,pilar82@example.org,"diseño ux,marketing,selección,java,ventas",Bajo,"Negociación,Organización,Liderazgo",8,Medio,No contratado
+C063,Herberto del Baños,acontreras@example.org,"ui,contabilidad,selección,diseño ux,estrategia,java,impuestos",Medio,"Organización,Empatía,Atención al detalle",1,Bajo,En revisión
+C064,América Montaña-Gutiérrez,ripollraimundo@example.net,"marketing,desarrollo,ventas,python,contabilidad,selección",Medio,"Análisis,Trabajo en equipo,Creatividad",7,Medio,En revisión
+C065,Rafa Águila Uría,eva-mariabaeza@example.com,"impuestos,ventas,python,desarrollo",Alto,"Organización,Empatía,Liderazgo,Comunicación efectiva",11,Bajo,Contratado
+C066,Jorge Ribera Ibáñez,rosalinaandres@example.net,"desarrollo,estrategia,nóminas",Alto,"Comunicación efectiva,Creatividad,Atención al detalle,Análisis",4,Alto,Contratado
+C067,Soledad Figueroa Revilla,walterescriva@example.org,"python,selección,java,estrategia,ui,impuestos,finanzas",Medio,"Resolución de problemas,Organización,Liderazgo",4,Medio,En revisión
+C068,Juan Pablo Mascaró,asolera@example.com,"contabilidad,diseño ux,prototipado,ventas,estrategia,marketing,ui",Bajo,"Empatía,Comunicación efectiva",5,Medio,Contratado
+C069,Eleuterio Catalán-Casas,amigohector@example.org,"impuestos,finanzas,estrategia,marketing,desarrollo,java,diseño ux",Bajo,"Liderazgo,Negociación,Empatía,Organización",12,Alto,En revisión
+C070,Humberto Fuente Vila,yzapata@example.net,"ui,selección,python",Alto,"Resolución de problemas,Liderazgo,Empatía",3,Medio,No contratado
+C071,Rodolfo Bertrán Capdevila,leonomar@example.net,"recursos humanos,diseño ux,contabilidad,impuestos,desarrollo",Bajo,"Resolución de problemas,Creatividad,Empatía,Análisis",1,Medio,Contratado
+C072,Luis Bermúdez Gelabert,mayoluz@example.com,"nóminas,prototipado,marketing,contabilidad,ui,recursos humanos,selección",Alto,"Comunicación efectiva,Análisis,Atención al detalle",14,Alto,Contratado
+C073,Martina Giralt Cano,lcasanova@example.com,"impuestos,marketing,diseño ux,finanzas,python",Bajo,"Atención al detalle,Resolución de problemas",2,Alto,Contratado
+C074,Eliana Casado Pelayo,leonor93@example.net,"recursos humanos,impuestos,ventas",Bajo,"Comunicación efectiva,Empatía,Resolución de problemas",4,Alto,No contratado
+C075,Juan Bautista Herrero,blazquezduilio@example.org,"selección,diseño ux,desarrollo,prototipado,ui",Bajo,"Organización,Liderazgo,Negociación,Comunicación efectiva",1,Bajo,Contratado
+C076,Ale Crespo-Vallés,carlos23@example.org,"contabilidad,python,diseño ux,nóminas,estrategia,marketing,ui",Bajo,"Liderazgo,Trabajo en equipo,Empatía",10,Medio,Contratado
+C077,Herberto Manso Buendía,jovita03@example.net,"marketing,python,finanzas,ui,diseño ux,recursos humanos",Medio,"Comunicación efectiva,Trabajo en equipo",12,Medio,Contratado
+C078,Concha Cases Buendía,daniel09@example.net,"contabilidad,selección,impuestos",Bajo,"Negociación,Liderazgo,Resolución de problemas,Organización",11,Alto,Contratado
+C079,Dimas Vergara-Piñeiro,sonia09@example.com,"estrategia,recursos humanos,nóminas",Bajo,"Comunicación efectiva,Negociación,Liderazgo",5,Bajo,No contratado
+C080,Domitila Rozas Crespo,maite93@example.org,"impuestos,selección,marketing,estrategia,nóminas,contabilidad",Medio,"Negociación,Comunicación efectiva,Liderazgo",12,Alto,En revisión
+C081,Andrés Felipe Abellán Vera,chus49@example.net,"finanzas,estrategia,ventas,nóminas,selección,impuestos,desarrollo",Alto,"Resolución de problemas,Análisis,Empatía,Trabajo en equipo",3,Medio,En revisión
+C082,Jacinto Uribe Olivé,srobledo@example.org,"diseño ux,python,contabilidad",Bajo,"Resolución de problemas,Liderazgo,Comunicación efectiva,Creatividad",14,Medio,No contratado
+C083,Genoveva Matas Nogués,abadnazario@example.com,"java,marketing,finanzas,contabilidad,diseño ux,python,ui",Medio,"Organización,Comunicación efectiva,Creatividad,Atención al detalle",9,Bajo,Contratado
+C084,Concepción Vall Oller,cabad@example.net,"estrategia,java,diseño ux",Bajo,"Empatía,Liderazgo",15,Alto,Contratado
+C085,Isidro Milla-Ochoa,baronema@example.net,"recursos humanos,estrategia,selección,ventas,prototipado",Bajo,"Organización,Creatividad,Liderazgo,Resolución de problemas",1,Alto,Contratado
+C086,Amada de Carnero,vesparza@example.com,"nóminas,diseño ux,ui,python,desarrollo,prototipado,contabilidad",Medio,"Trabajo en equipo,Negociación,Organización",9,Bajo,En revisión
+C087,Gisela Llano Melero,iroda@example.net,"finanzas,contabilidad,marketing",Alto,"Trabajo en equipo,Negociación,Resolución de problemas",12,Bajo,En revisión
+C088,Anunciación Barrio Redondo,murocandelaria@example.net,"nóminas,impuestos,ui,diseño ux",Medio,"Resolución de problemas,Análisis",5,Medio,No contratado
+C089,Nazaret Vives Vizcaíno,odalystoledo@example.com,"prototipado,impuestos,estrategia,contabilidad",Alto,"Creatividad,Empatía,Resolución de problemas,Atención al detalle",14,Bajo,En revisión
+C090,Lucía Ainoa Izaguirre Montesinos,saldanapriscila@example.com,"recursos humanos,marketing,finanzas,java,selección,impuestos",Bajo,"Liderazgo,Organización",11,Bajo,En revisión
+C091,Carina de Plaza,zzamora@example.net,"ui,desarrollo,contabilidad,java,impuestos",Bajo,"Comunicación efectiva,Negociación,Creatividad",7,Medio,No contratado
+C092,Palmira Tur Solsona,bcompany@example.com,"python,estrategia,ventas,ui",Medio,"Creatividad,Organización,Trabajo en equipo",15,Bajo,Contratado
+C093,Calixto Olmedo-Ugarte,zpuig@example.org,"estrategia,ui,contabilidad",Alto,"Negociación,Creatividad,Liderazgo,Resolución de problemas",2,Alto,Contratado
+C094,Mauricio Mesa Lledó,yagosoler@example.org,"ventas,marketing,contabilidad",Medio,"Comunicación efectiva,Empatía,Negociación",0,Medio,No contratado
+C095,Josep Agullo Alvarado,cintia63@example.com,"impuestos,desarrollo,finanzas,selección",Alto,"Resolución de problemas,Empatía,Liderazgo",7,Alto,Contratado
+C096,Noé Rodrigo Colomer,bbaron@example.org,"java,recursos humanos,nóminas,contabilidad,python,selección,finanzas",Bajo,"Creatividad,Comunicación efectiva,Trabajo en equipo,Organización",3,Alto,No contratado
+C097,Rafael Morales Palomar,villarfortunato@example.com,"desarrollo,java,marketing,recursos humanos",Medio,"Liderazgo,Creatividad,Negociación,Trabajo en equipo",7,Medio,No contratado
+C098,Eufemia Falcón Manrique,fecheverria@example.com,"ventas,ui,nóminas",Alto,"Comunicación efectiva,Liderazgo,Creatividad",12,Medio,En revisión
+C099,Artemio Núñez Dalmau,frosa@example.org,"impuestos,recursos humanos,python,ui,estrategia,java,diseño ux",Alto,"Resolución de problemas,Atención al detalle",5,Bajo,En revisión
+C100,Ismael Francisco Juan,omarin@example.net,"python,prototipado,desarrollo",Medio,"Atención al detalle,Análisis,Resolución de problemas",5,Alto,En revisión
+C101,Segismundo Rosa Mendoza,violeta83@example.org,"nóminas,desarrollo,java,prototipado,contabilidad,selección,impuestos",Bajo,"Resolución de problemas,Organización",2,Alto,No contratado
+C102,Bernardo Chaves,tsosa@example.com,"desarrollo,selección,impuestos",Bajo,"Organización,Análisis,Comunicación efectiva,Negociación",2,Medio,En revisión
+C103,Eustaquio de Palacio,casalsbarbara@example.net,"nóminas,ui,estrategia,prototipado",Bajo,"Liderazgo,Organización,Resolución de problemas",13,Alto,No contratado
+C104,Erasmo Zaragoza Pera,ytenorio@example.org,"python,prototipado,nóminas,estrategia,java,contabilidad",Medio,"Comunicación efectiva,Atención al detalle,Empatía,Negociación",15,Alto,No contratado
+C105,Eli Alberdi-Diez,uquiros@example.com,"ui,diseño ux,finanzas,impuestos",Bajo,"Negociación,Atención al detalle,Liderazgo,Empatía",13,Medio,Contratado
+C106,Florina Muñoz Barros,trini08@example.net,"contabilidad,marketing,ventas,diseño ux,ui",Bajo,"Comunicación efectiva,Trabajo en equipo",10,Bajo,Contratado
+C107,Carmelita Tapia,rosariofajardo@example.org,"selección,nóminas,recursos humanos,ventas",Medio,"Atención al detalle,Liderazgo,Comunicación efectiva,Empatía",2,Bajo,En revisión
+C108,Amílcar Rodríguez,marquesesmeralda@example.net,"nóminas,selección,ventas,java,finanzas,desarrollo",Medio,"Empatía,Organización,Trabajo en equipo",12,Alto,Contratado
+C109,José Ángel Novoa Valenciano,pinomanuelita@example.com,"ui,estrategia,contabilidad,ventas,impuestos",Alto,"Resolución de problemas,Negociación",3,Medio,En revisión
+C110,Margarita Escamilla Múgica,jordalidia@example.net,"marketing,estrategia,nóminas,diseño ux",Medio,"Empatía,Atención al detalle,Comunicación efectiva,Liderazgo",10,Bajo,En revisión
+C111,Moisés Múñiz-Juliá,uolivera@example.com,"recursos humanos,selección,nóminas,finanzas,impuestos",Medio,"Negociación,Comunicación efectiva",6,Bajo,No contratado
+C112,Ariel Camacho-Santamaría,piquerwalter@example.org,"impuestos,nóminas,contabilidad,python,estrategia,recursos humanos,ventas",Medio,"Empatía,Creatividad",4,Alto,Contratado
+C113,Ezequiel Amat Hernandez,genovevabauza@example.net,"recursos humanos,ventas,nóminas,prototipado,contabilidad,ui",Bajo,"Creatividad,Comunicación efectiva",4,Bajo,No contratado
+C114,Rosario de Osuna,cferrero@example.com,"finanzas,recursos humanos,selección",Alto,"Negociación,Empatía,Comunicación efectiva",2,Bajo,En revisión
+C115,Régulo Iñiguez Ávila,apolonia05@example.net,"desarrollo,estrategia,diseño ux,java",Medio,"Negociación,Comunicación efectiva,Liderazgo,Atención al detalle",4,Bajo,No contratado
+C116,Édgar Porta Rocha,jeronimo15@example.net,"marketing,impuestos,selección,ventas,desarrollo,recursos humanos,contabilidad",Alto,"Organización,Comunicación efectiva,Resolución de problemas",3,Bajo,En revisión
+C117,Julieta Barral Garriga,catalina51@example.com,"marketing,estrategia,desarrollo,diseño ux,ui,nóminas",Alto,"Trabajo en equipo,Resolución de problemas,Negociación,Organización",14,Medio,En revisión
+C118,Jenny Múñiz Cabeza,isidro22@example.net,"desarrollo,python,impuestos,selección,prototipado",Medio,"Organización,Resolución de problemas",8,Alto,En revisión
+C119,Nayara Mireia Rovira Correa,haroldo44@example.com,"python,selección,java,impuestos,desarrollo,nóminas",Bajo,"Atención al detalle,Empatía,Creatividad,Comunicación efectiva",0,Alto,En revisión
+C120,Cirino Catalá,aguilaursula@example.org,"diseño ux,nóminas,python,recursos humanos,contabilidad",Bajo,"Resolución de problemas,Comunicación efectiva,Liderazgo,Organización",11,Medio,En revisión
+C121,Charo Ferrández Alvarado,caminoisabel@example.net,"diseño ux,selección,finanzas",Alto,"Resolución de problemas,Empatía,Comunicación efectiva,Análisis",8,Medio,En revisión
+C122,Blas Vélez,kllanos@example.com,"contabilidad,nóminas,prototipado,finanzas",Bajo,"Análisis,Resolución de problemas,Atención al detalle",3,Medio,No contratado
+C123,Bernardita Lillo Baró,baldomerotejera@example.org,"prototipado,java,contabilidad,recursos humanos,ventas,nóminas,ui",Medio,"Liderazgo,Comunicación efectiva,Organización,Empatía",10,Alto,Contratado
+C124,Remedios Gallego Palmer,millanleonardo@example.com,"nóminas,prototipado,diseño ux,python,recursos humanos,selección,ui",Bajo,"Empatía,Resolución de problemas",13,Bajo,En revisión
+C125,Baldomero Damián Rey Nicolau,dcasanova@example.net,"selección,nóminas,prototipado,java",Bajo,"Empatía,Comunicación efectiva,Análisis",7,Bajo,Contratado
+C126,Ariel Jáuregui Jordán,francisco-javiergil@example.org,"java,estrategia,diseño ux,selección,ventas,impuestos",Medio,"Análisis,Creatividad,Atención al detalle,Trabajo en equipo",0,Alto,No contratado
+C127,Nuria Goñi Chaves,agustinacanizares@example.com,"contabilidad,ui,selección,impuestos",Bajo,"Análisis,Atención al detalle",15,Bajo,No contratado
+C128,Jesús Arroyo-Páez,nunezguiomar@example.net,"ventas,java,diseño ux,impuestos,desarrollo,python,estrategia",Alto,"Comunicación efectiva,Trabajo en equipo,Organización",6,Bajo,No contratado
+C129,Valerio Carretero Sobrino,joselarrea@example.net,"nóminas,finanzas,python,estrategia,contabilidad,ui,diseño ux",Bajo,"Negociación,Resolución de problemas,Empatía",13,Alto,En revisión
+C130,Albina Marina Ramón Calderón,xbarco@example.org,"ui,estrategia,desarrollo,impuestos,recursos humanos,diseño ux,marketing",Alto,"Atención al detalle,Trabajo en equipo,Organización",13,Alto,Contratado
+C131,Jose Manuel Paz,natanaelcarbajo@example.org,"recursos humanos,marketing,selección",Medio,"Comunicación efectiva,Análisis,Resolución de problemas,Atención al detalle",13,Alto,Contratado
+C132,Ainoa Pagès-Lillo,gervasio12@example.net,"ui,recursos humanos,java",Alto,"Trabajo en equipo,Resolución de problemas,Liderazgo,Atención al detalle",2,Alto,Contratado
+C133,Xiomara Tello Laguna,mariana49@example.com,"marketing,impuestos,diseño ux,java,finanzas,desarrollo,contabilidad",Medio,"Negociación,Liderazgo,Creatividad",6,Bajo,No contratado
+C134,Modesta Rosselló-Bayo,pavonamando@example.com,"diseño ux,java,desarrollo,impuestos,ventas,contabilidad",Bajo,"Comunicación efectiva,Organización,Negociación,Empatía",11,Medio,Contratado
+C135,Fanny Macarena Barroso Noguera,jllabres@example.com,"contabilidad,java,impuestos",Medio,"Trabajo en equipo,Comunicación efectiva,Creatividad",3,Alto,Contratado
+C136,Isa Morillo Montes,wgarmendia@example.com,"contabilidad,ventas,selección,desarrollo,recursos humanos,ui",Medio,"Negociación,Liderazgo",14,Medio,No contratado
+C137,Primitivo Bolaños Vaquero,lidia32@example.com,"nóminas,java,ui",Medio,"Empatía,Atención al detalle,Resolución de problemas",11,Alto,Contratado
+C138,Anacleto Royo Aramburu,sofia54@example.com,"estrategia,python,ventas,ui,prototipado",Alto,"Organización,Atención al detalle,Análisis,Liderazgo",12,Medio,En revisión
+C139,Adelia Caballero Milla,tespada@example.net,"estrategia,nóminas,prototipado",Bajo,"Organización,Atención al detalle,Análisis,Comunicación efectiva",13,Alto,Contratado
+C140,Angelita Bonet-Blanca,acostacatalina@example.com,"impuestos,marketing,contabilidad,recursos humanos,selección,ui",Medio,"Empatía,Liderazgo",11,Medio,Contratado
+C141,León Somoza,casesagustina@example.net,"java,recursos humanos,contabilidad,prototipado,nóminas,python,ventas",Medio,"Creatividad,Liderazgo",0,Medio,Contratado
+C142,María Lillo-Puente,cgirona@example.org,"ui,estrategia,ventas,marketing,finanzas,desarrollo,diseño ux",Bajo,"Organización,Trabajo en equipo,Resolución de problemas,Empatía",1,Alto,En revisión
+C143,Héctor del Boada,yessica50@example.org,"contabilidad,python,diseño ux,java,finanzas,marketing,ventas",Medio,"Atención al detalle,Creatividad",8,Medio,En revisión
+C144,Encarnación Barranco Vigil,uizaguirre@example.net,"marketing,estrategia,ventas",Medio,"Empatía,Comunicación efectiva",6,Medio,En revisión
+C145,Elisa Quesada Gárate,kmontero@example.com,"diseño ux,java,selección",Medio,"Negociación,Empatía,Trabajo en equipo,Organización",2,Medio,En revisión
+C146,Osvaldo de Criado,silvestrebanos@example.org,"prototipado,ui,diseño ux",Medio,"Creatividad,Organización,Análisis",5,Alto,No contratado
+C147,Felisa Jordá Solana,gelabertleticia@example.org,"desarrollo,python,nóminas,diseño ux",Bajo,"Comunicación efectiva,Negociación",5,Medio,En revisión
+C148,Ema Almeida Cueto,uprat@example.org,"python,contabilidad,finanzas",Alto,"Atención al detalle,Análisis,Negociación,Trabajo en equipo",0,Alto,No contratado
+C149,Aurora de Carro,jangulo@example.com,"marketing,java,ui",Alto,"Organización,Trabajo en equipo,Comunicación efectiva,Análisis",7,Bajo,Contratado
+C150,Hortensia de Jódar,torrensomar@example.com,"contabilidad,impuestos,estrategia,finanzas",Alto,"Comunicación efectiva,Organización",14,Medio,No contratado
+C151,Alfonso Acevedo Bertrán,bienvenida35@example.net,"ui,python,selección",Bajo,"Empatía,Organización",15,Bajo,No contratado
+C152,María Pilar Rosa Cornejo,colomersancho@example.net,"prototipado,desarrollo,ui,ventas,selección,java,marketing",Bajo,"Comunicación efectiva,Empatía,Negociación,Trabajo en equipo",1,Medio,Contratado
+C153,Inmaculada de Isern,lourdespalomares@example.org,"selección,java,diseño ux",Medio,"Resolución de problemas,Atención al detalle,Negociación,Comunicación efectiva",6,Bajo,Contratado
+C154,Amada Castelló Colomer,susana53@example.org,"selección,ventas,prototipado,python,finanzas",Alto,"Creatividad,Comunicación efectiva,Empatía",5,Alto,En revisión
+C155,Eulalia Arcos Bastida,zbonet@example.com,"desarrollo,java,estrategia,impuestos,nóminas,contabilidad,ventas",Bajo,"Liderazgo,Análisis",3,Alto,En revisión
+C156,Flor Lucas Noguera,ferranjennifer@example.org,"contabilidad,python,nóminas",Bajo,"Atención al detalle,Comunicación efectiva",9,Alto,No contratado
+C157,Fermín Frutos Amat,lopezcarolina@example.net,"nóminas,impuestos,estrategia,prototipado,marketing",Alto,"Organización,Atención al detalle,Comunicación efectiva",0,Alto,No contratado
+C158,Horacio Vilar Nieto,sabinamelero@example.org,"python,finanzas,recursos humanos,diseño ux",Medio,"Atención al detalle,Creatividad,Trabajo en equipo",9,Medio,Contratado
+C159,Loreto de Perelló,ariel70@example.com,"recursos humanos,ventas,impuestos,ui,selección,finanzas",Alto,"Atención al detalle,Liderazgo,Trabajo en equipo",0,Bajo,No contratado
+C160,Zacarías Mate Haro,umarmol@example.com,"marketing,finanzas,recursos humanos",Medio,"Resolución de problemas,Atención al detalle",5,Bajo,No contratado
+C161,Reyna Escobar Iñiguez,javi35@example.org,"recursos humanos,java,finanzas,contabilidad,prototipado,estrategia",Medio,"Empatía,Negociación,Atención al detalle",13,Alto,No contratado
+C162,Patricio Páez,liliana71@example.net,"python,selección,diseño ux,java,marketing",Medio,"Organización,Trabajo en equipo,Resolución de problemas,Negociación",3,Bajo,No contratado
+C163,Charo Isa Aparicio Navarro,fito31@example.net,"java,estrategia,ui,ventas",Medio,"Liderazgo,Análisis,Resolución de problemas,Negociación",9,Bajo,En revisión
+C164,Merche Miralles Morcillo,heriberto30@example.com,"finanzas,contabilidad,diseño ux,python",Medio,"Atención al detalle,Organización,Creatividad,Comunicación efectiva",12,Medio,No contratado
+C165,Isaura Paredes Cózar,wvalenzuela@example.com,"prototipado,impuestos,recursos humanos,nóminas,selección,ventas",Medio,"Organización,Análisis,Comunicación efectiva,Atención al detalle",3,Medio,No contratado
+C166,Otilia Cordero-Marcos,nacho66@example.net,"desarrollo,impuestos,finanzas,recursos humanos,python,estrategia,java",Bajo,"Resolución de problemas,Liderazgo,Creatividad,Trabajo en equipo",10,Alto,En revisión
+C167,Morena Lago-Antón,guillenvictoria@example.com,"prototipado,java,impuestos,nóminas,diseño ux,contabilidad,ui",Alto,"Negociación,Empatía,Comunicación efectiva",8,Medio,Contratado
+C168,Sabina Ojeda,somozaeva-maria@example.net,"desarrollo,nóminas,ui,java,selección,ventas",Alto,"Comunicación efectiva,Atención al detalle,Liderazgo",1,Medio,No contratado
+C169,Imelda Arcos Chaparro,asensioiker@example.net,"prototipado,selección,java,ventas,python,estrategia",Bajo,"Análisis,Negociación",5,Medio,En revisión
+C170,Ariel Colomer Naranjo,gomissandra@example.org,"diseño ux,nóminas,impuestos,contabilidad,ventas",Bajo,"Análisis,Organización",3,Bajo,No contratado
+C171,Amparo Luisina Lucena Iriarte,casandra03@example.com,"java,estrategia,contabilidad,marketing",Alto,"Organización,Empatía,Trabajo en equipo",0,Medio,En revisión
+C172,Patricia Dávila Talavera,romeroruth@example.org,"prototipado,python,estrategia",Alto,"Resolución de problemas,Liderazgo,Creatividad",11,Bajo,En revisión
+C173,Ainara Criado Elorza,gertrudis92@example.com,"java,diseño ux,desarrollo",Bajo,"Resolución de problemas,Liderazgo",10,Medio,No contratado
+C174,Catalina del Barrena,tellezdomingo@example.net,"estrategia,diseño ux,java",Alto,"Trabajo en equipo,Negociación,Creatividad",15,Bajo,No contratado
+C175,Candelaria Rodrigo Buendía,eutropio39@example.org,"contabilidad,finanzas,nóminas,estrategia,selección,java",Bajo,"Comunicación efectiva,Atención al detalle,Resolución de problemas,Organización",1,Alto,Contratado
+C176,Coral del Plana,casanovaluis@example.com,"diseño ux,estrategia,ui,marketing,prototipado,ventas,impuestos",Bajo,"Creatividad,Comunicación efectiva,Resolución de problemas",3,Bajo,No contratado
+C177,Dolores del Antón,mosorio@example.org,"finanzas,selección,impuestos,estrategia",Bajo,"Atención al detalle,Organización",12,Bajo,Contratado
+C178,Pío Ramis Huerta,pmoles@example.org,"nóminas,marketing,java,prototipado,finanzas",Bajo,"Resolución de problemas,Empatía,Negociación,Creatividad",10,Bajo,No contratado
+C179,Jerónimo Fuentes Flores,roldanseveriano@example.net,"estrategia,contabilidad,python",Bajo,"Empatía,Liderazgo,Organización",8,Medio,No contratado
+C180,Fabián Castejón Posada,ariasmaria@example.com,"recursos humanos,ventas,selección,python,contabilidad,estrategia",Medio,"Liderazgo,Atención al detalle",13,Bajo,En revisión
+C181,Aurelia Cerro,yrocha@example.net,"selección,ventas,python,java,estrategia,ui,prototipado",Alto,"Organización,Comunicación efectiva",13,Alto,Contratado
+C182,Carlota Vázquez Tur,raramburu@example.net,"ui,prototipado,java",Medio,"Atención al detalle,Resolución de problemas",2,Bajo,En revisión
+C183,Etelvina Rosario Elías Ocaña,francoevangelina@example.net,"ui,finanzas,recursos humanos",Alto,"Negociación,Liderazgo,Creatividad",13,Alto,No contratado
+C184,Juana Nilda Mateu Abascal,sacristanluna@example.com,"ui,java,nóminas,desarrollo,diseño ux,finanzas",Alto,"Liderazgo,Negociación",14,Medio,No contratado
+C185,Jacobo Botella-España,aaznar@example.net,"diseño ux,selección,python,desarrollo,estrategia,recursos humanos,ui",Medio,"Análisis,Creatividad,Resolución de problemas",14,Bajo,Contratado
+C186,Eusebio Olivera-Español,yferrando@example.org,"ventas,impuestos,diseño ux,nóminas",Alto,"Comunicación efectiva,Negociación,Empatía",15,Medio,No contratado
+C187,María Ángeles de Escribano,adan30@example.org,"finanzas,ui,estrategia",Medio,"Negociación,Atención al detalle",6,Alto,Contratado
+C188,Yago Pineda Bueno,satienza@example.org,"finanzas,prototipado,desarrollo",Bajo,"Organización,Trabajo en equipo,Análisis",10,Bajo,No contratado
+C189,Marc Mínguez,villanacho@example.com,"estrategia,java,impuestos,marketing,recursos humanos,contabilidad",Bajo,"Análisis,Creatividad,Atención al detalle,Liderazgo",3,Alto,No contratado
+C190,Graciano Mesa Ríos,efrain49@example.com,"contabilidad,python,estrategia,prototipado",Medio,"Trabajo en equipo,Análisis,Liderazgo",8,Alto,En revisión
+C191,Georgina Soto Azorin,juan-bautista82@example.com,"recursos humanos,desarrollo,estrategia,marketing",Medio,"Negociación,Resolución de problemas,Creatividad,Empatía",1,Alto,Contratado
+C192,Chema Puerta Paz,pjorda@example.com,"prototipado,ventas,marketing,contabilidad,selección,finanzas",Medio,"Negociación,Creatividad,Empatía",6,Bajo,En revisión
+C193,Mateo Hoz Carrión,roblesmarcelo@example.com,"marketing,desarrollo,estrategia,finanzas,diseño ux,ui,java",Medio,"Análisis,Trabajo en equipo,Liderazgo",3,Bajo,Contratado
+C194,Amada Comas Montesinos,tiniesta@example.org,"java,marketing,ventas,ui",Bajo,"Negociación,Resolución de problemas,Organización,Atención al detalle",10,Bajo,Contratado
+C195,Celestina Álamo Huerta,jeronimosolis@example.org,"estrategia,marketing,ui,contabilidad,java",Bajo,"Organización,Liderazgo,Atención al detalle",3,Medio,No contratado
+C196,Alfonso Juan José Boix Milla,andreamuro@example.net,"impuestos,java,desarrollo",Medio,"Negociación,Liderazgo",14,Alto,Contratado
+C197,Gervasio Ferrer-Querol,zaira33@example.org,"selección,prototipado,python",Bajo,"Liderazgo,Trabajo en equipo,Análisis",0,Medio,No contratado
+C198,Nayara Exposito Pedrosa,teodoradominguez@example.com,"selección,desarrollo,ui,contabilidad,finanzas,marketing",Bajo,"Trabajo en equipo,Liderazgo,Análisis,Comunicación efectiva",8,Alto,Contratado
+C199,Caridad Pablo Alonso,bertaperalta@example.net,"recursos humanos,python,ventas,ui,nóminas",Medio,"Análisis,Comunicación efectiva,Empatía",6,Bajo,No contratado
+C200,Aristides Norberto Sanz Cabañas,lluchapolinar@example.net,"prototipado,python,nóminas,desarrollo,diseño ux,impuestos",Alto,"Trabajo en equipo,Atención al detalle",7,Alto,En revisión
+C201,Feliciana Cruz Cornejo,santiagosabina@example.org,"prototipado,nóminas,contabilidad",Bajo,"Trabajo en equipo,Resolución de problemas",10,Alto,No contratado
+C202,Juan Francisco Font Ferreras,norbertocano@example.org,"java,desarrollo,impuestos,estrategia,ui,nóminas,selección",Alto,"Negociación,Análisis,Trabajo en equipo",13,Medio,Contratado
+C203,Federico Mariano Iglesias Toledo,graciazamora@example.org,"python,impuestos,desarrollo",Alto,"Análisis,Atención al detalle",6,Medio,Contratado
+C204,Custodia Reyna Alonso Moles,domitila24@example.org,"contabilidad,selección,recursos humanos,ventas",Alto,"Resolución de problemas,Comunicación efectiva",9,Bajo,No contratado
+C205,Godofredo Hervia Sáez,velazquezmar@example.com,"ui,nóminas,recursos humanos,desarrollo,selección,java",Alto,"Negociación,Comunicación efectiva,Liderazgo",14,Medio,No contratado
+C206,Nacho Villar,joan38@example.net,"nóminas,ui,estrategia,ventas,contabilidad",Alto,"Liderazgo,Negociación",10,Medio,Contratado
+C207,Áurea Mercedes Bello Carrasco,lucia02@example.com,"desarrollo,ventas,finanzas",Bajo,"Creatividad,Organización,Resolución de problemas",5,Medio,No contratado
+C208,Jaime Murcia Barral,agueda49@example.net,"selección,python,ui",Medio,"Liderazgo,Atención al detalle,Resolución de problemas",3,Medio,Contratado
+C209,Felisa Luís Vara,zflor@example.net,"ventas,nóminas,java,diseño ux,marketing,impuestos",Medio,"Creatividad,Resolución de problemas,Trabajo en equipo,Liderazgo",9,Alto,Contratado
+C210,Olegario Noriega Revilla,olegario44@example.net,"desarrollo,python,prototipado,diseño ux",Medio,"Liderazgo,Organización",2,Bajo,No contratado
+C211,Santiago Pardo,maria27@example.org,"finanzas,diseño ux,python,recursos humanos,estrategia",Bajo,"Atención al detalle,Empatía,Trabajo en equipo,Organización",13,Medio,En revisión
+C212,Apolonia Rosado Sebastián,romanraquel@example.com,"ui,python,finanzas,impuestos,estrategia",Medio,"Comunicación efectiva,Análisis,Trabajo en equipo,Creatividad",6,Alto,Contratado
+C213,Manuelita Mateos,borjaazorin@example.net,"python,desarrollo,nóminas,finanzas,prototipado,contabilidad",Medio,"Análisis,Liderazgo",0,Alto,Contratado
+C214,Fortunato del Pastor,juliobas@example.org,"java,impuestos,marketing,selección,diseño ux",Alto,"Análisis,Negociación,Resolución de problemas,Atención al detalle",7,Medio,No contratado
+C215,Paola Arribas Balaguer,marinoleandra@example.com,"desarrollo,diseño ux,prototipado,selección",Bajo,"Resolución de problemas,Trabajo en equipo,Creatividad,Negociación",10,Medio,En revisión
+C216,Soraya Palomar Morera,amando59@example.org,"estrategia,python,desarrollo,ui,prototipado,java,nóminas",Medio,"Negociación,Creatividad",11,Medio,No contratado
+C217,Américo Serna,pedreroromulo@example.org,"contabilidad,ui,finanzas,estrategia,ventas",Alto,"Trabajo en equipo,Análisis,Organización,Comunicación efectiva",10,Alto,En revisión
+C218,Ana Sofía Barroso Roldan,iriarteviviana@example.com,"desarrollo,nóminas,prototipado,diseño ux,java",Medio,"Organización,Trabajo en equipo,Liderazgo,Empatía",8,Bajo,No contratado
+C219,Román Torres Amador,vlarrea@example.org,"selección,marketing,python,prototipado,desarrollo,finanzas,ventas",Bajo,"Organización,Liderazgo,Empatía,Trabajo en equipo",5,Alto,En revisión
+C220,Magdalena Laura Dalmau Casas,albina57@example.com,"impuestos,recursos humanos,selección,estrategia,ventas",Medio,"Comunicación efectiva,Creatividad,Atención al detalle,Organización",3,Medio,Contratado
+C221,Margarita Barceló Montero,bernarda80@example.org,"ventas,nóminas,estrategia,desarrollo,finanzas,selección,impuestos",Bajo,"Comunicación efectiva,Análisis,Empatía",9,Alto,Contratado
+C222,Azucena Escudero Rincón,rserra@example.com,"ventas,finanzas,prototipado",Alto,"Trabajo en equipo,Empatía",1,Alto,Contratado
+C223,Paola Jessica Aragón Bauzà,carlota28@example.com,"desarrollo,marketing,python,impuestos,recursos humanos",Medio,"Resolución de problemas,Negociación",9,Bajo,En revisión
+C224,Bernabé de Galán,amador58@example.com,"desarrollo,marketing,ui,nóminas,ventas,selección",Bajo,"Empatía,Comunicación efectiva,Atención al detalle,Organización",2,Alto,En revisión
+C225,Rolando Ildefonso Roda Acevedo,tferreras@example.com,"marketing,ui,impuestos,diseño ux",Alto,"Resolución de problemas,Comunicación efectiva,Análisis,Negociación",11,Medio,En revisión
+C226,Perla Mayoral Valera,poncebonifacio@example.org,"java,marketing,impuestos,recursos humanos,desarrollo",Medio,"Comunicación efectiva,Empatía",10,Bajo,No contratado
+C227,Rico Moraleda Merino,acunaisidoro@example.net,"estrategia,prototipado,recursos humanos",Alto,"Trabajo en equipo,Comunicación efectiva",11,Alto,No contratado
+C228,Eusebia del Blázquez,gcarbonell@example.com,"ventas,impuestos,java,diseño ux,finanzas",Bajo,"Trabajo en equipo,Creatividad",9,Bajo,En revisión
+C229,Martina del Tudela,alexroldan@example.com,"estrategia,finanzas,marketing,diseño ux,java,prototipado,desarrollo",Alto,"Atención al detalle,Organización,Creatividad,Análisis",8,Alto,Contratado
+C230,Cristian Dalmau Jimenez,olujan@example.net,"selección,nóminas,finanzas,java,desarrollo,diseño ux",Bajo,"Resolución de problemas,Atención al detalle,Empatía",8,Bajo,En revisión
+C231,Evaristo Villegas-Duran,galvezgregorio@example.com,"diseño ux,selección,marketing,prototipado,contabilidad",Alto,"Atención al detalle,Trabajo en equipo,Organización,Liderazgo",14,Medio,En revisión
+C232,Amaro Silva Ureña,amobalduino@example.org,"desarrollo,selección,python,java,recursos humanos,contabilidad",Alto,"Comunicación efectiva,Resolución de problemas,Trabajo en equipo,Empatía",3,Alto,Contratado
+C233,Sandalio del Ortuño,tpalomares@example.net,"finanzas,recursos humanos,contabilidad,python,marketing,java,nóminas",Bajo,"Atención al detalle,Organización,Negociación,Liderazgo",10,Alto,Contratado
+C234,Benigno Fábregas,qvalles@example.org,"contabilidad,marketing,selección,recursos humanos",Alto,"Comunicación efectiva,Trabajo en equipo,Creatividad",0,Bajo,Contratado
+C235,Paula Verdugo Manrique,emonreal@example.com,"contabilidad,python,prototipado,recursos humanos,ui,diseño ux,finanzas",Bajo,"Liderazgo,Creatividad",13,Alto,En revisión
+C236,María Ángeles Belmonte Armengol,bolmo@example.net,"finanzas,estrategia,selección,desarrollo,impuestos,recursos humanos,java",Medio,"Negociación,Atención al detalle,Liderazgo,Trabajo en equipo",10,Alto,Contratado
+C237,Candela Larrañaga,capdeviladanilo@example.org,"nóminas,contabilidad,desarrollo,marketing,selección,diseño ux",Medio,"Liderazgo,Atención al detalle,Creatividad,Comunicación efectiva",12,Bajo,Contratado
+C238,Demetrio Tur Sierra,silvia24@example.net,"ui,estrategia,contabilidad,ventas,nóminas,desarrollo",Alto,"Creatividad,Negociación",13,Alto,No contratado
+C239,Candelaria Nebot Ramírez,leon43@example.org,"estrategia,impuestos,ventas,desarrollo",Medio,"Negociación,Trabajo en equipo,Organización",13,Bajo,No contratado
+C240,Nicodemo Chamorro Almagro,ester72@example.org,"desarrollo,impuestos,ui,ventas",Medio,"Creatividad,Negociación",5,Medio,Contratado
+C241,Encarnación Falcó-Sosa,dionisiafonseca@example.net,"ventas,estrategia,impuestos,nóminas",Bajo,"Atención al detalle,Comunicación efectiva,Empatía,Liderazgo",15,Medio,En revisión
+C242,Candelario Peñas Sanabria,grauolga@example.com,"recursos humanos,ventas,finanzas,impuestos",Medio,"Empatía,Comunicación efectiva,Atención al detalle,Creatividad",4,Bajo,Contratado
+C243,Paola Gonzalo Herranz,fulgenciomarquez@example.net,"java,desarrollo,python,nóminas,finanzas",Medio,"Atención al detalle,Organización",5,Bajo,Contratado
+C244,Begoña Jove Vega,leocadia36@example.net,"prototipado,finanzas,contabilidad,estrategia,ui,nóminas",Bajo,"Resolución de problemas,Atención al detalle,Liderazgo",6,Bajo,Contratado
+C245,Máxima Sureda,miguelairiarte@example.com,"java,recursos humanos,ventas",Bajo,"Comunicación efectiva,Liderazgo",0,Medio,En revisión
+C246,Ana Sofía Esteban Escolano,qalcaraz@example.org,"recursos humanos,impuestos,finanzas,ventas,python,java,nóminas",Alto,"Empatía,Creatividad,Análisis",13,Alto,No contratado
+C247,Eli Pineda Madrigal,solerajaime@example.net,"ui,recursos humanos,estrategia,ventas,impuestos",Bajo,"Trabajo en equipo,Liderazgo,Empatía,Comunicación efectiva",3,Alto,Contratado
+C248,Quirino Andres Sedano,anabelagullo@example.org,"impuestos,python,desarrollo,marketing",Bajo,"Trabajo en equipo,Organización,Liderazgo,Comunicación efectiva",4,Alto,Contratado
+C249,Fausto Palomino-Girona,valcarcelencarna@example.com,"prototipado,finanzas,python,estrategia,impuestos,diseño ux,marketing",Medio,"Resolución de problemas,Atención al detalle,Liderazgo",5,Bajo,Contratado
+C250,Maxi Tomé Cervera,inmaculada41@example.net,"prototipado,nóminas,impuestos,selección",Bajo,"Organización,Trabajo en equipo,Liderazgo,Empatía",10,Medio,En revisión
+C251,Mireia Bertrán-Zaragoza,pugaamor@example.net,"ui,python,diseño ux",Alto,"Organización,Liderazgo,Atención al detalle",3,Bajo,En revisión
+C252,Angelita Pujadas Quirós,jose-antoniocastilla@example.com,"diseño ux,contabilidad,ui,nóminas,selección,recursos humanos,prototipado",Bajo,"Trabajo en equipo,Análisis,Organización,Liderazgo",3,Alto,Contratado
+C253,Georgina Salvà Palomino,pradaeugenio@example.net,"selección,contabilidad,recursos humanos",Alto,"Análisis,Negociación",13,Medio,Contratado
+C254,Ema Cayetana Velasco Rebollo,estela40@example.com,"java,ui,contabilidad",Alto,"Negociación,Organización,Atención al detalle,Comunicación efectiva",14,Medio,Contratado
+C255,Régulo Morales Sastre,nacho32@example.com,"python,selección,ventas,finanzas",Medio,"Resolución de problemas,Negociación,Atención al detalle",8,Alto,En revisión
+C256,Rosario Melero-Lopez,ogomez@example.net,"estrategia,ventas,finanzas",Medio,"Organización,Análisis",2,Bajo,No contratado
+C257,Adán Becerra Río,wmoya@example.com,"java,estrategia,nóminas",Bajo,"Creatividad,Análisis,Empatía",1,Alto,No contratado
+C258,Miguel Piña Vargas,figuerashilda@example.org,"marketing,finanzas,ui",Medio,"Resolución de problemas,Trabajo en equipo,Liderazgo",2,Bajo,No contratado
+C259,Paco Palacio Gámez,andresjennifer@example.org,"ventas,contabilidad,nóminas,selección,desarrollo",Alto,"Análisis,Negociación",11,Medio,No contratado
+C260,Lorenza Benavides,plazaadora@example.org,"java,estrategia,ui,contabilidad",Medio,"Negociación,Comunicación efectiva,Resolución de problemas,Organización",12,Alto,No contratado
+C261,Arturo Jacinto Cabeza Vilalta,ulisesjimenez@example.com,"contabilidad,ui,desarrollo,prototipado,nóminas,estrategia",Bajo,"Negociación,Comunicación efectiva,Empatía,Resolución de problemas",4,Medio,Contratado
+C262,Ismael Almagro Romero,paolagelabert@example.com,"finanzas,selección,estrategia,diseño ux,nóminas,desarrollo,python",Medio,"Atención al detalle,Negociación,Creatividad,Trabajo en equipo",8,Bajo,No contratado
+C263,Román Tormo Marco,drey@example.net,"prototipado,desarrollo,recursos humanos",Alto,"Resolución de problemas,Análisis",7,Alto,En revisión
+C264,Esmeralda Griselda Conde Menendez,loborodolfo@example.org,"diseño ux,marketing,selección,java,desarrollo,recursos humanos,python",Bajo,"Organización,Liderazgo,Empatía",5,Bajo,No contratado
+C265,Agustina Azcona Páez,ymerino@example.com,"ventas,marketing,impuestos",Alto,"Organización,Comunicación efectiva,Análisis,Atención al detalle",13,Bajo,No contratado
+C266,Pancho Rosell-Duarte,cabanashernando@example.net,"recursos humanos,marketing,contabilidad,nóminas,prototipado,selección",Alto,"Atención al detalle,Trabajo en equipo",3,Medio,No contratado
+C267,Estela Marí Arrieta,svelazquez@example.com,"diseño ux,estrategia,impuestos,finanzas,ventas,python,prototipado",Alto,"Empatía,Negociación,Resolución de problemas,Trabajo en equipo",7,Bajo,En revisión
+C268,Iván Pedrero Carpio,oliviacampos@example.org,"ventas,marketing,ui,finanzas",Alto,"Liderazgo,Comunicación efectiva,Análisis,Negociación",1,Bajo,En revisión
+C269,Piedad Bayón-Roselló,espanaconcha@example.net,"contabilidad,impuestos,recursos humanos,estrategia,nóminas,finanzas",Alto,"Liderazgo,Análisis",10,Bajo,En revisión
+C270,Nazario Camilo Godoy Luque,cescudero@example.com,"java,ventas,python",Bajo,"Empatía,Análisis",6,Bajo,Contratado
+C271,Pepita Rey Barranco,cornejocristobal@example.net,"prototipado,contabilidad,ui,marketing,python,selección",Medio,"Resolución de problemas,Organización",7,Medio,Contratado
+C272,Plinio Andrés Girón,adelaida66@example.net,"estrategia,diseño ux,ui,ventas,nóminas,python,prototipado",Medio,"Empatía,Negociación,Atención al detalle,Resolución de problemas",6,Medio,En revisión
+C273,Adora Bartolomé Mateo,verduvictor@example.com,"nóminas,recursos humanos,impuestos",Alto,"Liderazgo,Creatividad",2,Bajo,Contratado
+C274,Jacinta del Rovira,alberdifelicia@example.com,"java,python,desarrollo",Bajo,"Empatía,Creatividad",10,Bajo,Contratado
+C275,Trinidad Nazaret Tovar Arregui,wcarlos@example.org,"selección,python,prototipado,ventas,nóminas",Medio,"Análisis,Negociación,Resolución de problemas",15,Bajo,No contratado
+C276,Renato Girona Viñas,ftomas@example.net,"ventas,selección,contabilidad,nóminas,impuestos,desarrollo,prototipado",Alto,"Atención al detalle,Organización",9,Bajo,En revisión
+C277,Arsenio Villena Sabater,ysalazar@example.com,"impuestos,prototipado,marketing,selección,recursos humanos,diseño ux,estrategia",Medio,"Análisis,Atención al detalle,Resolución de problemas",3,Alto,No contratado
+C278,Narcisa del Samper,amadorportillo@example.org,"finanzas,ui,diseño ux,java,python,nóminas",Medio,"Resolución de problemas,Trabajo en equipo,Liderazgo,Negociación",9,Alto,Contratado
+C279,Teodora Casanovas,ofelialobo@example.com,"estrategia,diseño ux,java,ui,ventas,recursos humanos",Bajo,"Empatía,Resolución de problemas",1,Medio,Contratado
+C280,León Arco Ropero,rosa26@example.com,"python,estrategia,impuestos",Medio,"Negociación,Resolución de problemas,Análisis",2,Bajo,No contratado
+C281,Adelina Pera Salamanca,banosjose-carlos@example.org,"impuestos,contabilidad,nóminas,recursos humanos",Medio,"Liderazgo,Comunicación efectiva,Trabajo en equipo,Atención al detalle",9,Medio,En revisión
+C282,Eulalia Carrión Santos,icadenas@example.org,"marketing,selección,finanzas,desarrollo",Bajo,"Análisis,Creatividad,Trabajo en equipo",1,Medio,En revisión
+C283,Ceferino Azcona Palma,solsonaoctavia@example.com,"prototipado,estrategia,python,java,diseño ux,marketing,nóminas",Alto,"Trabajo en equipo,Resolución de problemas,Negociación,Organización",10,Medio,No contratado
+C284,Mirta Angelita Girón Campillo,ivanmateu@example.com,"desarrollo,ui,finanzas",Alto,"Resolución de problemas,Empatía,Análisis,Liderazgo",10,Bajo,No contratado
+C285,Rosenda Caballero-Bauzà,anselmoorozco@example.org,"selección,contabilidad,ui",Medio,"Negociación,Creatividad,Liderazgo",12,Medio,No contratado
+C286,Iker Cózar,rufinabru@example.com,"finanzas,recursos humanos,desarrollo,marketing,nóminas,diseño ux",Medio,"Análisis,Empatía",8,Bajo,No contratado
+C287,Azeneth Luisina Aragonés Cerdán,ecastilla@example.com,"contabilidad,recursos humanos,ventas,python,nóminas,finanzas,selección",Bajo,"Trabajo en equipo,Liderazgo,Empatía,Comunicación efectiva",8,Alto,No contratado
+C288,Blanca Céspedes,agustinanieto@example.org,"contabilidad,impuestos,nóminas,desarrollo,finanzas",Bajo,"Atención al detalle,Trabajo en equipo,Organización,Resolución de problemas",3,Alto,Contratado
+C289,Pepito Catalán Flores,montalbanmaristela@example.net,"estrategia,python,contabilidad,nóminas,java,diseño ux",Alto,"Organización,Empatía",3,Bajo,No contratado
+C290,Laura Jiménez Camps,macarena51@example.net,"diseño ux,marketing,impuestos,prototipado,java,nóminas,recursos humanos",Alto,"Atención al detalle,Resolución de problemas,Trabajo en equipo,Empatía",13,Medio,No contratado
+C291,Carmela Raya Duarte,cabezabenigno@example.org,"ventas,java,nóminas,marketing,desarrollo",Alto,"Creatividad,Resolución de problemas,Análisis",14,Medio,Contratado
+C292,Alfredo Sánchez Carnero,hvillalonga@example.com,"selección,diseño ux,nóminas,ui,prototipado",Bajo,"Liderazgo,Empatía",15,Bajo,En revisión
+C293,Lalo Delgado Perea,andrea68@example.net,"desarrollo,diseño ux,selección,ui,java,python",Alto,"Liderazgo,Atención al detalle,Trabajo en equipo,Empatía",10,Alto,En revisión
+C294,Jose Francisco Álvarez Amo,pratpacifica@example.org,"diseño ux,estrategia,recursos humanos,java,ventas,selección",Medio,"Negociación,Empatía,Trabajo en equipo",1,Alto,En revisión
+C295,Jessica Collado Serna,manzanaresdominga@example.net,"finanzas,ventas,impuestos,python,ui",Bajo,"Organización,Trabajo en equipo",4,Medio,Contratado
+C296,Fortunato Cañellas Bello,baezaurelia@example.com,"ventas,nóminas,prototipado,contabilidad,ui,diseño ux,estrategia",Medio,"Liderazgo,Resolución de problemas,Análisis",4,Medio,En revisión
+C297,Teodora Mesa,lorenzavilla@example.org,"diseño ux,desarrollo,estrategia,ui,selección",Medio,"Organización,Creatividad,Liderazgo,Atención al detalle",0,Alto,No contratado
+C298,Baltasar Ibarra Cañellas,maria-cristina21@example.org,"recursos humanos,marketing,ventas,finanzas,desarrollo,impuestos,estrategia",Bajo,"Organización,Trabajo en equipo,Análisis",10,Medio,En revisión
+C299,Nereida Cordero Cardona,ibancanton@example.com,"prototipado,diseño ux,nóminas,desarrollo,estrategia",Bajo,"Creatividad,Análisis",5,Medio,Contratado
+C300,Eusebio Roldán Campo,kaguilo@example.org,"prototipado,nóminas,impuestos,estrategia,diseño ux,selección,recursos humanos",Medio,"Creatividad,Análisis,Empatía,Negociación",11,Alto,No contratado
+C301,Sigfrido Torrijos-Lladó,carofilomena@example.net,"python,estrategia,nóminas,contabilidad,ui,selección",Alto,"Creatividad,Atención al detalle,Liderazgo",15,Bajo,En revisión
+C302,Trinidad Estrada Bilbao,rozasaitor@example.net,"diseño ux,nóminas,ui,desarrollo",Bajo,"Organización,Trabajo en equipo,Análisis,Comunicación efectiva",11,Bajo,No contratado
+C303,Sonia Merche Osorio Alba,dominguezdorotea@example.net,"estrategia,selección,contabilidad,desarrollo,recursos humanos",Alto,"Trabajo en equipo,Atención al detalle",13,Medio,No contratado
+C304,Visitación Mascaró Carrión,dazaisabela@example.org,"recursos humanos,selección,finanzas,desarrollo,diseño ux",Bajo,"Negociación,Análisis,Atención al detalle,Creatividad",7,Medio,En revisión
+C305,Leandra Isern Mesa,segismundo17@example.net,"diseño ux,recursos humanos,ventas",Bajo,"Resolución de problemas,Atención al detalle,Trabajo en equipo,Organización",3,Bajo,No contratado
+C306,Alfonso Adadia Pineda,cerveraisaura@example.org,"estrategia,selección,python,desarrollo",Medio,"Creatividad,Atención al detalle",14,Bajo,En revisión
+C307,Cristina Torralba Robledo,pilarlloret@example.net,"nóminas,desarrollo,ui,java,selección,prototipado",Alto,"Trabajo en equipo,Organización,Empatía",11,Medio,No contratado
+C308,Anna de Ferrera,pepitareguera@example.net,"selección,java,ventas",Alto,"Organización,Atención al detalle,Análisis,Empatía",15,Bajo,No contratado
+C309,Azahara Franco Vidal,aitorsolano@example.org,"selección,ventas,recursos humanos,impuestos,estrategia",Alto,"Organización,Empatía",3,Bajo,Contratado
+C310,Nydia Prieto Valera,manuelcastellanos@example.org,"marketing,selección,python,impuestos",Medio,"Trabajo en equipo,Liderazgo",10,Medio,No contratado
+C311,Jesús Montalbán Barros,evita72@example.com,"marketing,desarrollo,diseño ux,python",Bajo,"Organización,Análisis,Trabajo en equipo,Comunicación efectiva",15,Bajo,Contratado
+C312,Josefa Millán-Fuentes,fquiros@example.org,"java,python,ui,nóminas",Alto,"Creatividad,Atención al detalle,Análisis",4,Bajo,Contratado
+C313,Amador Chico,lbellido@example.net,"impuestos,finanzas,contabilidad,diseño ux,recursos humanos,selección,java",Medio,"Comunicación efectiva,Liderazgo",6,Medio,No contratado
+C314,Carmen del Díez,fito26@example.org,"desarrollo,recursos humanos,diseño ux,estrategia,contabilidad,java",Alto,"Análisis,Trabajo en equipo,Liderazgo",11,Bajo,Contratado
+C315,Amaro Prats Peláez,felix78@example.org,"contabilidad,diseño ux,nóminas,impuestos",Alto,"Comunicación efectiva,Liderazgo",7,Bajo,No contratado
+C316,Graciela Quintanilla Rocamora,narvaezainoa@example.com,"estrategia,ui,recursos humanos",Bajo,"Creatividad,Atención al detalle,Análisis",7,Medio,Contratado
+C317,Leandra Martinez-Uriarte,marianeira@example.net,"selección,ventas,desarrollo",Medio,"Análisis,Comunicación efectiva,Liderazgo,Trabajo en equipo",8,Alto,En revisión
+C318,Teresa Graciana Aragón Ros,corderojose-ignacio@example.com,"diseño ux,impuestos,python",Medio,"Trabajo en equipo,Empatía,Comunicación efectiva",3,Bajo,No contratado
+C319,Paloma Julia Bartolomé Clavero,roldan60@example.net,"python,recursos humanos,contabilidad,ui,ventas,prototipado,estrategia",Bajo,"Atención al detalle,Liderazgo,Creatividad",7,Bajo,En revisión
+C320,Abril Carballo Robles,lortega@example.com,"finanzas,prototipado,contabilidad,diseño ux,nóminas,desarrollo,ui",Bajo,"Organización,Atención al detalle",1,Medio,Contratado
+C321,Prudencia Ramón Fuster,haydee48@example.com,"selección,prototipado,nóminas",Bajo,"Atención al detalle,Resolución de problemas",9,Alto,Contratado
+C322,Paco Pedrero Gimeno,casandrapenas@example.org,"python,finanzas,impuestos,prototipado,selección,ui,recursos humanos",Alto,"Análisis,Trabajo en equipo,Atención al detalle",5,Medio,Contratado
+C323,Adelaida Donaire Valenciano,miguel13@example.com,"marketing,desarrollo,diseño ux,selección",Bajo,"Trabajo en equipo,Liderazgo",11,Alto,Contratado
+C324,Judith Barroso Patiño,felix47@example.org,"nóminas,java,impuestos",Bajo,"Resolución de problemas,Negociación",9,Medio,Contratado
+C325,Luciana Quintanilla Valls,rosariovizcaino@example.org,"prototipado,selección,recursos humanos",Medio,"Negociación,Creatividad,Resolución de problemas",10,Bajo,Contratado
+C326,Ana Belén de Montoya,osvaldo20@example.net,"recursos humanos,desarrollo,selección,ui",Bajo,"Atención al detalle,Análisis,Resolución de problemas,Creatividad",5,Bajo,En revisión
+C327,Cristina García Roldan,gromeu@example.org,"desarrollo,nóminas,ventas,selección,recursos humanos,estrategia,marketing",Bajo,"Trabajo en equipo,Análisis,Creatividad,Atención al detalle",15,Bajo,No contratado
+C328,Chus Román Mir,bplana@example.net,"impuestos,selección,python,prototipado,ui,finanzas",Medio,"Liderazgo,Negociación,Organización,Trabajo en equipo",4,Bajo,Contratado
+C329,Xavier Lillo Ayllón,gallardotoribio@example.net,"recursos humanos,diseño ux,nóminas,desarrollo",Bajo,"Empatía,Organización,Análisis,Resolución de problemas",2,Alto,Contratado
+C330,Eligia Zamora Hernando,jsantos@example.org,"prototipado,desarrollo,selección,recursos humanos,nóminas,java,python",Medio,"Comunicación efectiva,Liderazgo",12,Alto,Contratado
+C331,Abril Aguilar Guardia,menendezazahar@example.net,"finanzas,prototipado,diseño ux,marketing,impuestos",Medio,"Liderazgo,Trabajo en equipo",7,Bajo,No contratado
+C332,Haydée Arana,teodosio39@example.org,"java,prototipado,ventas,estrategia,nóminas",Alto,"Análisis,Resolución de problemas",6,Alto,No contratado
+C333,Corona del Castañeda,ana86@example.org,"finanzas,java,contabilidad,ui",Medio,"Trabajo en equipo,Negociación",9,Alto,Contratado
+C334,Espiridión Jordá Velázquez,bfuente@example.org,"desarrollo,finanzas,impuestos,diseño ux,recursos humanos",Medio,"Creatividad,Trabajo en equipo,Comunicación efectiva,Atención al detalle",5,Alto,Contratado
+C335,Emiliano Mohamed Herrera Rosado,jovecarmelita@example.net,"desarrollo,prototipado,impuestos,python,java",Alto,"Empatía,Comunicación efectiva,Atención al detalle",4,Alto,Contratado
+C336,Cloe de Parra,severianoblanch@example.org,"marketing,desarrollo,recursos humanos,java,python,prototipado",Bajo,"Comunicación efectiva,Atención al detalle,Negociación,Trabajo en equipo",1,Bajo,No contratado
+C337,Juan Manuel Montalbán Nogueira,higuerasfrancisco@example.org,"prototipado,desarrollo,impuestos,marketing,ui,ventas",Alto,"Atención al detalle,Resolución de problemas,Liderazgo",14,Alto,En revisión
+C338,Efraín Julián Bustamante Cabello,brunildapadilla@example.org,"estrategia,java,finanzas,recursos humanos,python,contabilidad,desarrollo",Alto,"Creatividad,Liderazgo,Empatía,Análisis",9,Medio,No contratado
+C339,Julián Sotelo Mercader,manufuertes@example.org,"python,selección,impuestos,ui,diseño ux,java",Alto,"Análisis,Resolución de problemas",10,Alto,Contratado
+C340,Mireia del Sosa,pulidomanuela@example.net,"recursos humanos,prototipado,finanzas,marketing,estrategia",Alto,"Análisis,Liderazgo,Negociación",3,Medio,En revisión
+C341,Cándida Gutiérrez-Alcántara,iburgos@example.net,"finanzas,java,ui,prototipado,diseño ux,ventas",Medio,"Empatía,Resolución de problemas,Análisis",13,Bajo,No contratado
+C342,Perla Llano Barrio,josep20@example.org,"nóminas,prototipado,selección,python,ventas,recursos humanos,impuestos",Bajo,"Resolución de problemas,Análisis,Organización,Creatividad",10,Medio,En revisión
+C343,Cecilio del Arnau,gclavero@example.net,"diseño ux,estrategia,prototipado,nóminas",Alto,"Organización,Empatía",8,Medio,No contratado
+C344,Emma Quevedo Alarcón,victor80@example.net,"ui,recursos humanos,estrategia,diseño ux,marketing,nóminas",Medio,"Trabajo en equipo,Empatía,Creatividad,Comunicación efectiva",5,Bajo,En revisión
+C345,Itziar Escudero,griera@example.net,"recursos humanos,finanzas,estrategia,impuestos,diseño ux,contabilidad",Bajo,"Negociación,Liderazgo,Trabajo en equipo",2,Alto,Contratado
+C346,Marta de Pinilla,maldonadoedelmiro@example.com,"prototipado,impuestos,selección,marketing,finanzas,estrategia",Medio,"Creatividad,Resolución de problemas,Trabajo en equipo,Negociación",2,Medio,Contratado
+C347,Dafne Torrecilla Miguel,herminiagil@example.net,"ui,ventas,estrategia,python,impuestos",Alto,"Creatividad,Análisis,Comunicación efectiva",5,Bajo,No contratado
+C348,Manu Blázquez Granados,aguilaserafina@example.net,"python,estrategia,prototipado",Medio,"Empatía,Resolución de problemas,Creatividad,Organización",6,Medio,En revisión
+C349,Camila Albero Botella,amparopino@example.org,"python,estrategia,impuestos",Medio,"Negociación,Resolución de problemas,Análisis",0,Bajo,No contratado
+C350,Dimas Aguilera Márquez,eusebiocampo@example.org,"nóminas,impuestos,finanzas,desarrollo,diseño ux,ventas,recursos humanos",Bajo,"Negociación,Liderazgo,Resolución de problemas",2,Medio,En revisión
+C351,Pablo Canales Castillo,falegria@example.com,"impuestos,diseño ux,java,python",Bajo,"Resolución de problemas,Creatividad",13,Bajo,Contratado
+C352,Isabel Luz,felisabenito@example.com,"python,nóminas,desarrollo,diseño ux,marketing,estrategia,ventas",Alto,"Negociación,Organización,Análisis,Trabajo en equipo",8,Bajo,En revisión
+C353,Desiderio Reyes Hernández Ribes,dorotea80@example.net,"ui,nóminas,recursos humanos,impuestos,marketing",Bajo,"Liderazgo,Análisis",11,Bajo,No contratado
+C354,Paca Palau Ríos,marianapareja@example.net,"recursos humanos,selección,desarrollo,contabilidad,ui",Bajo,"Comunicación efectiva,Empatía",6,Bajo,Contratado
+C355,Amancio Expósito Lasa,rmoya@example.org,"impuestos,desarrollo,nóminas,diseño ux,selección",Alto,"Trabajo en equipo,Organización",4,Bajo,En revisión
+C356,Beatriz León Lorenzo,lrojas@example.com,"prototipado,java,nóminas,ventas,estrategia,ui,impuestos",Medio,"Liderazgo,Comunicación efectiva,Negociación,Atención al detalle",0,Medio,Contratado
+C357,Norberto Ribes Cobo,juan-bautistamur@example.com,"estrategia,contabilidad,impuestos,desarrollo,java,marketing,ui",Bajo,"Resolución de problemas,Creatividad,Organización",3,Alto,No contratado
+C358,Xavier Martí-Jurado,ptalavera@example.net,"diseño ux,selección,finanzas,ui,contabilidad,prototipado",Bajo,"Negociación,Atención al detalle",11,Medio,En revisión
+C359,Adela Armas Santamaría,osalazar@example.org,"recursos humanos,ventas,estrategia,finanzas",Alto,"Creatividad,Comunicación efectiva,Análisis",3,Alto,No contratado
+C360,Régulo Tello,carla28@example.com,"marketing,nóminas,selección",Alto,"Análisis,Creatividad,Organización,Liderazgo",5,Bajo,Contratado
+C361,Raimundo Villalonga Barba,blancojose-ignacio@example.com,"recursos humanos,finanzas,impuestos,ui",Alto,"Creatividad,Liderazgo,Empatía,Organización",9,Medio,No contratado
+C362,Agustina Loida Carranza Diéguez,alegalan@example.org,"contabilidad,java,marketing,python,estrategia",Medio,"Comunicación efectiva,Empatía,Liderazgo,Organización",12,Medio,En revisión
+C363,Alfredo Aroca-Téllez,lmunoz@example.net,"python,ventas,desarrollo,impuestos,recursos humanos,java",Medio,"Negociación,Análisis",2,Alto,En revisión
+C364,Ofelia Gelabert,maristela38@example.net,"ventas,prototipado,recursos humanos,desarrollo,selección,marketing",Alto,"Organización,Liderazgo,Resolución de problemas,Negociación",14,Alto,No contratado
+C365,Omar Guillén,torrentjuan-manuel@example.com,"recursos humanos,prototipado,nóminas,finanzas,desarrollo",Medio,"Liderazgo,Creatividad,Empatía",10,Medio,Contratado
+C366,Lidia Ortiz-Sevillano,danfeijoo@example.org,"java,recursos humanos,python,ventas,prototipado,impuestos",Medio,"Atención al detalle,Análisis,Resolución de problemas",9,Alto,Contratado
+C367,Jennifer Santos,adadiaencarnacion@example.org,"finanzas,desarrollo,selección",Bajo,"Trabajo en equipo,Atención al detalle,Creatividad,Negociación",1,Alto,Contratado
+C368,Erasmo Benavent-Viña,galazapata@example.org,"prototipado,estrategia,python,selección,contabilidad,marketing",Medio,"Empatía,Comunicación efectiva",2,Medio,En revisión
+C369,Benita González Camacho,odalyspera@example.org,"contabilidad,recursos humanos,python,finanzas",Bajo,"Liderazgo,Empatía,Creatividad,Negociación",2,Medio,Contratado
+C370,Chuy Canet Espinosa,gcastell@example.com,"impuestos,marketing,python,estrategia,contabilidad",Alto,"Empatía,Comunicación efectiva,Trabajo en equipo,Atención al detalle",0,Alto,Contratado
+C371,Iván de Cabrero,florentinaboix@example.net,"prototipado,impuestos,ventas,diseño ux",Bajo,"Negociación,Creatividad,Resolución de problemas",11,Alto,No contratado
+C372,Maite Sacristán Perez,zsotelo@example.org,"estrategia,java,impuestos",Medio,"Organización,Comunicación efectiva,Liderazgo",11,Alto,En revisión
+C373,Chuy Escudero Toro,valleslilia@example.net,"ventas,ui,diseño ux,java,impuestos,desarrollo",Alto,"Atención al detalle,Negociación",15,Medio,No contratado
+C374,Teodosio Pelayo Carro,egallo@example.com,"estrategia,finanzas,nóminas",Bajo,"Análisis,Negociación,Liderazgo,Empatía",2,Bajo,En revisión
+C375,Visitación Cruz Uribe Paz,varcos@example.org,"selección,finanzas,python,diseño ux,prototipado",Alto,"Creatividad,Análisis",8,Medio,En revisión
+C376,Fabián Requena Mata,puigdulce@example.net,"contabilidad,ventas,desarrollo,ui,diseño ux",Alto,"Atención al detalle,Negociación",15,Medio,Contratado
+C377,Abril Mateo Frutos,donato29@example.com,"marketing,finanzas,diseño ux",Alto,"Organización,Comunicación efectiva,Empatía",8,Alto,No contratado
+C378,Paulina Canales Molina,flora21@example.net,"desarrollo,java,nóminas,recursos humanos",Bajo,"Trabajo en equipo,Liderazgo,Atención al detalle",8,Medio,Contratado
+C379,Herberto Frutos Quesada,virginiaperalta@example.com,"estrategia,python,ventas,ui,marketing,prototipado,selección",Medio,"Resolución de problemas,Liderazgo",12,Bajo,Contratado
+C380,Tania Eugenia Salom Cueto,ponsmaxima@example.com,"ventas,nóminas,python,marketing,ui,java",Bajo,"Trabajo en equipo,Negociación,Empatía",2,Bajo,No contratado
+C381,Aníbal Nogueira Aznar,kbauza@example.com,"ventas,desarrollo,marketing,recursos humanos",Alto,"Atención al detalle,Negociación,Resolución de problemas",12,Bajo,Contratado
+C382,José Luis Carnero,yaraujo@example.org,"ui,python,marketing,selección,java",Bajo,"Trabajo en equipo,Negociación,Organización,Liderazgo",5,Alto,No contratado
+C383,Donato Lledó-Egea,mateusandalio@example.org,"finanzas,java,recursos humanos,prototipado",Medio,"Empatía,Negociación,Organización",2,Bajo,En revisión
+C384,León Giménez Pombo,jserra@example.org,"finanzas,desarrollo,java,contabilidad,prototipado,selección,python",Bajo,"Resolución de problemas,Empatía",3,Medio,No contratado
+C385,Simón Manolo Vidal Carrión,saldanaaraceli@example.net,"desarrollo,marketing,python,diseño ux,contabilidad",Bajo,"Resolución de problemas,Análisis,Atención al detalle",11,Bajo,En revisión
+C386,Carla Pavón Castelló,eliasvillalobos@example.com,"recursos humanos,python,contabilidad,prototipado,ventas",Alto,"Empatía,Liderazgo,Creatividad",9,Alto,No contratado
+C387,Emilio Gutierrez-Roma,etirado@example.net,"recursos humanos,nóminas,ui,impuestos,selección,diseño ux,python",Alto,"Creatividad,Análisis,Organización,Resolución de problemas",4,Bajo,Contratado
+C388,Luisa Escudero Jimenez,tomasa94@example.org,"desarrollo,diseño ux,estrategia",Alto,"Resolución de problemas,Creatividad,Atención al detalle",14,Bajo,No contratado
+C389,Ricardo Checa Marin,azahar36@example.com,"desarrollo,ventas,nóminas,marketing,estrategia,prototipado",Bajo,"Empatía,Creatividad",13,Alto,En revisión
+C390,Luís Berrocal Cases,ocollado@example.com,"impuestos,desarrollo,prototipado,finanzas,marketing,recursos humanos",Bajo,"Liderazgo,Resolución de problemas,Trabajo en equipo,Análisis",11,Alto,En revisión
+C391,Domingo Vazquez-Cantón,edu86@example.net,"ui,prototipado,marketing,recursos humanos,impuestos",Bajo,"Resolución de problemas,Creatividad",7,Bajo,En revisión
+C392,Edelmira Pedro,ngonzalez@example.net,"contabilidad,finanzas,nóminas,estrategia,selección,java",Bajo,"Trabajo en equipo,Creatividad,Negociación,Análisis",1,Bajo,Contratado
+C393,Aurelia Bayona Coca,brunildaserra@example.com,"estrategia,desarrollo,ventas,java,recursos humanos,python,ui",Bajo,"Empatía,Trabajo en equipo,Creatividad",13,Alto,No contratado
+C394,Primitiva Velasco Guerrero,gvalles@example.org,"ui,contabilidad,estrategia,desarrollo",Alto,"Atención al detalle,Liderazgo,Comunicación efectiva",15,Bajo,Contratado
+C395,Anastasio Lledó Sevilla,fatimacorral@example.org,"ui,marketing,diseño ux,python,recursos humanos,contabilidad,prototipado",Bajo,"Negociación,Creatividad,Liderazgo",4,Alto,No contratado
+C396,Abigaíl Bellido Recio,vidal36@example.org,"prototipado,python,desarrollo",Alto,"Creatividad,Organización,Atención al detalle,Resolución de problemas",6,Alto,Contratado
+C397,Cristina Godoy Rocha,severiano80@example.org,"ventas,marketing,impuestos",Bajo,"Atención al detalle,Organización,Trabajo en equipo",2,Alto,No contratado
+C398,Maxi Ulises Ripoll Leal,haydee40@example.org,"impuestos,finanzas,selección,recursos humanos,java",Medio,"Análisis,Empatía,Trabajo en equipo",3,Medio,Contratado
+C399,Manolo Melero-Guardiola,miriamviana@example.net,"contabilidad,recursos humanos,nóminas",Alto,"Empatía,Comunicación efectiva,Creatividad,Liderazgo",12,Alto,No contratado
+C400,Carmina Amaya Arteaga,iker75@example.org,"recursos humanos,contabilidad,prototipado",Alto,"Resolución de problemas,Organización",10,Alto,En revisión
+C401,Adela de Moll,jose-angel27@example.org,"contabilidad,finanzas,selección,ventas,estrategia,prototipado,marketing",Bajo,"Creatividad,Organización,Resolución de problemas",2,Medio,Contratado
+C402,Marina de Borrego,berta86@example.com,"desarrollo,ui,nóminas,contabilidad,impuestos,marketing",Bajo,"Resolución de problemas,Análisis,Creatividad",4,Bajo,No contratado
+C403,Amador Gomez Amat,rosaclara@example.net,"diseño ux,java,nóminas,desarrollo,marketing,estrategia",Alto,"Empatía,Atención al detalle,Liderazgo,Organización",11,Alto,Contratado
+C404,Augusto Corral,uespanol@example.net,"contabilidad,recursos humanos,estrategia,desarrollo,impuestos,nóminas",Alto,"Trabajo en equipo,Creatividad,Comunicación efectiva",15,Medio,Contratado
+C405,Delfina Pulido Arias,aquevedo@example.net,"prototipado,nóminas,contabilidad,python",Bajo,"Liderazgo,Negociación",4,Alto,Contratado
+C406,Pastora Barrio Maldonado,eustaquiolillo@example.net,"ventas,python,nóminas,diseño ux,finanzas,contabilidad",Medio,"Comunicación efectiva,Trabajo en equipo",10,Alto,En revisión
+C407,Eulalia Rubio Corbacho,amatodalys@example.org,"estrategia,python,nóminas,ventas,contabilidad,desarrollo,impuestos",Bajo,"Negociación,Trabajo en equipo,Organización,Análisis",13,Medio,Contratado
+C408,Priscila Villalba Conde,garmendiajosep@example.net,"ventas,marketing,java,python,ui,nóminas,desarrollo",Alto,"Comunicación efectiva,Liderazgo,Empatía",3,Alto,En revisión
+C409,Wilfredo Carrasco Giralt,sernaamor@example.net,"java,desarrollo,contabilidad,ui",Alto,"Organización,Comunicación efectiva,Empatía",6,Alto,No contratado
+C410,Efraín Esteban Cano Alsina,bienvenida86@example.net,"contabilidad,ui,diseño ux,estrategia,desarrollo,nóminas",Medio,"Liderazgo,Atención al detalle",6,Bajo,En revisión
+C411,Luciana Maribel Gámez Abascal,javiles@example.org,"selección,java,ui,desarrollo,ventas,diseño ux,prototipado",Alto,"Negociación,Atención al detalle,Análisis,Empatía",9,Alto,No contratado
+C412,Felicia Olmedo Riquelme,adelinabellido@example.com,"estrategia,selección,recursos humanos,desarrollo,diseño ux",Medio,"Creatividad,Empatía,Atención al detalle",14,Bajo,No contratado
+C413,Luís Reig,vascomarco@example.org,"ui,diseño ux,java,impuestos,nóminas,contabilidad,finanzas",Alto,"Análisis,Comunicación efectiva",14,Bajo,En revisión
+C414,Susana de Morales,sarabiacrescencia@example.net,"impuestos,nóminas,recursos humanos,marketing,ui,java",Medio,"Creatividad,Empatía,Negociación,Liderazgo",11,Alto,No contratado
+C415,Gisela Ortiz Nicolás,salinassamu@example.org,"finanzas,python,contabilidad,ui",Alto,"Análisis,Creatividad",2,Medio,En revisión
+C416,Brígida Gargallo Donoso,nadiagaya@example.net,"diseño ux,finanzas,ventas,desarrollo,java,impuestos,recursos humanos",Bajo,"Comunicación efectiva,Organización",9,Alto,No contratado
+C417,Rolando Jordá Nadal,santiagovictor-manuel@example.net,"finanzas,selección,java",Alto,"Organización,Negociación,Empatía",14,Bajo,En revisión
+C418,Candelario Peralta Villar,ernestomir@example.org,"impuestos,contabilidad,marketing",Medio,"Resolución de problemas,Empatía",13,Alto,Contratado
+C419,Cecilia Chamorro Solsona,claudia18@example.org,"prototipado,desarrollo,contabilidad,java,python,finanzas",Medio,"Creatividad,Trabajo en equipo,Empatía,Atención al detalle",3,Alto,No contratado
+C420,Áurea Elodia Juliá Arana,carrascoprimitiva@example.com,"prototipado,estrategia,marketing,java,impuestos,finanzas",Bajo,"Atención al detalle,Trabajo en equipo,Comunicación efectiva,Análisis",13,Medio,En revisión
+C421,Ciro Andreu Fábregas,ovalcarcel@example.org,"finanzas,contabilidad,nóminas,ui",Medio,"Negociación,Trabajo en equipo,Comunicación efectiva",10,Medio,Contratado
+C422,Clementina Hoz Teruel,feliciano43@example.org,"ventas,recursos humanos,finanzas",Bajo,"Atención al detalle,Creatividad,Empatía,Análisis",5,Bajo,No contratado
+C423,Juan Bautista Segura Garcia,felipeyanez@example.org,"diseño ux,ventas,marketing,finanzas,java,contabilidad,selección",Alto,"Creatividad,Liderazgo,Atención al detalle",2,Medio,En revisión
+C424,Rosalva Albero-Vilar,zgodoy@example.org,"marketing,recursos humanos,impuestos,nóminas,estrategia",Bajo,"Comunicación efectiva,Análisis,Liderazgo,Atención al detalle",9,Alto,En revisión
+C425,Manola Espejo-Nuñez,natividad59@example.org,"contabilidad,recursos humanos,diseño ux,impuestos,marketing,prototipado,java",Alto,"Análisis,Empatía,Organización",13,Bajo,En revisión
+C426,Etelvina Malena Barco Morán,ferrermanolo@example.org,"prototipado,ventas,diseño ux,python,contabilidad,recursos humanos,selección",Bajo,"Análisis,Organización,Trabajo en equipo,Creatividad",12,Alto,Contratado
+C427,Jacinta Pellicer Vila,nacho75@example.org,"nóminas,finanzas,estrategia,ventas,diseño ux,java",Bajo,"Trabajo en equipo,Creatividad,Comunicación efectiva",15,Alto,Contratado
+C428,Luisa de Cabrero,paca64@example.com,"desarrollo,impuestos,nóminas",Bajo,"Negociación,Comunicación efectiva,Liderazgo",8,Alto,Contratado
+C429,Nélida del Quevedo,navascustodia@example.net,"java,selección,estrategia",Medio,"Atención al detalle,Liderazgo,Organización",3,Medio,Contratado
+C430,Manuel Esteban Pons,fabricio29@example.org,"impuestos,ui,java,nóminas,desarrollo,prototipado,estrategia",Bajo,"Trabajo en equipo,Negociación",1,Medio,En revisión
+C431,Jimena Marin Velasco,blascoatilio@example.com,"nóminas,estrategia,impuestos",Bajo,"Atención al detalle,Creatividad",14,Bajo,En revisión
+C432,Bartolomé del Nicolás,felicidad18@example.com,"desarrollo,estrategia,impuestos,python,contabilidad,ventas",Alto,"Organización,Resolución de problemas,Trabajo en equipo,Atención al detalle",11,Bajo,En revisión
+C433,Pastor Zorrilla Pérez,eusebio42@example.com,"impuestos,python,java",Alto,"Análisis,Comunicación efectiva,Organización",2,Bajo,En revisión
+C434,Abril Soria Planas,puigconcepcion@example.org,"prototipado,java,nóminas,recursos humanos",Bajo,"Empatía,Creatividad",12,Alto,No contratado
+C435,Ángela Pareja Cantero,ollerfrancisco@example.com,"contabilidad,prototipado,desarrollo,marketing,finanzas,nóminas,selección",Bajo,"Creatividad,Liderazgo,Trabajo en equipo",5,Bajo,Contratado
+C436,Violeta Sanchez Cobos,pedrazaalmudena@example.com,"python,contabilidad,recursos humanos",Alto,"Atención al detalle,Organización,Liderazgo,Análisis",15,Medio,En revisión
+C437,Joaquín Manzanares Riquelme,kcarreras@example.org,"java,contabilidad,recursos humanos,selección,diseño ux,python",Alto,"Organización,Resolución de problemas",1,Alto,No contratado
+C438,Cándido Severiano Rosselló Cabrera,caballerobenigna@example.com,"estrategia,recursos humanos,impuestos,marketing",Medio,"Resolución de problemas,Análisis,Organización,Liderazgo",8,Alto,En revisión
+C439,Fidela Acuña Bello,doritaaller@example.net,"recursos humanos,diseño ux,contabilidad,prototipado",Bajo,"Liderazgo,Organización,Negociación,Trabajo en equipo",5,Alto,No contratado
+C440,Manolo Acuña,moyafrancisca@example.org,"python,prototipado,java,recursos humanos",Alto,"Análisis,Creatividad",10,Medio,Contratado
+C441,Ceferino Marqués Aroca,nidiagarces@example.net,"ventas,selección,impuestos,diseño ux",Bajo,"Atención al detalle,Comunicación efectiva",3,Bajo,No contratado
+C442,Fidela Gimenez Chico,venceslas50@example.org,"prototipado,java,desarrollo,ui,nóminas,python",Bajo,"Empatía,Liderazgo,Negociación,Atención al detalle",12,Bajo,Contratado
+C443,Encarnación Ortuño,wcarnero@example.com,"diseño ux,contabilidad,finanzas,estrategia,python,marketing",Medio,"Análisis,Empatía",1,Medio,Contratado
+C444,Alberto Font Cabo,blascopelayo@example.com,"nóminas,estrategia,finanzas",Medio,"Trabajo en equipo,Análisis",10,Alto,En revisión
+C445,Lucía Valenciano Andreu,nmillan@example.net,"ventas,python,desarrollo,selección,finanzas",Alto,"Creatividad,Trabajo en equipo",1,Medio,No contratado
+C446,Román Sevilla Vergara,wgaliano@example.org,"marketing,java,desarrollo,impuestos,recursos humanos",Alto,"Comunicación efectiva,Empatía,Negociación",0,Alto,En revisión
+C447,Iván Cervantes-Artigas,tadeo21@example.com,"estrategia,nóminas,recursos humanos,desarrollo,finanzas",Bajo,"Resolución de problemas,Negociación,Atención al detalle",5,Alto,No contratado
+C448,Teófila del Pulido,chema40@example.net,"selección,ui,desarrollo,python",Medio,"Resolución de problemas,Organización,Comunicación efectiva",10,Alto,En revisión
+C449,Jacinto Garzón Vall,solanoromulo@example.net,"impuestos,diseño ux,desarrollo,finanzas,java,ventas,marketing",Alto,"Trabajo en equipo,Negociación",15,Alto,Contratado
+C450,Amada Solsona Riba,sofia74@example.net,"java,ventas,nóminas,selección,marketing,desarrollo",Alto,"Empatía,Trabajo en equipo,Liderazgo,Atención al detalle",5,Bajo,No contratado
+C451,Victoria Ballesteros Barros,loidaanaya@example.net,"marketing,impuestos,finanzas,selección,nóminas,recursos humanos,java",Medio,"Trabajo en equipo,Atención al detalle",13,Bajo,Contratado
+C452,Guiomar del Urrutia,dmatas@example.net,"recursos humanos,impuestos,ventas,selección,java,marketing",Alto,"Liderazgo,Empatía,Trabajo en equipo",15,Bajo,En revisión
+C453,Aitor Macias Amorós,sbuendia@example.net,"python,ui,prototipado,desarrollo,nóminas,estrategia,finanzas",Medio,"Análisis,Trabajo en equipo",0,Bajo,En revisión
+C454,Jose Carlos Izaguirre Gutierrez,rurrutia@example.com,"recursos humanos,python,prototipado",Bajo,"Creatividad,Resolución de problemas,Empatía",9,Bajo,No contratado
+C455,Fanny Jaén Briones,americocortes@example.net,"nóminas,contabilidad,java,selección,diseño ux,desarrollo",Bajo,"Trabajo en equipo,Comunicación efectiva",6,Medio,En revisión
+C456,Marcelo Chaparro Diaz,isaaccosta@example.net,"selección,nóminas,impuestos,ventas",Bajo,"Creatividad,Trabajo en equipo,Organización,Atención al detalle",6,Bajo,Contratado
+C457,Luciana Martín Cervera,ppol@example.net,"ventas,impuestos,nóminas,java,finanzas,ui,python",Alto,"Empatía,Organización,Resolución de problemas",11,Medio,Contratado
+C458,Narcisa Mayoral Carbó,florinda72@example.net,"impuestos,marketing,estrategia,contabilidad,ui,desarrollo,nóminas",Medio,"Negociación,Resolución de problemas,Organización,Atención al detalle",2,Bajo,Contratado
+C459,Isa Bauzà Alba,lborras@example.com,"nóminas,prototipado,desarrollo,finanzas,python,java,contabilidad",Alto,"Creatividad,Negociación,Resolución de problemas,Atención al detalle",11,Alto,No contratado
+C460,Ángela Camino Hervia,gonzalezruben@example.com,"ui,ventas,selección,marketing,nóminas,python",Alto,"Análisis,Trabajo en equipo",6,Bajo,En revisión
+C461,Teodora Zabaleta,rbas@example.org,"python,desarrollo,prototipado,nóminas",Bajo,"Trabajo en equipo,Negociación,Atención al detalle,Comunicación efectiva",1,Alto,En revisión
+C462,Isidoro Lupe Morcillo Prats,catalanfulgencio@example.com,"prototipado,nóminas,finanzas,contabilidad,recursos humanos,estrategia,impuestos",Medio,"Análisis,Empatía,Organización",0,Alto,Contratado
+C463,Matilde Morell Niño,jose-antoniocasado@example.org,"estrategia,diseño ux,recursos humanos",Medio,"Creatividad,Atención al detalle",5,Medio,Contratado
+C464,Ale Ríos,reginagutierrez@example.com,"python,ventas,estrategia,desarrollo,recursos humanos",Alto,"Atención al detalle,Empatía,Trabajo en equipo",13,Alto,No contratado
+C465,Sancho Severiano Montero Salmerón,danilo89@example.com,"desarrollo,nóminas,selección,finanzas,marketing,ventas",Bajo,"Creatividad,Comunicación efectiva,Atención al detalle",15,Medio,En revisión
+C466,Celia González Bartolomé,tecla31@example.com,"python,ui,impuestos,estrategia,prototipado",Bajo,"Empatía,Resolución de problemas,Comunicación efectiva,Atención al detalle",13,Medio,En revisión
+C467,Olivia de Quintanilla,amelianavarro@example.net,"ui,nóminas,impuestos,python,desarrollo,contabilidad,finanzas",Medio,"Organización,Empatía,Creatividad,Negociación",10,Bajo,Contratado
+C468,Rosaura Barral Reig,miguelaperalta@example.net,"prototipado,ventas,nóminas,contabilidad,diseño ux,desarrollo,impuestos",Bajo,"Trabajo en equipo,Creatividad,Análisis",15,Bajo,No contratado
+C469,Selena Adelaida Polo Garriga,mazagerardo@example.com,"finanzas,nóminas,selección,marketing",Bajo,"Liderazgo,Comunicación efectiva,Trabajo en equipo,Análisis",6,Bajo,No contratado
+C470,Bárbara Marín Rodriguez,leonardoespinosa@example.net,"prototipado,desarrollo,finanzas,ui,selección,ventas,estrategia",Alto,"Creatividad,Resolución de problemas",13,Alto,En revisión
+C471,Salud Sola Alvarez,vinaedu@example.net,"finanzas,selección,java",Bajo,"Negociación,Creatividad",3,Alto,No contratado
+C472,Valero del Ángel,cesarsaura@example.net,"java,estrategia,contabilidad,ventas",Medio,"Comunicación efectiva,Liderazgo,Análisis",9,Medio,No contratado
+C473,Dalila Roig Feijoo,andrademaria-pilar@example.net,"nóminas,diseño ux,python,prototipado",Alto,"Organización,Liderazgo,Análisis",10,Alto,En revisión
+C474,Noelia Mayol Zabaleta,vidalbenitez@example.net,"finanzas,ui,nóminas,desarrollo,estrategia,selección,recursos humanos",Medio,"Comunicación efectiva,Negociación,Análisis,Resolución de problemas",9,Bajo,En revisión
+C475,Eligia Sans Simó,jose-angel45@example.com,"diseño ux,estrategia,ventas,java,recursos humanos,finanzas",Alto,"Creatividad,Atención al detalle,Resolución de problemas",2,Medio,Contratado
+C476,Florina Ripoll Palau,cexposito@example.net,"java,python,diseño ux",Medio,"Análisis,Resolución de problemas,Empatía,Liderazgo",9,Medio,No contratado
+C477,Agapito Nuñez Hervia,tejedoramaya@example.net,"ventas,contabilidad,python",Medio,"Análisis,Liderazgo,Negociación",5,Medio,En revisión
+C478,Narciso Bueno Ibañez,hernan82@example.org,"python,diseño ux,ui,selección,finanzas,ventas",Alto,"Negociación,Liderazgo",3,Bajo,No contratado
+C479,Morena Verdugo Escalona,natalio48@example.net,"ventas,ui,prototipado,finanzas,impuestos,estrategia,desarrollo",Alto,"Trabajo en equipo,Organización,Liderazgo,Resolución de problemas",4,Alto,No contratado
+C480,Margarita Garriga Sola,antunezsalud@example.com,"java,contabilidad,desarrollo,ventas",Alto,"Organización,Análisis,Comunicación efectiva,Negociación",10,Bajo,Contratado
+C481,Adelaida Blazquez Bas,mbenavent@example.net,"contabilidad,desarrollo,finanzas,python,nóminas,java,ventas",Alto,"Organización,Atención al detalle",12,Bajo,No contratado
+C482,Joan Dávila Ramos,nbeltran@example.org,"diseño ux,contabilidad,marketing,ui,python",Medio,"Organización,Creatividad,Negociación",7,Alto,Contratado
+C483,Arsenio Cuervo,tvizcaino@example.com,"diseño ux,estrategia,contabilidad,recursos humanos,ventas",Medio,"Comunicación efectiva,Negociación,Trabajo en equipo",5,Alto,Contratado
+C484,Paloma Trillo Ramón,horacio29@example.org,"prototipado,ventas,marketing,desarrollo,java,diseño ux",Alto,"Análisis,Liderazgo",5,Medio,Contratado
+C485,Nerea Tolosa Salas,marindionisio@example.org,"recursos humanos,selección,prototipado,diseño ux",Alto,"Resolución de problemas,Trabajo en equipo",14,Alto,En revisión
+C486,Adelardo Rómulo Pinilla Font,felixalmazan@example.net,"python,desarrollo,recursos humanos,contabilidad,diseño ux",Bajo,"Organización,Análisis,Liderazgo,Atención al detalle",5,Medio,En revisión
+C487,Rolando de Bernal,morellsamanta@example.net,"nóminas,ventas,diseño ux,java,contabilidad,prototipado",Medio,"Liderazgo,Trabajo en equipo,Comunicación efectiva",11,Medio,Contratado
+C488,Rosa María Reina Sevilla,candelariocanals@example.com,"nóminas,ventas,python,ui,marketing,prototipado,java",Alto,"Análisis,Organización,Empatía,Trabajo en equipo",15,Alto,En revisión
+C489,Casemiro Juárez Granados,carlitoclemente@example.net,"ui,nóminas,diseño ux,finanzas,prototipado,impuestos",Bajo,"Análisis,Atención al detalle,Organización",3,Medio,En revisión
+C490,Reyna Barroso Bayón,pcortina@example.com,"contabilidad,java,selección,marketing,python",Bajo,"Comunicación efectiva,Empatía,Trabajo en equipo",6,Medio,No contratado
+C491,Úrsula Mateos-Escamilla,sebastiannieves@example.com,"nóminas,ventas,ui,impuestos,estrategia",Medio,"Atención al detalle,Comunicación efectiva,Creatividad,Trabajo en equipo",3,Alto,No contratado
+C492,Felipe Nicolás Saldaña,moratajose-angel@example.net,"python,finanzas,nóminas,estrategia,desarrollo,prototipado,ventas",Medio,"Comunicación efectiva,Resolución de problemas,Organización,Trabajo en equipo",8,Medio,En revisión
+C493,Estefanía Flor Peñas,romaeusebio@example.org,"java,contabilidad,nóminas,ui,diseño ux,prototipado,estrategia",Alto,"Organización,Creatividad,Trabajo en equipo",8,Medio,En revisión
+C494,Clara Arévalo Real,severogimeno@example.org,"finanzas,python,ui",Medio,"Empatía,Resolución de problemas,Atención al detalle,Liderazgo",2,Bajo,Contratado
+C495,Caridad Catalina Cañellas Bertrán,farnaiz@example.com,"python,selección,desarrollo,impuestos,prototipado,marketing,recursos humanos",Bajo,"Comunicación efectiva,Atención al detalle,Negociación",7,Medio,En revisión
+C496,Teodora Llorente Collado,cluque@example.org,"ventas,ui,selección,nóminas,python,prototipado",Alto,"Liderazgo,Organización",14,Alto,En revisión
+C497,Eufemia Fonseca Alba,cbarreda@example.net,"ventas,diseño ux,selección,finanzas,python",Medio,"Análisis,Atención al detalle,Comunicación efectiva",5,Alto,Contratado
+C498,Gabriel Corral Tormo,alondratorrecilla@example.net,"estrategia,selección,prototipado",Medio,"Organización,Empatía",9,Medio,Contratado
+C499,Natividad de Alemany,adanmonica@example.com,"desarrollo,selección,contabilidad,nóminas,marketing,ventas,impuestos",Medio,"Empatía,Análisis",13,Alto,Contratado
+C500,Sara Urrutia,valentinprimitivo@example.net,"selección,contabilidad,nóminas",Bajo,"Comunicación efectiva,Creatividad,Liderazgo",0,Medio,En revisión
+C501,Roldán Grande-Cabello,mauricio36@example.com,"ventas,finanzas,contabilidad,impuestos",Alto,"Atención al detalle,Empatía",12,Bajo,Contratado
+C502,Nilo Sebastian Solé Fortuny,tomasgala@example.com,"impuestos,java,marketing,selección",Alto,"Empatía,Análisis",5,Alto,No contratado
+C503,Nacio Menéndez,aureliovicens@example.com,"ventas,recursos humanos,desarrollo,diseño ux",Alto,"Análisis,Resolución de problemas,Comunicación efectiva,Organización",7,Bajo,No contratado
+C504,Juanito de Fernandez,macario92@example.com,"estrategia,contabilidad,desarrollo,ui",Bajo,"Empatía,Comunicación efectiva",2,Medio,En revisión
+C505,Saturnino Coll-Tomas,hermenegildo98@example.net,"contabilidad,desarrollo,finanzas,ui",Bajo,"Negociación,Liderazgo",3,Alto,No contratado
+C506,Tania de Pozo,maria-dolores96@example.org,"impuestos,python,desarrollo,diseño ux,selección,ui,finanzas",Bajo,"Trabajo en equipo,Empatía",13,Medio,No contratado
+C507,Luciano Edelmiro Portillo Rey,constanzaroman@example.org,"python,desarrollo,impuestos,prototipado",Bajo,"Atención al detalle,Empatía,Resolución de problemas",4,Alto,No contratado
+C508,Angelino Toro Heredia,benitagascon@example.com,"recursos humanos,selección,java",Alto,"Negociación,Atención al detalle",0,Medio,En revisión
+C509,Luís Collado Valero,domingo36@example.net,"nóminas,marketing,selección,prototipado,ventas,diseño ux,recursos humanos",Medio,"Trabajo en equipo,Negociación,Organización",5,Alto,Contratado
+C510,Amalia del Llopis,rostamara@example.org,"ventas,nóminas,marketing,recursos humanos,diseño ux,selección",Bajo,"Resolución de problemas,Empatía,Liderazgo,Comunicación efectiva",8,Alto,Contratado
+C511,Chita Sevillano Angulo,zchaparro@example.com,"python,prototipado,desarrollo,marketing,diseño ux,contabilidad,ui",Medio,"Comunicación efectiva,Empatía,Negociación",11,Medio,En revisión
+C512,Emperatriz Castilla Tudela,matilde33@example.net,"estrategia,selección,prototipado",Alto,"Comunicación efectiva,Organización",1,Bajo,En revisión
+C513,Santiago Diaz Hernandez,pastorespiridion@example.net,"estrategia,selección,ventas,finanzas,contabilidad,prototipado",Medio,"Creatividad,Empatía",14,Alto,Contratado
+C514,Tadeo Jáuregui Cañete,adan91@example.com,"contabilidad,selección,nóminas,java,marketing,ui",Bajo,"Resolución de problemas,Atención al detalle",8,Alto,No contratado
+C515,Gil Verdú-Bru,perellovictor@example.net,"nóminas,python,contabilidad,recursos humanos,finanzas,ui",Bajo,"Liderazgo,Atención al detalle",11,Medio,No contratado
+C516,Jordana Alba Hernández,gruano@example.net,"estrategia,diseño ux,python,impuestos",Medio,"Atención al detalle,Negociación,Comunicación efectiva",4,Bajo,No contratado
+C517,Cintia Mena Amigó,isalujan@example.net,"python,ui,desarrollo",Bajo,"Liderazgo,Atención al detalle",11,Medio,En revisión
+C518,Laura Palma-Sandoval,gfeliu@example.net,"java,selección,ui,estrategia,desarrollo,python,marketing",Alto,"Comunicación efectiva,Creatividad,Resolución de problemas",8,Medio,No contratado
+C519,Amor Emelina Suárez Lara,moratalucas@example.net,"diseño ux,prototipado,estrategia",Alto,"Creatividad,Resolución de problemas,Análisis,Empatía",2,Alto,En revisión
+C520,Vasco Guerra Segura,epifanioalemany@example.net,"prototipado,python,marketing,desarrollo,impuestos,finanzas,ventas",Medio,"Negociación,Empatía,Organización",9,Alto,Contratado
+C521,Amancio Perelló Ariza,fernando86@example.org,"ui,diseño ux,contabilidad,recursos humanos",Bajo,"Comunicación efectiva,Resolución de problemas,Trabajo en equipo",14,Medio,No contratado
+C522,Gervasio Baeza Fuentes,ariadna68@example.net,"diseño ux,ventas,contabilidad,java,recursos humanos",Alto,"Empatía,Resolución de problemas,Negociación,Comunicación efectiva",13,Bajo,En revisión
+C523,Isidoro Bayo Méndez,tomas20@example.com,"impuestos,prototipado,desarrollo",Medio,"Organización,Resolución de problemas",8,Bajo,En revisión
+C524,Pánfilo Sebastián Azcona,gtorrijos@example.net,"contabilidad,impuestos,estrategia,ui,python,finanzas",Alto,"Liderazgo,Creatividad,Análisis,Resolución de problemas",14,Bajo,No contratado
+C525,Pancho Morell-Arranz,iporcel@example.org,"contabilidad,diseño ux,impuestos,marketing,recursos humanos,nóminas,estrategia",Bajo,"Organización,Negociación",12,Alto,No contratado
+C526,Carlito Pedrero Esteban,coralsobrino@example.com,"prototipado,marketing,finanzas,selección",Bajo,"Creatividad,Organización,Comunicación efectiva",11,Medio,No contratado
+C527,Encarna Valderrama,yago05@example.org,"ui,desarrollo,estrategia,python,impuestos,selección,contabilidad",Medio,"Trabajo en equipo,Creatividad,Negociación",12,Bajo,Contratado
+C528,Goyo de Valdés,calixtorios@example.net,"nóminas,ventas,java",Bajo,"Atención al detalle,Trabajo en equipo,Creatividad",15,Alto,No contratado
+C529,Noé Lucas Rico Osuna,gloria81@example.com,"selección,marketing,finanzas",Bajo,"Trabajo en equipo,Análisis",12,Bajo,No contratado
+C530,Cipriano Acero Almansa,cornelio04@example.net,"ui,impuestos,python,java,prototipado,nóminas,diseño ux",Bajo,"Atención al detalle,Creatividad",9,Medio,No contratado
+C531,Blanca Valle Saavedra,vicensmagdalena@example.com,"desarrollo,recursos humanos,prototipado,nóminas,ui,diseño ux",Bajo,"Liderazgo,Empatía",3,Alto,Contratado
+C532,Otilia del Puerta,gcabanillas@example.org,"estrategia,ventas,selección,java,impuestos,finanzas,prototipado",Medio,"Liderazgo,Comunicación efectiva,Resolución de problemas,Organización",5,Bajo,En revisión
+C533,Rufino Barroso Lucas,hjulia@example.com,"recursos humanos,finanzas,python",Medio,"Atención al detalle,Resolución de problemas,Comunicación efectiva",12,Bajo,No contratado
+C534,Nereida Losada Amador,hermenegildo68@example.net,"contabilidad,impuestos,finanzas",Alto,"Negociación,Liderazgo,Empatía,Análisis",5,Alto,Contratado
+C535,Julio Barragán Busquets,juan-carlosvizcaino@example.org,"contabilidad,recursos humanos,estrategia,java,ventas,finanzas,diseño ux",Medio,"Creatividad,Atención al detalle",3,Bajo,No contratado
+C536,Jordana Carbajo Gaya,ricarda94@example.org,"ventas,contabilidad,impuestos,marketing",Alto,"Atención al detalle,Empatía,Comunicación efectiva",7,Medio,Contratado
+C537,Ovidio Cobos Alcázar,emilioquero@example.org,"marketing,impuestos,java,prototipado,desarrollo,finanzas",Medio,"Comunicación efectiva,Análisis",6,Medio,Contratado
+C538,Josefa Garzón Abad,emma89@example.net,"marketing,nóminas,diseño ux",Bajo,"Comunicación efectiva,Empatía",8,Bajo,Contratado
+C539,Marino Arranz Gomila,pomaresfabian@example.com,"ventas,marketing,ui",Bajo,"Trabajo en equipo,Organización",15,Bajo,En revisión
+C540,Román Villa-Vigil,rperal@example.com,"finanzas,desarrollo,contabilidad,recursos humanos",Medio,"Negociación,Liderazgo,Trabajo en equipo",2,Bajo,En revisión
+C541,Benito Pedro,jennyboada@example.org,"nóminas,finanzas,ui,java,selección",Medio,"Análisis,Negociación,Liderazgo",13,Alto,No contratado
+C542,Iker de Morell,bernabealvarez@example.org,"prototipado,selección,java",Bajo,"Comunicación efectiva,Empatía",3,Bajo,No contratado
+C543,Francisco Jose Santos Tomás Amor,colomanerea@example.org,"ui,nóminas,prototipado,desarrollo",Medio,"Negociación,Análisis,Comunicación efectiva",5,Alto,En revisión
+C544,Juanita Juan-Canals,umurcia@example.net,"marketing,contabilidad,ui,python",Alto,"Liderazgo,Organización",13,Medio,No contratado
+C545,Ruben Cámara Escribano,baragones@example.com,"recursos humanos,finanzas,nóminas,contabilidad",Medio,"Liderazgo,Negociación,Empatía",3,Medio,En revisión
+C546,Nazaret Valencia Perera,nlopez@example.com,"contabilidad,nóminas,marketing",Bajo,"Comunicación efectiva,Empatía,Atención al detalle",12,Alto,Contratado
+C547,Encarna Maura Acevedo Pujol,bautistahoz@example.net,"impuestos,estrategia,ventas",Alto,"Análisis,Negociación,Creatividad,Empatía",4,Bajo,No contratado
+C548,Eleuterio Almagro Mesa,belmonteelpidio@example.org,"selección,python,nóminas,diseño ux,finanzas,ventas",Alto,"Análisis,Comunicación efectiva",0,Alto,En revisión
+C549,Chita Pastor Tamarit,tenorioarmando@example.com,"finanzas,ventas,prototipado,selección",Medio,"Trabajo en equipo,Empatía",3,Alto,No contratado
+C550,Mercedes Tamarit Cardona,xgomis@example.net,"finanzas,nóminas,java,prototipado,ui",Alto,"Trabajo en equipo,Organización,Resolución de problemas,Atención al detalle",12,Alto,En revisión
+C551,Bárbara Padilla Sales,bauzabrunilda@example.org,"python,desarrollo,ventas,selección,impuestos",Alto,"Empatía,Análisis",0,Medio,No contratado
+C552,Tere Arteaga Estevez,rufinafeliu@example.org,"marketing,contabilidad,python,desarrollo,finanzas",Medio,"Atención al detalle,Empatía",1,Alto,En revisión
+C553,José Roman Bermejo,anselma38@example.org,"python,recursos humanos,finanzas,java",Alto,"Organización,Atención al detalle,Empatía,Trabajo en equipo",5,Medio,Contratado
+C554,Olga Cloe Raya Bayo,mosqueracesar@example.net,"impuestos,nóminas,desarrollo,diseño ux,recursos humanos,ui,marketing",Medio,"Trabajo en equipo,Atención al detalle,Empatía,Organización",11,Alto,En revisión
+C555,Diana Rodriguez Hervia,gaspargomez@example.net,"nóminas,prototipado,desarrollo,diseño ux,ventas,impuestos,estrategia",Alto,"Empatía,Liderazgo,Comunicación efectiva",14,Bajo,Contratado
+C556,Alfredo Catalán Ariño,peiroelodia@example.org,"nóminas,desarrollo,finanzas,prototipado,marketing,impuestos,diseño ux",Alto,"Creatividad,Negociación,Resolución de problemas",4,Bajo,En revisión
+C557,Nacio Martorell Sevillano,valentincarranza@example.org,"ui,desarrollo,diseño ux,estrategia,nóminas,recursos humanos,ventas",Alto,"Resolución de problemas,Creatividad",4,Medio,No contratado
+C558,Jose Luis Benito Ariño,blaspinedo@example.org,"ventas,marketing,python,selección,diseño ux",Alto,"Liderazgo,Atención al detalle,Creatividad",14,Bajo,No contratado
+C559,Elpidio Ureña Castell,lisandro29@example.net,"diseño ux,prototipado,nóminas",Bajo,"Análisis,Creatividad,Liderazgo",10,Alto,Contratado
+C560,Juan Francisco Larrea Mínguez,hmanuel@example.org,"finanzas,ventas,python,estrategia,ui",Medio,"Creatividad,Trabajo en equipo,Negociación,Comunicación efectiva",8,Bajo,En revisión
+C561,Leonel Manjón,zaraujo@example.org,"python,marketing,desarrollo,selección",Bajo,"Negociación,Organización,Liderazgo,Atención al detalle",14,Alto,Contratado
+C562,Miriam Pujol Riera,jvives@example.org,"impuestos,marketing,ventas,nóminas,finanzas,selección",Medio,"Organización,Atención al detalle,Negociación",9,Alto,En revisión
+C563,Matilde Gomila Morante,david67@example.org,"nóminas,finanzas,impuestos,java,estrategia,diseño ux,prototipado",Medio,"Organización,Atención al detalle",12,Alto,En revisión
+C564,Baudelio Agudo-Barba,franciscomaza@example.net,"python,marketing,contabilidad,diseño ux",Alto,"Análisis,Atención al detalle",14,Bajo,No contratado
+C565,Aurelio Estévez Camps,reguerapilar@example.net,"estrategia,impuestos,recursos humanos",Alto,"Análisis,Comunicación efectiva,Resolución de problemas,Liderazgo",7,Medio,No contratado
+C566,Pía Landa,olmedoespiridion@example.net,"finanzas,estrategia,selección,marketing,prototipado,ventas,diseño ux",Bajo,"Resolución de problemas,Liderazgo",7,Medio,En revisión
+C567,Ligia Valls Parra,linaresdemetrio@example.com,"ventas,nóminas,marketing,ui,prototipado",Medio,"Negociación,Organización,Liderazgo",9,Alto,Contratado
+C568,Ruben Arjona Lladó,barbaracoloma@example.org,"ui,marketing,desarrollo,estrategia,impuestos,python,selección",Medio,"Resolución de problemas,Creatividad,Análisis",0,Medio,En revisión
+C569,Salomé Crespo,carmelocorral@example.net,"selección,ventas,ui,estrategia,impuestos,diseño ux",Alto,"Liderazgo,Organización,Resolución de problemas",13,Medio,No contratado
+C570,Jovita María Cristina Lozano Hoyos,eligiaaragones@example.com,"impuestos,desarrollo,nóminas,java,ventas",Alto,"Trabajo en equipo,Negociación,Comunicación efectiva",7,Medio,Contratado
+C571,Begoña Hortensia Alfaro Atienza,tcastellanos@example.org,"java,ventas,ui,desarrollo,impuestos",Bajo,"Análisis,Organización",3,Bajo,No contratado
+C572,Bernardino Barroso Coll,noeliacuenca@example.com,"prototipado,marketing,java,nóminas,estrategia,ui,recursos humanos",Medio,"Empatía,Análisis",5,Alto,Contratado
+C573,Renata Amores Romero,patriciobarrera@example.com,"impuestos,contabilidad,ui,python",Alto,"Empatía,Resolución de problemas",14,Bajo,Contratado
+C574,José Barrena Pinedo,andres87@example.org,"marketing,ventas,desarrollo,nóminas,estrategia",Alto,"Resolución de problemas,Comunicación efectiva,Análisis",7,Alto,Contratado
+C575,Ruth Barrena Coloma,bcerda@example.net,"recursos humanos,desarrollo,contabilidad,java,impuestos,python,selección",Bajo,"Negociación,Análisis,Empatía",13,Alto,Contratado
+C576,Nazaret Castro,sarnal@example.org,"marketing,ventas,impuestos,prototipado,ui,selección,desarrollo",Alto,"Resolución de problemas,Comunicación efectiva,Negociación",4,Bajo,En revisión
+C577,Clotilde de Pérez,gutierrezcruz@example.com,"python,ui,ventas,impuestos,selección",Alto,"Negociación,Análisis,Comunicación efectiva,Empatía",9,Bajo,En revisión
+C578,Elodia Conde Cantón,americopinol@example.net,"prototipado,estrategia,ventas",Alto,"Negociación,Análisis,Liderazgo,Trabajo en equipo",3,Alto,Contratado
+C579,Eustaquio Exposito Guzmán,estherbarragan@example.org,"diseño ux,impuestos,ventas,recursos humanos,finanzas",Alto,"Liderazgo,Creatividad,Negociación",8,Medio,No contratado
+C580,Alexandra Izquierdo Salinas,alberdibenita@example.net,"ventas,estrategia,nóminas,recursos humanos,selección",Alto,"Atención al detalle,Liderazgo,Trabajo en equipo,Resolución de problemas",1,Alto,Contratado
+C581,Maristela Caro Casal,xbatlle@example.org,"marketing,finanzas,estrategia,selección,ventas",Bajo,"Trabajo en equipo,Creatividad,Liderazgo,Comunicación efectiva",12,Bajo,No contratado
+C582,Cruz de Morera,demetrio08@example.net,"contabilidad,recursos humanos,estrategia",Medio,"Creatividad,Empatía",14,Bajo,Contratado
+C583,Miguela Arnal Vilalta,jose-antonio02@example.org,"recursos humanos,marketing,impuestos",Medio,"Análisis,Organización,Creatividad",1,Medio,Contratado
+C584,Gil Fernandez Pavón,lina73@example.org,"diseño ux,ui,contabilidad,finanzas,java,impuestos",Bajo,"Trabajo en equipo,Liderazgo,Organización,Atención al detalle",10,Medio,Contratado
+C585,Dulce Villena Fernandez,dcanales@example.net,"python,java,contabilidad,desarrollo,prototipado,impuestos,ui",Bajo,"Trabajo en equipo,Creatividad,Atención al detalle,Análisis",6,Alto,No contratado
+C586,Emperatriz Blázquez Teruel,cleto29@example.org,"python,ui,desarrollo,selección,java,contabilidad",Bajo,"Creatividad,Resolución de problemas,Trabajo en equipo",9,Medio,No contratado
+C587,Manolo Pulido,alcantaramariana@example.org,"impuestos,estrategia,recursos humanos,marketing,finanzas,ui,nóminas",Bajo,"Liderazgo,Análisis",10,Alto,No contratado
+C588,Hilario Vendrell Ponce,chus97@example.com,"selección,finanzas,python,desarrollo,java,nóminas",Medio,"Atención al detalle,Liderazgo,Trabajo en equipo",9,Alto,No contratado
+C589,Jacinta de Reina,sevillaflavio@example.net,"ui,prototipado,estrategia,selección,java",Bajo,"Trabajo en equipo,Empatía,Liderazgo",2,Bajo,Contratado
+C590,Leticia Medina Gomez,casalemilia@example.com,"estrategia,python,ventas,impuestos,ui",Bajo,"Liderazgo,Organización,Resolución de problemas",5,Alto,No contratado
+C591,Ignacio Peiró Pomares,ebou@example.net,"prototipado,ventas,nóminas",Alto,"Organización,Comunicación efectiva",15,Alto,Contratado
+C592,Jose Ramón Segura Herranz,mireia82@example.net,"python,ventas,finanzas,marketing,diseño ux,recursos humanos",Medio,"Empatía,Creatividad,Organización",0,Bajo,Contratado
+C593,Hilda Fidela Mayoral Bayo,pombocandelas@example.net,"ventas,diseño ux,python",Alto,"Comunicación efectiva,Liderazgo",3,Alto,Contratado
+C594,Jose Antonio Ribera Niño,teodorarosello@example.net,"java,contabilidad,estrategia,impuestos",Alto,"Trabajo en equipo,Empatía,Atención al detalle",7,Alto,Contratado
+C595,Chucho Salinas,roldandieguez@example.org,"python,marketing,finanzas",Alto,"Empatía,Liderazgo,Atención al detalle",14,Medio,Contratado
+C596,Íñigo Mayo Roura,jennycastejon@example.com,"python,estrategia,marketing,desarrollo,ui,ventas,selección",Bajo,"Empatía,Análisis",15,Bajo,En revisión
+C597,Felicidad Anita Alvarado Arana,morellprimitivo@example.net,"ventas,marketing,impuestos",Alto,"Trabajo en equipo,Atención al detalle",1,Bajo,Contratado
+C598,Eloísa Paula Campoy Raya,bayoaraceli@example.com,"recursos humanos,selección,ui,contabilidad,nóminas",Alto,"Trabajo en equipo,Negociación,Atención al detalle,Resolución de problemas",6,Alto,No contratado
+C599,Asdrubal Borrego Machado,wanglada@example.com,"diseño ux,python,desarrollo,selección",Alto,"Trabajo en equipo,Análisis,Organización,Liderazgo",6,Medio,En revisión
+C600,Rico Hoyos Salom,adrianarce@example.com,"finanzas,nóminas,ventas",Bajo,"Negociación,Análisis",4,Medio,En revisión
+C601,Ernesto Mora Oliveras,cayetano59@example.com,"diseño ux,prototipado,recursos humanos,java,selección,nóminas",Medio,"Liderazgo,Análisis,Resolución de problemas",4,Bajo,No contratado
+C602,Manu del Valencia,pozuelomaria-angeles@example.net,"marketing,desarrollo,prototipado,python,java,ventas",Medio,"Empatía,Resolución de problemas,Comunicación efectiva",11,Alto,No contratado
+C603,Isabel Sanjuan Garriga,iariza@example.com,"marketing,ventas,python,prototipado,desarrollo,contabilidad",Bajo,"Negociación,Creatividad,Liderazgo,Resolución de problemas",3,Bajo,Contratado
+C604,Teresita Coloma,carrascobelen@example.org,"finanzas,marketing,nóminas,prototipado,contabilidad",Medio,"Creatividad,Resolución de problemas,Organización",14,Bajo,Contratado
+C605,Teodora Chaparro Huguet,isidora78@example.com,"marketing,estrategia,nóminas,selección,finanzas,java,python",Bajo,"Organización,Atención al detalle,Negociación",13,Bajo,Contratado
+C606,Calixta Moles-Yáñez,alonso54@example.org,"impuestos,ui,marketing",Medio,"Liderazgo,Resolución de problemas,Creatividad,Análisis",3,Alto,Contratado
+C607,Gervasio Galiano Rico,hernandoayllon@example.com,"finanzas,recursos humanos,diseño ux,contabilidad",Bajo,"Resolución de problemas,Comunicación efectiva,Trabajo en equipo,Creatividad",9,Medio,Contratado
+C608,Daniela Real Lillo,miguel-angel09@example.org,"marketing,ui,prototipado,recursos humanos",Medio,"Creatividad,Negociación,Trabajo en equipo",11,Medio,Contratado
+C609,Vicente Geraldo Romero Olivé,heliodoro33@example.org,"ui,python,finanzas,impuestos,diseño ux,marketing",Alto,"Creatividad,Resolución de problemas",14,Medio,Contratado
+C610,Baldomero Gilabert Egea,ppou@example.net,"ui,ventas,recursos humanos,finanzas,java,python,prototipado",Alto,"Liderazgo,Atención al detalle",3,Medio,No contratado
+C611,Cándido Tolosa,calista39@example.org,"contabilidad,recursos humanos,ventas,prototipado,impuestos,estrategia",Medio,"Comunicación efectiva,Empatía,Organización",7,Alto,En revisión
+C612,Paulino Abascal Pujadas,aroabarrio@example.org,"nóminas,java,python",Bajo,"Organización,Negociación",0,Bajo,En revisión
+C613,Román del Guillen,dimaslinares@example.org,"marketing,nóminas,selección,ui",Alto,"Negociación,Liderazgo,Empatía,Análisis",14,Alto,No contratado
+C614,Óscar Antúnez Arjona,cloe14@example.org,"prototipado,estrategia,selección",Medio,"Organización,Creatividad,Trabajo en equipo",11,Bajo,En revisión
+C615,Jose Carlos Tolosa Aguirre,raul69@example.com,"estrategia,finanzas,marketing,java,contabilidad",Medio,"Análisis,Comunicación efectiva,Atención al detalle",15,Medio,No contratado
+C616,Hermenegildo Vilalta Busquets,aragonesliliana@example.net,"recursos humanos,desarrollo,diseño ux,prototipado,estrategia",Alto,"Análisis,Comunicación efectiva,Organización",15,Bajo,En revisión
+C617,Fabiola Gallart Vilalta,baudelio97@example.net,"python,estrategia,marketing,contabilidad,recursos humanos,diseño ux,java",Alto,"Trabajo en equipo,Creatividad,Negociación",4,Medio,Contratado
+C618,Victor Manuel Campoy Mayoral,gualquirino@example.net,"prototipado,contabilidad,impuestos,ui",Alto,"Atención al detalle,Liderazgo",8,Medio,No contratado
+C619,Flor Tur Soto,narcisa79@example.org,"python,diseño ux,ui,java,ventas,estrategia",Bajo,"Organización,Empatía,Liderazgo",10,Alto,No contratado
+C620,María Manuela Baquero Pomares,sfeliu@example.com,"estrategia,selección,impuestos,desarrollo,nóminas,recursos humanos,java",Bajo,"Negociación,Resolución de problemas,Creatividad,Organización",14,Alto,En revisión
+C621,Carmelita Colomer Garcia,juliana44@example.com,"contabilidad,ventas,desarrollo,nóminas,diseño ux,ui,prototipado",Bajo,"Atención al detalle,Negociación,Empatía,Comunicación efectiva",6,Bajo,Contratado
+C622,Haydée Alcántara Fernandez,ycifuentes@example.org,"finanzas,selección,prototipado",Medio,"Trabajo en equipo,Organización,Creatividad,Análisis",1,Bajo,En revisión
+C623,Moreno Crespo Artigas,angelica00@example.org,"ventas,diseño ux,finanzas,selección,impuestos",Bajo,"Organización,Negociación,Liderazgo",8,Bajo,Contratado
+C624,Elba Toledo Rocamora,ymaza@example.org,"finanzas,impuestos,prototipado,ventas,selección,contabilidad",Bajo,"Atención al detalle,Comunicación efectiva,Empatía,Trabajo en equipo",6,Bajo,En revisión
+C625,Adalberto Robles-Vallés,falcogabino@example.com,"prototipado,contabilidad,recursos humanos,diseño ux,marketing",Medio,"Análisis,Comunicación efectiva",7,Bajo,Contratado
+C626,Primitivo Parra Angulo,agapito16@example.net,"finanzas,prototipado,desarrollo,selección",Alto,"Liderazgo,Atención al detalle,Análisis,Negociación",9,Alto,En revisión
+C627,Fulgencio Cuesta Canales,gracia05@example.net,"diseño ux,java,ui,impuestos",Bajo,"Creatividad,Negociación",13,Bajo,Contratado
+C628,Evaristo Leopoldo Guardia Agullo,jordana75@example.org,"python,prototipado,marketing",Bajo,"Análisis,Trabajo en equipo,Creatividad,Empatía",3,Alto,No contratado
+C629,Esperanza Peralta Cózar,omarmorera@example.com,"prototipado,finanzas,estrategia,diseño ux",Medio,"Creatividad,Empatía",10,Bajo,En revisión
+C630,Bernabé Sans Riquelme,vpina@example.com,"marketing,desarrollo,python",Bajo,"Empatía,Negociación,Resolución de problemas,Liderazgo",2,Alto,No contratado
+C631,Roque Collado,pinolamerica@example.com,"diseño ux,ventas,estrategia",Alto,"Comunicación efectiva,Trabajo en equipo,Organización,Liderazgo",2,Medio,En revisión
+C632,Cebrián Abril Sevillano,cmata@example.com,"diseño ux,desarrollo,java",Medio,"Organización,Liderazgo,Atención al detalle",15,Medio,Contratado
+C633,Federico Pomares Machado,piedadsarabia@example.com,"estrategia,impuestos,java,finanzas",Bajo,"Negociación,Trabajo en equipo,Resolución de problemas",13,Bajo,En revisión
+C634,Samuel Acevedo,rosaluis@example.net,"diseño ux,contabilidad,ui,ventas,finanzas,recursos humanos,java",Alto,"Organización,Resolución de problemas",3,Bajo,En revisión
+C635,Edelmira Moles Recio,renataherranz@example.net,"diseño ux,marketing,desarrollo,java",Alto,"Resolución de problemas,Organización,Atención al detalle",10,Alto,En revisión
+C636,Elena Cid Pozuelo,guzmanpablo@example.org,"recursos humanos,desarrollo,ventas,java",Medio,"Análisis,Empatía",2,Medio,Contratado
+C637,Cornelio Ulises Piña Uribe,priscilaolive@example.net,"ventas,prototipado,recursos humanos,contabilidad,desarrollo",Bajo,"Comunicación efectiva,Liderazgo,Creatividad",15,Medio,No contratado
+C638,Jose Miguel Ortuño Calleja,rodrigomaria-jesus@example.net,"nóminas,desarrollo,python,diseño ux,estrategia,java,ui",Medio,"Atención al detalle,Trabajo en equipo,Empatía,Organización",3,Medio,No contratado
+C639,Eladio Rueda,abarriga@example.com,"ventas,contabilidad,marketing,ui,impuestos,nóminas,python",Bajo,"Creatividad,Resolución de problemas,Empatía",11,Medio,En revisión
+C640,Etelvina Valls,cifuentespilar@example.com,"desarrollo,nóminas,impuestos",Alto,"Empatía,Organización",6,Medio,No contratado
+C641,Lourdes Rios Taboada,pmosquera@example.net,"recursos humanos,desarrollo,nóminas,selección,java",Bajo,"Trabajo en equipo,Liderazgo",7,Medio,Contratado
+C642,Aurelio Vinicio Sobrino Boix,lucas83@example.org,"ui,finanzas,recursos humanos,impuestos,marketing,estrategia",Bajo,"Negociación,Creatividad",1,Alto,No contratado
+C643,Felix Rincón Ávila,pnarvaez@example.net,"java,recursos humanos,ui",Medio,"Análisis,Resolución de problemas,Liderazgo",3,Medio,No contratado
+C644,Borja Cáceres Sala,fidela54@example.com,"python,ui,recursos humanos,finanzas,prototipado",Bajo,"Liderazgo,Organización,Atención al detalle",0,Medio,Contratado
+C645,Toni Miralles Valdés,juan-pablo08@example.com,"desarrollo,recursos humanos,marketing,contabilidad,impuestos,prototipado",Medio,"Resolución de problemas,Liderazgo",1,Medio,Contratado
+C646,Teo Armas,malba@example.net,"estrategia,ui,impuestos,diseño ux,selección,finanzas",Bajo,"Análisis,Organización",15,Alto,En revisión
+C647,Constanza Perales Casanova,macarenapomares@example.net,"estrategia,selección,ventas,desarrollo,python",Alto,"Creatividad,Comunicación efectiva",11,Alto,Contratado
+C648,Nilda Lluch Perea,tcoll@example.org,"estrategia,desarrollo,java,recursos humanos,diseño ux,finanzas,selección",Bajo,"Trabajo en equipo,Comunicación efectiva,Empatía,Organización",11,Alto,No contratado
+C649,César Alfaro Fernández,vcalleja@example.org,"recursos humanos,selección,prototipado,impuestos",Medio,"Atención al detalle,Trabajo en equipo",4,Medio,No contratado
+C650,Carina Barriga Andreu,borja75@example.net,"impuestos,desarrollo,recursos humanos,finanzas,estrategia",Alto,"Resolución de problemas,Creatividad",4,Alto,Contratado
+C651,Amor Plana Neira,eusebio56@example.net,"desarrollo,marketing,impuestos,java",Medio,"Resolución de problemas,Trabajo en equipo,Organización,Atención al detalle",12,Medio,No contratado
+C652,Olga Hurtado Torrents,concha08@example.com,"ui,ventas,estrategia,impuestos,prototipado,finanzas,contabilidad",Bajo,"Resolución de problemas,Creatividad,Comunicación efectiva",10,Alto,No contratado
+C653,Vilma Gibert Roura,florencia34@example.org,"selección,desarrollo,recursos humanos,marketing,ui,prototipado,python",Medio,"Negociación,Atención al detalle,Resolución de problemas,Organización",9,Bajo,No contratado
+C654,Marcia Arteaga Olivera,jacobo36@example.net,"ventas,impuestos,contabilidad",Alto,"Comunicación efectiva,Trabajo en equipo,Organización,Creatividad",6,Medio,En revisión
+C655,Marc Quero Blanes,smontserrat@example.com,"ventas,recursos humanos,desarrollo,marketing,impuestos",Alto,"Comunicación efectiva,Negociación",12,Bajo,No contratado
+C656,Jose de Mínguez,rfigueroa@example.net,"diseño ux,desarrollo,nóminas,finanzas,contabilidad,java,recursos humanos",Alto,"Empatía,Análisis,Organización,Negociación",0,Bajo,No contratado
+C657,Jessica Colom,valeraleocadio@example.com,"java,impuestos,marketing,desarrollo,contabilidad,selección",Alto,"Liderazgo,Creatividad,Comunicación efectiva",0,Alto,No contratado
+C658,Adoración Asensio Baena,rodolforosa@example.net,"impuestos,ui,prototipado,python,estrategia",Medio,"Atención al detalle,Resolución de problemas,Trabajo en equipo",5,Alto,No contratado
+C659,Carlos Jaime Luz Plaza,kgordillo@example.net,"desarrollo,ventas,contabilidad",Bajo,"Negociación,Comunicación efectiva",15,Alto,Contratado
+C660,Candelas Izaguirre Rios,anunciacionabad@example.net,"python,finanzas,diseño ux,ventas,ui,nóminas",Bajo,"Comunicación efectiva,Organización,Liderazgo",13,Alto,Contratado
+C661,Calisto Lluch,cristobalcomas@example.net,"ventas,marketing,recursos humanos",Bajo,"Organización,Comunicación efectiva",15,Bajo,En revisión
+C662,Eugenio Arregui Gomis,rodolfo63@example.com,"python,marketing,selección,prototipado,contabilidad",Alto,"Comunicación efectiva,Creatividad",2,Bajo,En revisión
+C663,Jordana Montesinos Bermúdez,cuervotono@example.net,"prototipado,ventas,java,estrategia,python",Alto,"Organización,Empatía",12,Medio,No contratado
+C664,Elodia Pavón-Mancebo,esthercazorla@example.org,"nóminas,java,estrategia",Alto,"Atención al detalle,Liderazgo,Creatividad,Resolución de problemas",1,Bajo,En revisión
+C665,Begoña Calderon Lopez,candelariavall@example.org,"diseño ux,nóminas,selección,ui",Medio,"Empatía,Atención al detalle",7,Bajo,En revisión
+C666,Edmundo Villena Salinas,zaida81@example.net,"java,impuestos,diseño ux,ventas,nóminas,marketing",Alto,"Creatividad,Trabajo en equipo,Negociación,Organización",5,Medio,No contratado
+C667,Ramiro Sanchez Márquez,sperera@example.com,"impuestos,contabilidad,ui,diseño ux,recursos humanos",Alto,"Análisis,Trabajo en equipo",1,Bajo,No contratado
+C668,Imelda Arrieta Tejedor,canteroildefonso@example.net,"selección,ventas,ui,marketing,finanzas",Medio,"Organización,Resolución de problemas",6,Medio,Contratado
+C669,Erasmo Felipe Palacios Prieto,maria-fernanda86@example.org,"ventas,nóminas,python,marketing,selección,estrategia",Medio,"Negociación,Creatividad",2,Bajo,Contratado
+C670,Ángel del Girona,josechaparro@example.com,"java,nóminas,estrategia,python,selección,desarrollo",Bajo,"Comunicación efectiva,Atención al detalle,Liderazgo,Creatividad",14,Bajo,En revisión
+C671,Juanito del Solana,sgabaldon@example.net,"contabilidad,impuestos,prototipado,diseño ux,java,nóminas,estrategia",Bajo,"Atención al detalle,Comunicación efectiva,Trabajo en equipo,Resolución de problemas",13,Alto,No contratado
+C672,Liliana Pazos-Cornejo,felipa88@example.com,"diseño ux,marketing,contabilidad",Alto,"Análisis,Creatividad",12,Medio,Contratado
+C673,Héctor Bauzà Figueras,maria-pilarlosada@example.com,"python,finanzas,contabilidad,recursos humanos,java",Medio,"Liderazgo,Comunicación efectiva,Resolución de problemas",13,Bajo,En revisión
+C674,Juan Antonio Ballester Villaverde,nereida44@example.net,"estrategia,selección,desarrollo",Bajo,"Comunicación efectiva,Liderazgo,Creatividad",8,Medio,En revisión
+C675,Néstor Vendrell Huertas,trujillosoledad@example.org,"selección,estrategia,finanzas,desarrollo,impuestos,ui",Bajo,"Atención al detalle,Creatividad,Organización",9,Alto,Contratado
+C676,Rodrigo Español Manuel,torrensluis-angel@example.org,"selección,recursos humanos,python,nóminas",Alto,"Creatividad,Atención al detalle",14,Alto,No contratado
+C677,Sarita Salmerón Roldán,cflor@example.com,"prototipado,desarrollo,ui,nóminas,estrategia",Bajo,"Comunicación efectiva,Creatividad",3,Alto,No contratado
+C678,Agustina de Sevilla,eli22@example.org,"diseño ux,ventas,impuestos,desarrollo,finanzas",Alto,"Liderazgo,Comunicación efectiva,Empatía",4,Alto,En revisión
+C679,María Jesús de Ropero,hdiaz@example.org,"java,ui,selección,ventas,prototipado,finanzas,recursos humanos",Bajo,"Trabajo en equipo,Creatividad,Liderazgo",6,Medio,En revisión
+C680,Rufina Bermejo Peiró,reina68@example.com,"desarrollo,python,diseño ux,ventas,estrategia,selección,marketing",Medio,"Comunicación efectiva,Creatividad,Organización",11,Medio,En revisión
+C681,Berta Josefa Noriega Almagro,xpelayo@example.org,"python,marketing,diseño ux,estrategia",Alto,"Organización,Análisis,Atención al detalle,Liderazgo",10,Bajo,No contratado
+C682,Ildefonso Juan José Madrid Cantero,lorenzarivas@example.net,"impuestos,ventas,desarrollo,marketing,python,recursos humanos",Medio,"Atención al detalle,Organización,Liderazgo",5,Bajo,No contratado
+C683,Silvia Aparicio Arnal,hsaez@example.org,"estrategia,recursos humanos,selección,marketing",Alto,"Liderazgo,Empatía,Negociación,Resolución de problemas",1,Alto,No contratado
+C684,Begoña de Daza,reinaoliva@example.org,"recursos humanos,prototipado,ui,ventas,impuestos,nóminas,desarrollo",Bajo,"Comunicación efectiva,Creatividad",15,Medio,Contratado
+C685,Fabián Valerio Pujadas Solano,gmurcia@example.org,"contabilidad,finanzas,nóminas,prototipado,selección,marketing",Medio,"Organización,Análisis,Atención al detalle,Creatividad",6,Bajo,En revisión
+C686,Clara Calzada Iriarte,pagesisabel@example.org,"desarrollo,prototipado,contabilidad,marketing,diseño ux,estrategia",Bajo,"Resolución de problemas,Empatía",8,Alto,No contratado
+C687,Martín Cortés Falcón,amado24@example.net,"python,selección,java,diseño ux",Alto,"Negociación,Organización,Empatía,Atención al detalle",10,Medio,En revisión
+C688,Natalia Prudencia Vizcaíno Otero,rabril@example.org,"finanzas,java,impuestos,diseño ux",Alto,"Resolución de problemas,Empatía,Trabajo en equipo",5,Bajo,No contratado
+C689,Ibán Barco Segovia,ebriones@example.net,"estrategia,contabilidad,ventas,ui,prototipado",Alto,"Trabajo en equipo,Análisis,Resolución de problemas,Liderazgo",9,Medio,Contratado
+C690,Severino Salamanca Olmedo,imillan@example.com,"marketing,python,selección,ventas,diseño ux,estrategia",Medio,"Trabajo en equipo,Comunicación efectiva,Atención al detalle",13,Alto,No contratado
+C691,Paola Paz Mora,salgadoloreto@example.net,"impuestos,estrategia,prototipado,marketing,nóminas,selección,finanzas",Bajo,"Resolución de problemas,Empatía,Atención al detalle,Organización",15,Medio,No contratado
+C692,Clementina Estrada Valentín,sarana@example.org,"prototipado,nóminas,ventas,python,selección,diseño ux",Bajo,"Atención al detalle,Liderazgo,Creatividad,Comunicación efectiva",3,Medio,En revisión
+C693,Lara Cervera-Amigó,mfortuny@example.net,"impuestos,java,selección,python,desarrollo,contabilidad",Bajo,"Trabajo en equipo,Atención al detalle,Organización",1,Alto,Contratado
+C694,Odalys María Ángeles Flor Perera,susanaocana@example.net,"contabilidad,estrategia,selección,recursos humanos,finanzas,java,desarrollo",Alto,"Empatía,Trabajo en equipo",2,Alto,Contratado
+C695,Paola Irma Pont Mena,enriquezfelicia@example.com,"estrategia,java,nóminas,diseño ux,desarrollo,finanzas,impuestos",Medio,"Trabajo en equipo,Negociación,Creatividad",11,Alto,No contratado
+C696,Lope Robledo Acedo,galanvinicio@example.com,"impuestos,python,desarrollo,marketing",Bajo,"Análisis,Resolución de problemas",9,Bajo,No contratado
+C697,Fidela Agustí Valencia,eliasalsina@example.com,"estrategia,prototipado,impuestos,python,ventas,finanzas",Alto,"Organización,Negociación",5,Medio,Contratado
+C698,Quique Garcés Casado,ucabanas@example.com,"marketing,selección,finanzas",Bajo,"Organización,Empatía,Análisis",11,Alto,Contratado
+C699,Adoración Morante Daza,ztormo@example.org,"finanzas,marketing,contabilidad,python",Medio,"Liderazgo,Resolución de problemas,Organización",3,Alto,Contratado
+C700,Nicanor Blázquez Mesa,yolandapons@example.com,"impuestos,ui,python,desarrollo,estrategia,contabilidad",Alto,"Empatía,Creatividad,Comunicación efectiva",8,Alto,Contratado
+C701,Amparo Carpio Fortuny,galindofebe@example.com,"java,contabilidad,estrategia,prototipado,desarrollo",Bajo,"Comunicación efectiva,Atención al detalle,Empatía",2,Alto,No contratado
+C702,Carla Porras-Bernat,stoledo@example.com,"impuestos,desarrollo,ventas,contabilidad",Medio,"Empatía,Liderazgo,Análisis",14,Medio,En revisión
+C703,Juan Francisco Ros Losada,paca24@example.org,"contabilidad,java,selección,estrategia,finanzas,nóminas",Medio,"Comunicación efectiva,Liderazgo",8,Medio,No contratado
+C704,Marcelino Doménech Jerez,eduardogonzalez@example.org,"diseño ux,java,marketing,prototipado,python,ui,ventas",Medio,"Liderazgo,Creatividad,Empatía,Análisis",12,Medio,Contratado
+C705,Alicia Maza Tamayo,jinfante@example.com,"selección,recursos humanos,finanzas",Alto,"Análisis,Resolución de problemas,Liderazgo,Negociación",5,Alto,En revisión
+C706,Manu Galan Velasco,ofelia37@example.org,"java,finanzas,estrategia,ui,desarrollo,selección,marketing",Medio,"Empatía,Liderazgo,Trabajo en equipo",6,Alto,Contratado
+C707,Mirta Luz Cerro,hguijarro@example.net,"diseño ux,ventas,java,ui",Medio,"Creatividad,Comunicación efectiva",5,Bajo,No contratado
+C708,Ildefonso Somoza Espejo,roldancerezo@example.com,"java,recursos humanos,nóminas,ui,finanzas",Alto,"Negociación,Comunicación efectiva,Análisis,Atención al detalle",3,Medio,Contratado
+C709,Albina Echeverría Arregui,jordanabaron@example.org,"finanzas,recursos humanos,selección,impuestos,desarrollo,marketing",Medio,"Creatividad,Comunicación efectiva,Negociación",0,Bajo,Contratado
+C710,Pacífica Navas Ferrer,dorasalas@example.net,"nóminas,marketing,contabilidad,recursos humanos,impuestos,estrategia,ventas",Bajo,"Comunicación efectiva,Creatividad,Empatía",9,Bajo,No contratado
+C711,Fabiola Sales Gutiérrez,tolosacatalina@example.net,"diseño ux,contabilidad,ui,impuestos,prototipado,python,ventas",Medio,"Trabajo en equipo,Organización,Creatividad,Empatía",1,Bajo,En revisión
+C712,Juanito Ariza Lledó,salamancajose-miguel@example.com,"prototipado,python,java,desarrollo,contabilidad",Medio,"Creatividad,Comunicación efectiva",8,Alto,En revisión
+C713,Norberto Maximiano Falcón Olivares,eulaliacaro@example.net,"impuestos,java,recursos humanos,prototipado,ventas",Alto,"Análisis,Atención al detalle,Trabajo en equipo,Empatía",9,Bajo,En revisión
+C714,Gaspar Ángel Pereira Mateos,amor34@example.net,"recursos humanos,estrategia,impuestos,ventas,contabilidad,python,java",Medio,"Análisis,Creatividad",15,Bajo,No contratado
+C715,Jenaro Ordóñez-Ródenas,cerdacoral@example.org,"recursos humanos,python,estrategia,nóminas",Alto,"Análisis,Comunicación efectiva",15,Bajo,En revisión
+C716,Inés Collado Ramón,ytorralba@example.net,"desarrollo,ventas,estrategia,marketing,recursos humanos,ui",Medio,"Creatividad,Resolución de problemas,Atención al detalle",9,Bajo,Contratado
+C717,Marcia Soriano Rivas,jose-angelrecio@example.org,"selección,finanzas,prototipado,marketing,ui,java,python",Alto,"Atención al detalle,Creatividad,Negociación,Resolución de problemas",0,Medio,En revisión
+C718,Juan Manuel Águila Tirado,ralmansa@example.org,"impuestos,ventas,java,finanzas,estrategia,marketing,prototipado",Bajo,"Análisis,Trabajo en equipo,Resolución de problemas,Comunicación efectiva",9,Medio,En revisión
+C719,Amaya Rivera Zabaleta,pbusquets@example.com,"nóminas,desarrollo,prototipado,diseño ux,ui,recursos humanos",Medio,"Liderazgo,Atención al detalle",14,Medio,En revisión
+C720,Teo Arenas Terrón,campomaximiliano@example.org,"nóminas,finanzas,impuestos,diseño ux,recursos humanos",Medio,"Resolución de problemas,Empatía,Negociación",2,Medio,Contratado
+C721,Fulgencio Gimeno Donoso,whernando@example.org,"selección,desarrollo,estrategia",Alto,"Resolución de problemas,Organización,Atención al detalle",11,Bajo,En revisión
+C722,Guiomar Pedro Barragán,norberto83@example.net,"estrategia,selección,marketing,ventas,desarrollo",Alto,"Análisis,Empatía,Atención al detalle,Trabajo en equipo",12,Medio,Contratado
+C723,Fabiola Rius,ebenet@example.org,"java,nóminas,selección,impuestos,desarrollo,ui,estrategia",Bajo,"Trabajo en equipo,Análisis,Organización,Liderazgo",4,Bajo,Contratado
+C724,Simón Bravo Luís,gasconamor@example.org,"python,selección,desarrollo",Medio,"Resolución de problemas,Negociación,Organización,Comunicación efectiva",0,Alto,No contratado
+C725,Quirino Fuente Manuel,xmendez@example.net,"marketing,java,diseño ux,python",Medio,"Negociación,Empatía,Creatividad,Resolución de problemas",6,Medio,Contratado
+C726,América Victoria Ferrer Fabra,zgalan@example.net,"nóminas,impuestos,java,contabilidad",Alto,"Negociación,Atención al detalle,Creatividad",5,Medio,Contratado
+C727,Tomás del Solera,gertrudisolmedo@example.net,"contabilidad,impuestos,desarrollo,nóminas,ventas,estrategia,ui",Bajo,"Análisis,Atención al detalle,Trabajo en equipo,Empatía",14,Medio,En revisión
+C728,Cristian Tirado Alonso,canasbaltasar@example.com,"diseño ux,contabilidad,prototipado,selección,recursos humanos,java,desarrollo",Alto,"Creatividad,Organización,Trabajo en equipo",14,Alto,En revisión
+C729,Wálter Llamas Marco,plajosefina@example.net,"ui,desarrollo,marketing,recursos humanos,nóminas",Alto,"Trabajo en equipo,Negociación",10,Bajo,No contratado
+C730,Antonio Riera Velázquez,guiomarmartinez@example.net,"ui,estrategia,recursos humanos",Medio,"Atención al detalle,Creatividad",1,Bajo,Contratado
+C731,Reyes Angulo Montserrat,sroura@example.net,"nóminas,marketing,ventas,impuestos",Bajo,"Negociación,Análisis,Liderazgo",13,Bajo,No contratado
+C732,Petrona Becerra,salomon28@example.org,"python,java,ventas,marketing,desarrollo,finanzas,selección",Bajo,"Comunicación efectiva,Empatía",6,Alto,En revisión
+C733,Marcelo Agustín Ballester,gmarmol@example.com,"impuestos,marketing,python,estrategia,ventas,contabilidad",Medio,"Creatividad,Empatía",2,Medio,En revisión
+C734,Pascual Cepeda Ferrán,macario00@example.net,"nóminas,diseño ux,java,finanzas,desarrollo,selección,marketing",Bajo,"Creatividad,Análisis,Liderazgo",14,Alto,No contratado
+C735,Jose Manuel Hoz Bru,trillomatias@example.com,"marketing,recursos humanos,prototipado,contabilidad,selección,estrategia,nóminas",Bajo,"Resolución de problemas,Creatividad",13,Bajo,No contratado
+C736,Fabiana Narváez Enríquez,merche60@example.com,"java,diseño ux,nóminas,desarrollo,selección",Bajo,"Negociación,Empatía",8,Bajo,No contratado
+C737,Petrona Prieto Zapata,xgras@example.net,"selección,ui,contabilidad,java,estrategia",Bajo,"Creatividad,Análisis,Trabajo en equipo,Negociación",5,Alto,En revisión
+C738,Lisandro Ernesto Linares Heredia,carmina74@example.com,"finanzas,ventas,marketing,recursos humanos",Medio,"Organización,Creatividad,Comunicación efectiva,Resolución de problemas",15,Alto,Contratado
+C739,Damián Pinedo-Ferrando,jose-manuel57@example.net,"prototipado,finanzas,desarrollo",Alto,"Análisis,Atención al detalle,Negociación",14,Alto,En revisión
+C740,Azahara Ferrán Osorio,kbermejo@example.net,"java,marketing,estrategia,ventas,impuestos",Bajo,"Organización,Negociación",15,Medio,No contratado
+C741,Carolina Vigil Jiménez,azahar03@example.com,"prototipado,recursos humanos,desarrollo,diseño ux",Alto,"Análisis,Liderazgo",9,Alto,No contratado
+C742,Victor Manuel España Viana,xjauregui@example.net,"java,finanzas,ventas,recursos humanos,nóminas",Alto,"Resolución de problemas,Organización,Trabajo en equipo,Creatividad",5,Medio,En revisión
+C743,Salomón González Figuerola,gvalero@example.com,"finanzas,marketing,prototipado,desarrollo,nóminas,recursos humanos,impuestos",Bajo,"Liderazgo,Organización,Trabajo en equipo",15,Medio,Contratado
+C744,Rosalinda Suárez Toledo,emaza@example.net,"diseño ux,desarrollo,marketing,impuestos,python,ventas,nóminas",Bajo,"Liderazgo,Atención al detalle,Resolución de problemas,Empatía",13,Alto,No contratado
+C745,Natalio Sierra Ayllón,aitorbernat@example.org,"python,prototipado,impuestos,nóminas",Medio,"Creatividad,Atención al detalle,Negociación",10,Bajo,Contratado
+C746,Fabio Olivé Morán,begonamoreno@example.org,"estrategia,desarrollo,marketing,contabilidad,nóminas",Medio,"Análisis,Organización",0,Bajo,Contratado
+C747,Donato Aparicio Escalona,duranenrique@example.org,"marketing,java,contabilidad,estrategia,finanzas",Medio,"Negociación,Empatía,Resolución de problemas",14,Bajo,En revisión
+C748,Horacio Huerta,duranreina@example.com,"recursos humanos,impuestos,nóminas,finanzas,desarrollo,ui,python",Alto,"Empatía,Comunicación efectiva,Resolución de problemas,Trabajo en equipo",7,Bajo,En revisión
+C749,Edgardo Cañellas,fortunata61@example.com,"diseño ux,python,selección,finanzas",Bajo,"Atención al detalle,Organización,Negociación",11,Alto,Contratado
+C750,Simón Vicens Morcillo,salomesosa@example.com,"selección,python,marketing,nóminas",Bajo,"Atención al detalle,Resolución de problemas,Comunicación efectiva,Liderazgo",6,Bajo,En revisión
+C751,Rufino del Robledo,darrieta@example.com,"diseño ux,python,recursos humanos",Bajo,"Análisis,Comunicación efectiva",14,Alto,Contratado
+C752,Leandro Galiano Millán,riusdelfina@example.org,"finanzas,desarrollo,impuestos,ui",Bajo,"Creatividad,Negociación",14,Bajo,No contratado
+C753,Nydia Planas Téllez,nico55@example.org,"estrategia,nóminas,ui",Medio,"Atención al detalle,Análisis,Trabajo en equipo,Creatividad",6,Alto,Contratado
+C754,Eladio Casal Royo,josefamateu@example.com,"prototipado,java,ventas",Medio,"Organización,Trabajo en equipo",8,Medio,En revisión
+C755,Adoración Hernández Porras,maximilianobaena@example.net,"prototipado,contabilidad,java,marketing",Bajo,"Resolución de problemas,Trabajo en equipo,Análisis,Liderazgo",13,Medio,No contratado
+C756,Itziar Carretero Benavent,felicidadgaray@example.com,"marketing,nóminas,desarrollo,prototipado,finanzas,ui",Medio,"Trabajo en equipo,Empatía,Comunicación efectiva,Creatividad",13,Bajo,En revisión
+C757,Juan Antonio Rocamora Lillo,florentinacarreras@example.com,"ui,selección,contabilidad",Bajo,"Comunicación efectiva,Negociación",7,Alto,No contratado
+C758,Cesar de Gisbert,azconahortensia@example.net,"python,selección,recursos humanos,prototipado,desarrollo,impuestos",Bajo,"Resolución de problemas,Trabajo en equipo",10,Bajo,En revisión
+C759,Abilio Joel Talavera Correa,manuelsancho@example.org,"marketing,ventas,selección,contabilidad,recursos humanos",Bajo,"Análisis,Organización,Atención al detalle",11,Bajo,En revisión
+C760,Marta Mercader Pedrero,rcontreras@example.org,"diseño ux,impuestos,python,nóminas",Medio,"Organización,Resolución de problemas",2,Medio,En revisión
+C761,Jose Francisco Velasco Anglada,roberto55@example.com,"selección,python,diseño ux,impuestos,marketing,prototipado,ventas",Bajo,"Organización,Creatividad",6,Alto,No contratado
+C762,Ezequiel Rosado Landa,qmorcillo@example.net,"prototipado,java,impuestos,ui,selección,diseño ux,contabilidad",Medio,"Empatía,Resolución de problemas,Atención al detalle",10,Bajo,Contratado
+C763,Aura Maura Díez Aranda,vitoprieto@example.org,"desarrollo,ventas,contabilidad,marketing",Alto,"Análisis,Atención al detalle,Organización,Liderazgo",14,Medio,No contratado
+C764,Almudena Cortés Zabaleta,fermin75@example.net,"impuestos,ventas,python,finanzas,diseño ux,selección,nóminas",Bajo,"Liderazgo,Trabajo en equipo",1,Bajo,Contratado
+C765,Guadalupe Guzmán Vélez,carroolimpia@example.com,"recursos humanos,java,ui",Medio,"Organización,Creatividad,Análisis,Comunicación efectiva",15,Bajo,Contratado
+C766,Primitivo Antúnez Tolosa,albino23@example.net,"prototipado,python,selección,contabilidad,recursos humanos",Bajo,"Análisis,Empatía,Trabajo en equipo,Atención al detalle",15,Medio,En revisión
+C767,Simón Donoso Ballester,manola98@example.com,"ventas,impuestos,estrategia,prototipado",Medio,"Trabajo en equipo,Atención al detalle,Liderazgo,Resolución de problemas",7,Alto,Contratado
+C768,Odalys Amalia Mercader Luna,soriafortunato@example.org,"prototipado,contabilidad,marketing",Medio,"Análisis,Liderazgo,Creatividad",13,Bajo,Contratado
+C769,María José Mari Sanabria Guerra,solanojosue@example.org,"python,desarrollo,finanzas,impuestos,recursos humanos",Alto,"Comunicación efectiva,Liderazgo",10,Bajo,Contratado
+C770,Leocadia Aragón Bustos,adadiaerasmo@example.com,"diseño ux,python,desarrollo,nóminas,impuestos,prototipado,java",Bajo,"Atención al detalle,Comunicación efectiva,Empatía,Análisis",9,Medio,En revisión
+C771,Custodio Gárate,visitacion31@example.com,"ventas,estrategia,contabilidad",Bajo,"Trabajo en equipo,Liderazgo",9,Alto,Contratado
+C772,Elisabet Carvajal Palomino,tcasanovas@example.com,"marketing,prototipado,contabilidad,diseño ux",Bajo,"Liderazgo,Atención al detalle,Creatividad",13,Medio,En revisión
+C773,Angelita Llobet Rocha,santanaandrea@example.net,"ventas,python,prototipado,diseño ux,estrategia",Alto,"Negociación,Liderazgo,Creatividad,Análisis",11,Medio,Contratado
+C774,Román Mulet Huguet,lportero@example.net,"python,prototipado,recursos humanos,desarrollo,finanzas,estrategia",Alto,"Liderazgo,Creatividad",4,Bajo,Contratado
+C775,Fernando Barberá Cáceres,ctena@example.org,"marketing,contabilidad,recursos humanos,java,ventas,diseño ux,desarrollo",Medio,"Trabajo en equipo,Empatía",12,Medio,En revisión
+C776,Alfredo Marco Parejo,eleon@example.net,"python,selección,java,nóminas,impuestos,marketing",Alto,"Creatividad,Resolución de problemas",10,Alto,En revisión
+C777,Dolores Ema Almansa Mayo,zoraida01@example.net,"nóminas,java,finanzas,desarrollo",Bajo,"Atención al detalle,Análisis,Resolución de problemas",12,Alto,No contratado
+C778,Andrés Galiano Lucas,bchacon@example.com,"python,nóminas,java,impuestos",Bajo,"Liderazgo,Atención al detalle,Resolución de problemas",8,Bajo,En revisión
+C779,Selena Sales Caro,iker44@example.net,"prototipado,finanzas,desarrollo,ui",Bajo,"Organización,Liderazgo",14,Medio,En revisión
+C780,Dionisio Cuadrado Núñez,eaguila@example.net,"java,nóminas,recursos humanos,finanzas",Bajo,"Análisis,Negociación,Comunicación efectiva,Empatía",10,Medio,Contratado
+C781,Josué Sastre Guerrero,caragon@example.net,"python,java,finanzas,ventas,impuestos",Bajo,"Liderazgo,Comunicación efectiva",11,Alto,En revisión
+C782,Ximena Francisco Cano,isidromontserrat@example.org,"ui,ventas,prototipado,marketing,diseño ux",Medio,"Empatía,Creatividad",7,Bajo,En revisión
+C783,Silvio de Folch,sevillanolara@example.org,"nóminas,impuestos,marketing",Alto,"Creatividad,Negociación,Organización,Trabajo en equipo",5,Alto,No contratado
+C784,Chucho Julián-Alcántara,wmercader@example.net,"java,marketing,desarrollo,impuestos,prototipado",Medio,"Análisis,Trabajo en equipo,Negociación",4,Alto,Contratado
+C785,Juan José Montserrat,ester99@example.org,"impuestos,java,prototipado",Medio,"Comunicación efectiva,Resolución de problemas,Trabajo en equipo",5,Bajo,Contratado
+C786,Ciro Portillo Antón,nicodemo42@example.org,"contabilidad,ventas,python,estrategia,nóminas,java,ui",Bajo,"Creatividad,Negociación",11,Bajo,Contratado
+C787,Chelo Ferrero Torrecilla,drey@example.net,"selección,desarrollo,ui",Bajo,"Organización,Empatía",10,Bajo,En revisión
+C788,Virgilio de Adadia,ggarrido@example.net,"finanzas,java,ventas,marketing,nóminas",Bajo,"Empatía,Análisis,Atención al detalle",1,Bajo,En revisión
+C789,Noemí Gabaldón Castillo,francisco-javiermas@example.net,"estrategia,ui,java,desarrollo,recursos humanos,diseño ux",Alto,"Organización,Análisis,Trabajo en equipo",1,Bajo,No contratado
+C790,Benigno Jurado Quintanilla,currobusquets@example.net,"diseño ux,desarrollo,python,recursos humanos,estrategia,impuestos",Medio,"Liderazgo,Análisis",0,Bajo,No contratado
+C791,Constanza Jove Manjón,belmonteberto@example.com,"impuestos,ui,python,diseño ux,selección,contabilidad",Bajo,"Análisis,Atención al detalle,Trabajo en equipo,Comunicación efectiva",7,Alto,En revisión
+C792,Olga Oliva,bmarti@example.org,"marketing,desarrollo,selección,python,ventas,ui",Medio,"Resolución de problemas,Análisis,Comunicación efectiva",0,Bajo,No contratado
+C793,Benita Casanova Aznar,fausto41@example.org,"ui,desarrollo,impuestos,selección,finanzas,contabilidad,prototipado",Medio,"Atención al detalle,Creatividad,Organización",9,Bajo,No contratado
+C794,Silvio Iborra Revilla,fguijarro@example.org,"impuestos,java,desarrollo,ui,marketing,diseño ux,recursos humanos",Medio,"Liderazgo,Creatividad,Organización,Resolución de problemas",8,Bajo,Contratado
+C795,Perlita Bárcena Cabezas,donatoespinosa@example.net,"recursos humanos,ui,prototipado,nóminas,finanzas,ventas,python",Bajo,"Organización,Creatividad",4,Alto,En revisión
+C796,Delia Arranz Sarmiento,emelina85@example.org,"prototipado,diseño ux,marketing,java",Bajo,"Trabajo en equipo,Atención al detalle",15,Medio,No contratado
+C797,Basilio Zurita-Iñiguez,violetarodriguez@example.net,"nóminas,marketing,contabilidad,python",Bajo,"Comunicación efectiva,Creatividad,Trabajo en equipo,Liderazgo",5,Bajo,En revisión
+C798,Dolores Santiago Tello,riushector@example.com,"selección,estrategia,prototipado,java,marketing,diseño ux",Bajo,"Organización,Liderazgo,Atención al detalle,Resolución de problemas",3,Bajo,En revisión
+C799,Paca Seguí Fernandez,srossello@example.net,"python,java,impuestos,marketing,estrategia,finanzas,prototipado",Bajo,"Creatividad,Organización,Empatía",11,Bajo,No contratado
+C800,Otilia Herrera Cervera,rubenpages@example.com,"marketing,ui,diseño ux,prototipado,finanzas,ventas",Bajo,"Negociación,Liderazgo,Atención al detalle",2,Bajo,Contratado
+C801,Eloy Soriano-Núñez,josefasabater@example.org,"java,python,estrategia,nóminas,finanzas,ventas,selección",Alto,"Creatividad,Negociación,Resolución de problemas",1,Bajo,Contratado
+C802,Roxana Carbajo Arroyo,villalongamiguel-angel@example.com,"finanzas,ui,recursos humanos",Alto,"Análisis,Creatividad,Atención al detalle",13,Bajo,Contratado
+C803,Héctor Cervera Chico,alondra80@example.org,"ventas,ui,prototipado,recursos humanos,estrategia,java,desarrollo",Alto,"Atención al detalle,Liderazgo,Negociación,Trabajo en equipo",13,Medio,En revisión
+C804,Florinda Alberdi Galiano,jenaropinilla@example.net,"estrategia,java,python,recursos humanos,prototipado",Bajo,"Trabajo en equipo,Análisis,Organización",14,Bajo,En revisión
+C805,Rocío Iriarte Donaire,danrecio@example.com,"prototipado,nóminas,recursos humanos,marketing,ui,selección,ventas",Alto,"Organización,Análisis,Liderazgo",14,Bajo,Contratado
+C806,Bienvenida Sainz,quirino17@example.com,"finanzas,marketing,ui,contabilidad",Medio,"Organización,Análisis,Liderazgo,Resolución de problemas",8,Alto,En revisión
+C807,Adán Navarro,victoria08@example.com,"ui,contabilidad,impuestos,recursos humanos,prototipado",Alto,"Negociación,Organización",4,Bajo,Contratado
+C808,Gabriel Garmendia-Cornejo,botellaadelia@example.com,"nóminas,java,contabilidad,recursos humanos,finanzas,selección",Bajo,"Liderazgo,Atención al detalle",5,Alto,En revisión
+C809,Trini Jordana Abril Hervia,barralgraciano@example.com,"selección,ventas,java,prototipado",Medio,"Trabajo en equipo,Creatividad",1,Bajo,No contratado
+C810,Magdalena Torre Segovia,pujadasgilberto@example.org,"diseño ux,python,desarrollo,selección",Medio,"Trabajo en equipo,Negociación,Empatía,Organización",13,Medio,En revisión
+C811,Narciso Sevillano Rosales,ilucena@example.org,"recursos humanos,finanzas,prototipado",Alto,"Empatía,Comunicación efectiva,Negociación",1,Medio,En revisión
+C812,Curro Luís Cervantes,gerardofalcon@example.org,"java,recursos humanos,impuestos,nóminas",Bajo,"Creatividad,Empatía",8,Bajo,Contratado
+C813,Damián Vila Ávila,icabo@example.org,"java,recursos humanos,diseño ux",Medio,"Empatía,Análisis,Trabajo en equipo,Organización",6,Bajo,En revisión
+C814,Paloma Guardiola León,bblanch@example.org,"recursos humanos,selección,diseño ux",Alto,"Organización,Negociación,Trabajo en equipo,Atención al detalle",1,Medio,Contratado
+C815,Prudencio Gisbert Pinedo,carminavicens@example.org,"diseño ux,java,finanzas,impuestos,marketing",Bajo,"Creatividad,Comunicación efectiva,Negociación,Liderazgo",0,Medio,Contratado
+C816,Félix de Urrutia,gabriela12@example.com,"estrategia,recursos humanos,prototipado,python,ui,ventas,nóminas",Alto,"Análisis,Empatía,Comunicación efectiva,Negociación",9,Bajo,En revisión
+C817,Ofelia Reig Ferrán,lilia33@example.com,"recursos humanos,ui,python,java,nóminas",Medio,"Atención al detalle,Comunicación efectiva",1,Medio,No contratado
+C818,Vanesa Josefina Pla Velázquez,quinterobeatriz@example.com,"diseño ux,nóminas,selección,impuestos",Alto,"Organización,Liderazgo,Creatividad,Empatía",0,Medio,Contratado
+C819,Susanita Aroca Tena,canovasjose-angel@example.com,"selección,marketing,finanzas",Medio,"Trabajo en equipo,Empatía",13,Bajo,En revisión
+C820,Andrés Luz Pol,dbarrena@example.org,"finanzas,marketing,ventas,recursos humanos,diseño ux",Bajo,"Organización,Comunicación efectiva,Trabajo en equipo",4,Bajo,Contratado
+C821,América Juan Plaza,georginatejada@example.net,"ui,contabilidad,diseño ux",Medio,"Creatividad,Atención al detalle",14,Alto,No contratado
+C822,Eduardo Robles Marti,javi48@example.net,"marketing,nóminas,estrategia",Medio,"Negociación,Comunicación efectiva",13,Medio,Contratado
+C823,Jorge Antúnez Hidalgo,dfuente@example.org,"diseño ux,finanzas,nóminas,prototipado,marketing",Alto,"Negociación,Resolución de problemas",3,Alto,No contratado
+C824,Charo Zurita-Mateos,qandrade@example.org,"prototipado,impuestos,java,ventas,marketing,ui,nóminas",Medio,"Empatía,Atención al detalle",3,Bajo,En revisión
+C825,Martín Baquero-Teruel,panfilocolomer@example.com,"contabilidad,impuestos,ventas,ui",Medio,"Organización,Resolución de problemas,Comunicación efectiva,Negociación",14,Alto,En revisión
+C826,Mercedes del Olivares,adalberto72@example.net,"ui,python,selección",Alto,"Análisis,Trabajo en equipo,Comunicación efectiva,Organización",4,Bajo,Contratado
+C827,Eladio Gascón Fabra,lorenzorosario@example.net,"diseño ux,recursos humanos,estrategia,finanzas",Bajo,"Empatía,Comunicación efectiva,Análisis",13,Bajo,En revisión
+C828,Tania Ruano-Asensio,juana73@example.com,"ventas,selección,marketing",Bajo,"Comunicación efectiva,Análisis,Resolución de problemas",5,Medio,En revisión
+C829,Elodia Simó Moll,ignacio20@example.net,"finanzas,nóminas,marketing,estrategia",Alto,"Empatía,Organización,Resolución de problemas,Análisis",1,Alto,No contratado
+C830,Tiburcio Vigil Roldan,jose-miguel49@example.com,"prototipado,nóminas,ventas,desarrollo,contabilidad,ui,estrategia",Alto,"Organización,Comunicación efectiva",15,Bajo,En revisión
+C831,Laura Laguna Moll,zmanzano@example.org,"estrategia,finanzas,diseño ux",Alto,"Negociación,Trabajo en equipo,Atención al detalle,Análisis",7,Medio,En revisión
+C832,Áurea Azcona Álvarez,reynavilanova@example.com,"prototipado,contabilidad,selección,marketing,ventas,impuestos,ui",Medio,"Resolución de problemas,Atención al detalle,Empatía",1,Alto,No contratado
+C833,Nico Puente Hierro,arielheredia@example.com,"selección,nóminas,marketing,ui,desarrollo",Alto,"Resolución de problemas,Comunicación efectiva,Liderazgo",0,Bajo,En revisión
+C834,Nieves Figueroa,bilbaopascuala@example.net,"java,ventas,diseño ux,selección,desarrollo,python",Medio,"Organización,Resolución de problemas,Análisis",13,Bajo,Contratado
+C835,Valerio del Tena,emma77@example.com,"contabilidad,marketing,ventas,recursos humanos",Medio,"Comunicación efectiva,Liderazgo,Negociación",14,Medio,Contratado
+C836,Maxi Chucho Higueras Barral,bertopuig@example.com,"ui,java,desarrollo,python,recursos humanos,contabilidad,finanzas",Medio,"Atención al detalle,Negociación",6,Bajo,No contratado
+C837,María de Conde,paloma87@example.net,"desarrollo,finanzas,ventas,prototipado,recursos humanos,selección,nóminas",Medio,"Negociación,Organización,Empatía,Trabajo en equipo",9,Medio,En revisión
+C838,Amor Juanita Marcos Salinas,ibanbermejo@example.net,"selección,contabilidad,desarrollo,estrategia,recursos humanos",Bajo,"Organización,Liderazgo",9,Medio,En revisión
+C839,Anita Mendez Orozco,juanitacabo@example.net,"ui,diseño ux,contabilidad",Medio,"Análisis,Resolución de problemas",3,Medio,En revisión
+C840,Ileana Arco Ibarra,tescamilla@example.org,"estrategia,impuestos,marketing,selección,recursos humanos,java",Medio,"Atención al detalle,Creatividad,Trabajo en equipo,Análisis",5,Medio,Contratado
+C841,Inés Alcolea Cadenas,angelpatricia@example.net,"estrategia,desarrollo,finanzas",Alto,"Negociación,Trabajo en equipo,Análisis",7,Medio,No contratado
+C842,Jose Ramón Grau Piquer,fonsecacruz@example.net,"marketing,nóminas,estrategia",Bajo,"Organización,Empatía,Creatividad",8,Bajo,En revisión
+C843,Carolina Carpio Canales,ejimenez@example.com,"nóminas,marketing,diseño ux,python,java,recursos humanos",Medio,"Organización,Negociación,Atención al detalle,Resolución de problemas",4,Alto,En revisión
+C844,Maxi Manjón Blanco,blanchroldan@example.com,"diseño ux,ui,selección,contabilidad,java",Alto,"Negociación,Análisis,Organización,Comunicación efectiva",0,Alto,Contratado
+C845,Javi Puente Puig,jordan20@example.com,"nóminas,ventas,impuestos,ui,java",Alto,"Negociación,Creatividad",4,Medio,No contratado
+C846,Arcelia Vicenta Flores Vallejo,walter28@example.com,"impuestos,estrategia,finanzas,contabilidad,selección",Bajo,"Negociación,Empatía,Atención al detalle",8,Bajo,No contratado
+C847,Amador Blanes Vallés,cruz63@example.org,"python,ui,diseño ux",Medio,"Empatía,Comunicación efectiva,Trabajo en equipo",7,Bajo,Contratado
+C848,Lourdes Marti,nydia00@example.net,"python,contabilidad,java,finanzas",Bajo,"Creatividad,Negociación,Empatía",10,Medio,No contratado
+C849,Marta Jovita Bilbao Marin,pulidogaspar@example.net,"estrategia,marketing,java,python,contabilidad,nóminas",Medio,"Análisis,Comunicación efectiva",7,Medio,No contratado
+C850,Tecla Carrera,ayusovictorino@example.net,"impuestos,contabilidad,nóminas,python,ui",Alto,"Empatía,Trabajo en equipo,Resolución de problemas",2,Medio,No contratado
+C851,Benigno Pedrero-Carranza,manzanonoemi@example.net,"desarrollo,diseño ux,marketing,nóminas,prototipado",Alto,"Trabajo en equipo,Análisis",1,Bajo,En revisión
+C852,Luis Miguel Castejón Valentín,albertjover@example.org,"java,contabilidad,marketing,finanzas",Medio,"Trabajo en equipo,Resolución de problemas,Negociación",8,Bajo,Contratado
+C853,Jose Angel Plana,arenasjose-manuel@example.com,"nóminas,ui,java,desarrollo,marketing,python,impuestos",Bajo,"Liderazgo,Comunicación efectiva",15,Medio,En revisión
+C854,Noelia Gimenez Mas,eligiamateu@example.org,"estrategia,java,ui,nóminas,ventas,diseño ux",Bajo,"Empatía,Resolución de problemas",7,Medio,No contratado
+C855,Vicenta Ribes Calvo,cortescesar@example.net,"java,ui,recursos humanos,impuestos,diseño ux,nóminas",Medio,"Resolución de problemas,Creatividad",10,Medio,Contratado
+C856,Dalila del Real,ocanet@example.com,"selección,diseño ux,recursos humanos,ui,python,estrategia",Medio,"Liderazgo,Comunicación efectiva",15,Medio,No contratado
+C857,Martina Barranco,kpino@example.net,"diseño ux,ventas,estrategia,selección",Alto,"Comunicación efectiva,Análisis,Negociación,Resolución de problemas",2,Medio,En revisión
+C858,Valentín Fiol Tejedor,lucia78@example.com,"selección,contabilidad,marketing,ui,python,estrategia,java",Alto,"Negociación,Atención al detalle,Resolución de problemas,Análisis",0,Medio,En revisión
+C859,Juanita Posada,aguedaborrego@example.com,"java,nóminas,marketing",Alto,"Liderazgo,Resolución de problemas,Comunicación efectiva",4,Bajo,En revisión
+C860,Álvaro Perera Salamanca,martorellirene@example.com,"contabilidad,prototipado,desarrollo,selección,nóminas,diseño ux",Medio,"Resolución de problemas,Creatividad,Organización",4,Bajo,Contratado
+C861,Faustino de Belmonte,qverdugo@example.org,"desarrollo,marketing,ventas",Medio,"Liderazgo,Creatividad,Atención al detalle,Trabajo en equipo",0,Bajo,Contratado
+C862,Ruperta Carbajo Anaya,petrona72@example.net,"diseño ux,nóminas,marketing,prototipado,recursos humanos",Bajo,"Empatía,Comunicación efectiva,Liderazgo,Creatividad",14,Bajo,En revisión
+C863,Edgardo Javier Montoya Miranda,marciano46@example.org,"estrategia,prototipado,ui,recursos humanos",Medio,"Liderazgo,Análisis,Organización,Empatía",7,Bajo,En revisión
+C864,Purificación de Diez,ramonasaez@example.org,"recursos humanos,python,prototipado,marketing,ventas,impuestos,finanzas",Medio,"Negociación,Creatividad,Atención al detalle",11,Bajo,Contratado
+C865,Andrés Felipe Garzón Barbero,kespana@example.net,"desarrollo,selección,estrategia,marketing,ui",Bajo,"Creatividad,Análisis,Resolución de problemas",8,Bajo,No contratado
+C866,Calixta Crespi Durán,montesinosluna@example.org,"marketing,python,prototipado,nóminas,estrategia",Medio,"Liderazgo,Trabajo en equipo",8,Bajo,No contratado
+C867,Marisa Soraya Bastida Vázquez,wplaza@example.org,"estrategia,prototipado,recursos humanos,nóminas",Medio,"Atención al detalle,Comunicación efectiva,Resolución de problemas",0,Bajo,En revisión
+C868,Paca de Bonilla,sabinaalemany@example.net,"ui,diseño ux,prototipado,java,finanzas",Bajo,"Empatía,Análisis,Organización",0,Bajo,No contratado
+C869,Jordi Feliu,teoarco@example.com,"python,estrategia,ui,finanzas",Medio,"Creatividad,Negociación,Organización,Resolución de problemas",3,Alto,Contratado
+C870,Encarnación Andres Menendez,josebernal@example.org,"impuestos,python,java,contabilidad",Medio,"Negociación,Resolución de problemas,Atención al detalle",4,Alto,Contratado
+C871,Tiburcio Catalán Valera,luis28@example.com,"nóminas,java,diseño ux,contabilidad,impuestos,ventas,marketing",Bajo,"Creatividad,Comunicación efectiva,Atención al detalle",10,Alto,Contratado
+C872,Geraldo Cabeza Izquierdo,barbarafalco@example.org,"java,contabilidad,ventas,prototipado,desarrollo",Medio,"Resolución de problemas,Atención al detalle,Trabajo en equipo,Negociación",5,Medio,No contratado
+C873,María Fernanda del Tur,dalila88@example.net,"estrategia,impuestos,diseño ux,desarrollo,ui,recursos humanos",Medio,"Trabajo en equipo,Negociación,Empatía",13,Alto,No contratado
+C874,Eugenio Muro Franch,sofia79@example.org,"finanzas,recursos humanos,prototipado,python",Medio,"Atención al detalle,Resolución de problemas,Negociación",0,Bajo,Contratado
+C875,Gabriel Asensio-Gutiérrez,pepita26@example.com,"ventas,ui,python",Bajo,"Atención al detalle,Trabajo en equipo",12,Alto,Contratado
+C876,Anabel de Carbó,acerro@example.com,"estrategia,java,diseño ux,impuestos",Bajo,"Creatividad,Liderazgo,Organización",8,Medio,Contratado
+C877,Eustaquio Ferrero,mayte89@example.net,"python,recursos humanos,java,nóminas,prototipado",Alto,"Comunicación efectiva,Análisis,Liderazgo,Organización",14,Bajo,No contratado
+C878,Paulino Verdugo Andres,nadalprimitiva@example.net,"prototipado,recursos humanos,finanzas",Bajo,"Liderazgo,Trabajo en equipo,Análisis",4,Bajo,En revisión
+C879,Ulises Verdú,segarrajose-miguel@example.com,"recursos humanos,estrategia,ventas,finanzas",Medio,"Creatividad,Atención al detalle",15,Bajo,No contratado
+C880,José Mari Castilla Polo,knoguera@example.com,"selección,recursos humanos,ventas,prototipado,desarrollo,marketing,impuestos",Bajo,"Empatía,Creatividad",7,Medio,Contratado
+C881,Aroa de Hidalgo,tere37@example.com,"estrategia,finanzas,nóminas,prototipado,desarrollo,selección,impuestos",Medio,"Resolución de problemas,Comunicación efectiva",3,Medio,En revisión
+C882,Felipa Falcó Jove,jaumedaniel@example.net,"selección,diseño ux,estrategia",Bajo,"Atención al detalle,Empatía",15,Medio,Contratado
+C883,Porfirio Huerta,manjonromulo@example.net,"impuestos,marketing,diseño ux,java,selección,ventas",Alto,"Resolución de problemas,Organización",8,Medio,En revisión
+C884,Elías Ros Garay,amandaroman@example.com,"selección,finanzas,recursos humanos,prototipado,desarrollo",Bajo,"Organización,Negociación,Análisis",0,Medio,En revisión
+C885,Florinda Álvarez-Cabello,bermudezjuan-carlos@example.net,"ui,desarrollo,marketing,python",Bajo,"Empatía,Resolución de problemas,Liderazgo,Análisis",2,Bajo,Contratado
+C886,Casandra Pozuelo Bernal,qllanos@example.com,"python,diseño ux,nóminas",Alto,"Organización,Comunicación efectiva,Negociación",7,Medio,En revisión
+C887,Juan Carlos Buendía Palomino,elianarey@example.net,"java,ui,marketing,ventas",Bajo,"Atención al detalle,Análisis,Organización",9,Medio,No contratado
+C888,Juliana Manso Perelló,bernadtimoteo@example.com,"desarrollo,nóminas,ui",Alto,"Análisis,Empatía,Comunicación efectiva,Negociación",5,Alto,No contratado
+C889,Aarón Juan Patiño,mirallescalixta@example.net,"prototipado,contabilidad,nóminas,ui,finanzas,desarrollo,java",Alto,"Atención al detalle,Resolución de problemas,Negociación",7,Medio,En revisión
+C890,Teodoro de Meléndez,gimenoezequiel@example.com,"desarrollo,diseño ux,python,ventas,impuestos,ui",Bajo,"Resolución de problemas,Comunicación efectiva,Trabajo en equipo,Liderazgo",12,Alto,No contratado
+C891,Felipe Escalona Chacón,vrevilla@example.com,"desarrollo,diseño ux,ventas,finanzas,nóminas,contabilidad",Medio,"Creatividad,Negociación,Empatía",15,Bajo,En revisión
+C892,Adela del Mur,naguirre@example.com,"desarrollo,finanzas,marketing,diseño ux,ui,recursos humanos",Bajo,"Empatía,Organización",7,Alto,No contratado
+C893,Apolinar Román Iborra,educruz@example.com,"nóminas,recursos humanos,selección",Alto,"Análisis,Liderazgo,Comunicación efectiva",10,Medio,En revisión
+C894,Candela Bou García,jose-miguelpoza@example.net,"selección,prototipado,finanzas,desarrollo,ventas,diseño ux,nóminas",Alto,"Análisis,Creatividad",8,Alto,No contratado
+C895,Mateo del Anguita,solsureda@example.com,"desarrollo,recursos humanos,finanzas,marketing,java",Medio,"Análisis,Liderazgo,Creatividad",6,Bajo,Contratado
+C896,Ciriaco Rivero-Vila,ecoca@example.net,"desarrollo,finanzas,prototipado,impuestos",Bajo,"Empatía,Negociación",14,Bajo,Contratado
+C897,Francisco Jose Jose Antonio Cañas Pla,marticarlos@example.net,"nóminas,prototipado,selección,recursos humanos,desarrollo,marketing",Medio,"Análisis,Creatividad,Liderazgo",6,Medio,Contratado
+C898,Rufino Izaguirre Pou,rosaura31@example.net,"estrategia,ui,prototipado",Alto,"Negociación,Trabajo en equipo",8,Bajo,Contratado
+C899,Febe Tapia Corbacho,victorino10@example.org,"marketing,ventas,impuestos,diseño ux,ui,recursos humanos,selección",Alto,"Organización,Comunicación efectiva",6,Medio,Contratado
+C900,Soledad Rey Campos,arroyoamado@example.org,"diseño ux,estrategia,ui,impuestos,contabilidad",Bajo,"Creatividad,Organización",10,Bajo,Contratado
+C901,Victor Manuel Calderon Narváez,cruz89@example.net,"java,diseño ux,contabilidad,prototipado",Medio,"Liderazgo,Análisis,Organización",12,Alto,En revisión
+C902,Celestina Aurora Gual Fábregas,buenaventuraferrando@example.net,"finanzas,desarrollo,ventas",Bajo,"Negociación,Análisis,Comunicación efectiva",7,Alto,Contratado
+C903,Cebrián Casals Palacios,palmira72@example.com,"java,ui,impuestos,diseño ux,python",Alto,"Comunicación efectiva,Liderazgo,Organización,Trabajo en equipo",7,Bajo,Contratado
+C904,África Paca Azcona Ayuso,fcasal@example.net,"nóminas,selección,diseño ux",Alto,"Organización,Empatía",14,Medio,No contratado
+C905,Juan Francisco Cristian Jordá Oller,marvergara@example.com,"java,python,estrategia,diseño ux,ventas,prototipado,nóminas",Bajo,"Trabajo en equipo,Empatía",11,Medio,Contratado
+C906,Morena Gallart-Planas,melania22@example.net,"desarrollo,marketing,java",Alto,"Creatividad,Negociación,Empatía",2,Medio,En revisión
+C907,Gonzalo del Solís,carlos97@example.org,"estrategia,diseño ux,recursos humanos,impuestos,selección,contabilidad,ui",Bajo,"Análisis,Creatividad,Empatía",1,Alto,En revisión
+C908,Herberto Collado Barral,zurena@example.com,"ui,recursos humanos,contabilidad,selección,python",Bajo,"Empatía,Trabajo en equipo",8,Medio,En revisión
+C909,Juan José Hierro Hernandez,lorenzo79@example.net,"contabilidad,nóminas,python,estrategia,finanzas",Medio,"Comunicación efectiva,Análisis",15,Medio,No contratado
+C910,Pilar Puga Casanova,venceslas59@example.org,"ui,prototipado,marketing,finanzas,contabilidad,desarrollo",Alto,"Atención al detalle,Comunicación efectiva,Análisis",7,Bajo,Contratado
+C911,Kike Pons Salom,xiomara13@example.org,"python,selección,finanzas,recursos humanos",Alto,"Resolución de problemas,Creatividad,Atención al detalle,Liderazgo",14,Alto,No contratado
+C912,Luis Ángel Murillo Montero,veronica61@example.net,"java,ui,prototipado,recursos humanos",Bajo,"Comunicación efectiva,Organización",11,Bajo,Contratado
+C913,Olivia Valentina Galiano Zabaleta,eayllon@example.com,"desarrollo,recursos humanos,diseño ux,selección,contabilidad,prototipado",Alto,"Negociación,Análisis",13,Bajo,Contratado
+C914,Azahar de Pareja,anastasiatorrijos@example.org,"recursos humanos,finanzas,diseño ux,desarrollo,impuestos,java,python",Alto,"Atención al detalle,Análisis",3,Alto,Contratado
+C915,Lola Larrañaga Pera,cristina42@example.com,"estrategia,selección,recursos humanos",Medio,"Empatía,Comunicación efectiva,Análisis,Creatividad",2,Medio,En revisión
+C916,Angelino Amores,icalderon@example.net,"ventas,nóminas,finanzas,recursos humanos,marketing,desarrollo",Medio,"Resolución de problemas,Comunicación efectiva,Organización,Empatía",4,Bajo,Contratado
+C917,Ruy Agustín Barrena,rourasoledad@example.org,"desarrollo,estrategia,diseño ux,ventas,python",Medio,"Negociación,Análisis,Liderazgo",5,Medio,No contratado
+C918,Luís Paredes Blasco,amalia93@example.com,"prototipado,impuestos,selección",Alto,"Creatividad,Atención al detalle",9,Bajo,Contratado
+C919,Victor Arenas-Cobos,campillohortensia@example.org,"ventas,estrategia,desarrollo,diseño ux,finanzas,recursos humanos",Alto,"Trabajo en equipo,Resolución de problemas,Organización,Creatividad",12,Medio,En revisión
+C920,Juan Manuel Llopis Plana,oraya@example.com,"nóminas,marketing,desarrollo,contabilidad,recursos humanos,impuestos,ui",Medio,"Trabajo en equipo,Organización",3,Bajo,En revisión
+C921,Ruperta Galindo-Marcos,fernandaruiz@example.org,"python,desarrollo,impuestos,contabilidad,marketing",Alto,"Creatividad,Empatía",9,Alto,Contratado
+C922,Marino Peláez Hernández,tamarapozo@example.net,"contabilidad,recursos humanos,estrategia,python,selección,java,ventas",Alto,"Comunicación efectiva,Atención al detalle,Organización",12,Medio,En revisión
+C923,Prudencio Gaya Arias,campillomar@example.com,"contabilidad,desarrollo,java,ventas,finanzas,selección,ui",Medio,"Resolución de problemas,Negociación",10,Medio,Contratado
+C924,Lalo Villalobos Gracia,abiliocardenas@example.net,"marketing,java,finanzas,python,selección,prototipado",Bajo,"Creatividad,Empatía",10,Bajo,Contratado
+C925,César Barbero Heras,famigo@example.com,"nóminas,marketing,contabilidad",Medio,"Comunicación efectiva,Trabajo en equipo",7,Medio,No contratado
+C926,Luis Murcia Garcia,velazquezfeliciano@example.com,"contabilidad,selección,ui,diseño ux,nóminas,python",Bajo,"Organización,Análisis,Resolución de problemas",11,Medio,No contratado
+C927,Ascensión Franco Tur,klerma@example.net,"diseño ux,contabilidad,ui,selección,marketing,ventas,java",Bajo,"Negociación,Creatividad,Atención al detalle,Resolución de problemas",12,Medio,En revisión
+C928,Florina Almeida Peñas,amolucila@example.org,"marketing,desarrollo,java,selección,contabilidad",Bajo,"Organización,Análisis,Trabajo en equipo,Empatía",0,Medio,No contratado
+C929,Cristian Cabrera Mas,acheca@example.com,"impuestos,recursos humanos,ventas,nóminas,finanzas",Medio,"Empatía,Creatividad",8,Alto,No contratado
+C930,Nilda Soto López,faustobellido@example.com,"contabilidad,prototipado,recursos humanos",Bajo,"Liderazgo,Trabajo en equipo,Negociación,Creatividad",8,Medio,Contratado
+C931,Javiera Bastida Escalona,amaropi@example.org,"prototipado,estrategia,impuestos,ventas,marketing,diseño ux",Alto,"Organización,Resolución de problemas,Análisis,Atención al detalle",13,Alto,En revisión
+C932,Nacio Salvà Bustos,jafetroman@example.com,"finanzas,ventas,impuestos,desarrollo",Bajo,"Comunicación efectiva,Trabajo en equipo",8,Alto,En revisión
+C933,Juanito Peralta Belda,fcanton@example.com,"ventas,diseño ux,finanzas,impuestos,contabilidad,prototipado,ui",Bajo,"Liderazgo,Negociación",13,Alto,Contratado
+C934,Rosalía de Benito,zsanabria@example.org,"diseño ux,prototipado,contabilidad,finanzas,python,nóminas",Medio,"Creatividad,Atención al detalle,Organización",8,Alto,No contratado
+C935,Natalio Aguiló Alfaro,eladio19@example.org,"desarrollo,estrategia,marketing",Alto,"Análisis,Comunicación efectiva,Resolución de problemas,Atención al detalle",7,Alto,Contratado
+C936,Íñigo Tristán Vidal Mur,ccervera@example.net,"diseño ux,finanzas,ui",Medio,"Trabajo en equipo,Liderazgo,Empatía",5,Bajo,Contratado
+C937,Benigna Melero Calderón,moreno30@example.net,"estrategia,nóminas,impuestos,finanzas,selección,recursos humanos",Alto,"Negociación,Empatía,Comunicación efectiva,Creatividad",3,Alto,Contratado
+C938,Dalila Anaya Pallarès,lferrera@example.com,"finanzas,python,selección,diseño ux,contabilidad,prototipado",Bajo,"Resolución de problemas,Análisis,Creatividad",11,Bajo,No contratado
+C939,Vasco Jacobo Parejo Esparza,jose-antonio49@example.org,"prototipado,ventas,selección,ui,contabilidad,python",Alto,"Negociación,Creatividad,Comunicación efectiva,Atención al detalle",15,Alto,No contratado
+C940,Pepe Rincón Franch,jesusa41@example.org,"ui,prototipado,diseño ux,recursos humanos,impuestos",Alto,"Organización,Atención al detalle",3,Alto,En revisión
+C941,Wálter Fortuny Villena,fquevedo@example.org,"prototipado,java,diseño ux,marketing,ventas,recursos humanos,desarrollo",Bajo,"Resolución de problemas,Comunicación efectiva,Negociación",5,Alto,En revisión
+C942,Magdalena Meléndez Álamo,lucenawilfredo@example.org,"python,contabilidad,prototipado,selección",Bajo,"Comunicación efectiva,Resolución de problemas,Creatividad,Trabajo en equipo",9,Medio,No contratado
+C943,Mayte Landa-Baró,adelia61@example.net,"ventas,impuestos,prototipado,contabilidad,nóminas",Alto,"Organización,Empatía,Negociación",8,Medio,Contratado
+C944,Abraham Gras Calvet,jrubio@example.net,"nóminas,finanzas,marketing,ui,java",Medio,"Atención al detalle,Empatía,Liderazgo",7,Bajo,Contratado
+C945,Arturo Cantero,alegreagustin@example.net,"python,desarrollo,ventas,marketing,selección,java,finanzas",Alto,"Atención al detalle,Análisis",9,Bajo,Contratado
+C946,Ruth Azorin Viñas,emiliaalcaraz@example.com,"diseño ux,prototipado,ventas,finanzas,impuestos,recursos humanos",Alto,"Trabajo en equipo,Creatividad,Organización",10,Alto,En revisión
+C947,Nereida Ema Quesada Tenorio,xechevarria@example.org,"java,estrategia,selección,prototipado",Bajo,"Liderazgo,Negociación",5,Alto,En revisión
+C948,Carmen Daza Ribera,xcanellas@example.org,"ui,impuestos,recursos humanos,estrategia",Alto,"Resolución de problemas,Análisis,Trabajo en equipo",15,Medio,No contratado
+C949,Yolanda Iglesia Peralta,fuentesraquel@example.org,"selección,contabilidad,marketing,recursos humanos,finanzas,estrategia,prototipado",Medio,"Liderazgo,Organización,Atención al detalle,Análisis",11,Bajo,No contratado
+C950,Juan Antonio Fajardo Ramírez,xberrocal@example.net,"marketing,estrategia,desarrollo",Bajo,"Análisis,Organización,Resolución de problemas,Creatividad",8,Medio,En revisión
+C951,Visitación Manzanares Vila,ramon58@example.org,"selección,nóminas,ui,recursos humanos,finanzas",Medio,"Comunicación efectiva,Liderazgo,Creatividad",15,Bajo,Contratado
+C952,Baltasar Canals Miguel,jose81@example.org,"contabilidad,impuestos,ventas,estrategia,nóminas,recursos humanos,marketing",Bajo,"Atención al detalle,Comunicación efectiva,Creatividad,Organización",5,Alto,Contratado
+C953,Aureliano Boix Tur,ileana84@example.net,"java,ui,python,marketing",Bajo,"Resolución de problemas,Negociación",9,Alto,No contratado
+C954,Bautista Capdevila,granadosagapito@example.com,"diseño ux,python,ventas,marketing,recursos humanos,java,desarrollo",Alto,"Atención al detalle,Organización,Comunicación efectiva",12,Alto,Contratado
+C955,Plácido del Toledo,chuy79@example.net,"diseño ux,python,recursos humanos,finanzas,marketing",Alto,"Liderazgo,Atención al detalle,Resolución de problemas",11,Alto,Contratado
+C956,Emma Martin Hurtado,mesacelso@example.net,"ui,impuestos,finanzas,diseño ux,nóminas",Bajo,"Empatía,Liderazgo,Atención al detalle,Comunicación efectiva",11,Bajo,Contratado
+C957,Margarita Calzada Castro,jaimebaron@example.org,"impuestos,ui,selección,nóminas,recursos humanos",Medio,"Trabajo en equipo,Negociación,Liderazgo,Creatividad",6,Medio,No contratado
+C958,Herminio Fabregat-Barrena,octavia37@example.org,"finanzas,java,ui",Medio,"Empatía,Creatividad,Comunicación efectiva",14,Bajo,Contratado
+C959,Calisto Bolaños Fuente,aiborra@example.com,"ventas,desarrollo,python,finanzas,diseño ux,recursos humanos",Bajo,"Trabajo en equipo,Análisis",1,Alto,Contratado
+C960,Leonardo Carretero-Elorza,marcosescribano@example.org,"recursos humanos,nóminas,finanzas",Alto,"Resolución de problemas,Liderazgo,Análisis,Atención al detalle",7,Medio,Contratado
+C961,Arsenio Pascual Noriega,qcervantes@example.org,"prototipado,java,diseño ux,selección",Medio,"Negociación,Comunicación efectiva,Atención al detalle",10,Alto,En revisión
+C962,Félix Calzada Roselló,epifanio12@example.net,"ventas,nóminas,diseño ux,python",Medio,"Análisis,Creatividad,Liderazgo,Comunicación efectiva",9,Alto,No contratado
+C963,Pánfilo Arcos Cuervo,guadalupefiguerola@example.org,"nóminas,impuestos,prototipado,desarrollo,estrategia,ventas,finanzas",Alto,"Comunicación efectiva,Liderazgo,Creatividad",10,Medio,No contratado
+C964,Anacleto Mas Gomez,priscila46@example.org,"recursos humanos,nóminas,impuestos,java,ventas,contabilidad",Medio,"Comunicación efectiva,Negociación,Atención al detalle,Creatividad",15,Bajo,No contratado
+C965,Renato Peláez Roca,riusalbino@example.org,"prototipado,marketing,desarrollo,ventas,python,impuestos",Bajo,"Comunicación efectiva,Liderazgo",11,Alto,Contratado
+C966,Amancio Vilar,machadoelpidio@example.net,"impuestos,prototipado,nóminas,contabilidad,recursos humanos,ventas,diseño ux",Bajo,"Comunicación efectiva,Resolución de problemas,Atención al detalle,Trabajo en equipo",3,Medio,En revisión
+C967,Apolinar Carvajal,waparicio@example.net,"nóminas,selección,desarrollo,java,prototipado,estrategia,ventas",Alto,"Atención al detalle,Organización,Comunicación efectiva,Negociación",13,Medio,Contratado
+C968,Rodrigo Canals Tovar,valenzuelacelestina@example.org,"prototipado,diseño ux,impuestos,marketing,ventas",Medio,"Trabajo en equipo,Liderazgo,Comunicación efectiva",10,Alto,Contratado
+C969,Eligia Jiménez,doroteapeiro@example.com,"ui,impuestos,python,diseño ux",Medio,"Empatía,Resolución de problemas",3,Alto,No contratado
+C970,Mónica del Fuente,eusebiobaena@example.org,"prototipado,ui,impuestos,desarrollo,contabilidad,finanzas",Alto,"Organización,Liderazgo,Análisis",3,Medio,En revisión
+C971,Jacinta Balaguer Alberdi,ambar63@example.net,"ventas,python,estrategia,desarrollo,marketing,contabilidad",Bajo,"Atención al detalle,Organización,Creatividad,Análisis",11,Medio,Contratado
+C972,Reyes Izaguirre Mayo,lfonseca@example.org,"contabilidad,prototipado,impuestos,python,selección,ui",Bajo,"Organización,Resolución de problemas",8,Bajo,Contratado
+C973,Roberto Victor Cardona Bustamante,matilde03@example.com,"recursos humanos,marketing,java,python",Medio,"Liderazgo,Negociación,Resolución de problemas,Análisis",14,Medio,No contratado
+C974,Nico Giner Pujol,lvargas@example.net,"diseño ux,desarrollo,nóminas,contabilidad,ui,marketing",Medio,"Organización,Empatía",2,Bajo,No contratado
+C975,Amalia Barros Baró,monica31@example.org,"prototipado,diseño ux,finanzas",Medio,"Empatía,Análisis,Creatividad",3,Medio,En revisión
+C976,Gerónimo Botella Ribera,marquesluciana@example.com,"java,diseño ux,python,prototipado,contabilidad,estrategia",Medio,"Organización,Comunicación efectiva,Resolución de problemas",3,Alto,En revisión
+C977,Íngrid Vicente Serrano,maria-belen71@example.net,"finanzas,marketing,prototipado,java,ventas",Alto,"Creatividad,Atención al detalle,Resolución de problemas,Análisis",3,Bajo,En revisión
+C978,Anacleto Galiano Viña,karribas@example.com,"estrategia,marketing,ventas,python",Alto,"Liderazgo,Atención al detalle,Creatividad,Comunicación efectiva",4,Bajo,Contratado
+C979,Joel Ochoa Landa,telmosaez@example.net,"diseño ux,marketing,ventas,contabilidad,impuestos,java,estrategia",Bajo,"Comunicación efectiva,Organización,Liderazgo",6,Bajo,Contratado
+C980,Espiridión Hervás Pablo,gallegonuria@example.net,"impuestos,marketing,selección",Bajo,"Creatividad,Trabajo en equipo,Comunicación efectiva,Atención al detalle",5,Medio,No contratado
+C981,Martirio Ferrero Cornejo,cabanasalejandro@example.com,"impuestos,estrategia,ventas",Bajo,"Comunicación efectiva,Resolución de problemas,Liderazgo,Análisis",0,Bajo,Contratado
+C982,Efraín Soriano Díaz,dafne37@example.net,"selección,java,desarrollo,impuestos",Bajo,"Resolución de problemas,Empatía,Negociación",0,Medio,No contratado
+C983,Noemí Pintor Lobato,kginer@example.net,"recursos humanos,contabilidad,python,marketing",Bajo,"Análisis,Negociación,Empatía,Trabajo en equipo",6,Medio,Contratado
+C984,José del Nebot,yessica20@example.net,"finanzas,ventas,impuestos,ui,prototipado",Bajo,"Análisis,Creatividad",3,Medio,En revisión
+C985,Tadeo Ramón Amigó,perla95@example.org,"impuestos,selección,ui,contabilidad,prototipado,nóminas",Medio,"Empatía,Trabajo en equipo",2,Medio,No contratado
+C986,Juan José Bonifacio Reguera Antúnez,felixrobles@example.com,"nóminas,selección,ui,prototipado,ventas",Medio,"Comunicación efectiva,Negociación",13,Bajo,Contratado
+C987,Isidoro Agustí Calzada,emilia24@example.com,"ventas,prototipado,python,ui,marketing",Alto,"Negociación,Resolución de problemas,Organización",4,Bajo,No contratado
+C988,Rogelio Carretero,pereraandres-felipe@example.net,"java,desarrollo,ui,nóminas,selección,marketing,impuestos",Bajo,"Análisis,Negociación,Comunicación efectiva,Trabajo en equipo",15,Alto,En revisión
+C989,León del Gual,azucena47@example.com,"estrategia,java,python,desarrollo,diseño ux,impuestos",Medio,"Comunicación efectiva,Trabajo en equipo,Atención al detalle,Liderazgo",13,Medio,Contratado
+C990,Soledad Palacios Delgado,lmari@example.net,"impuestos,nóminas,finanzas,ui",Alto,"Resolución de problemas,Creatividad,Liderazgo",14,Medio,En revisión
+C991,Fabio Llorente Cervantes,manguita@example.org,"selección,prototipado,recursos humanos,diseño ux",Medio,"Negociación,Análisis,Trabajo en equipo,Resolución de problemas",10,Alto,Contratado
+C992,Hipólito Giner Jerez,fquero@example.org,"python,marketing,ventas,prototipado,finanzas,impuestos,contabilidad",Bajo,"Análisis,Liderazgo,Comunicación efectiva,Negociación",15,Bajo,No contratado
+C993,Atilio de Martin,msoto@example.com,"prototipado,estrategia,contabilidad,python,ui,recursos humanos",Alto,"Análisis,Liderazgo",11,Bajo,En revisión
+C994,Clarisa Ríos Castilla,orozcoamilcar@example.net,"contabilidad,ventas,selección,python",Medio,"Análisis,Liderazgo,Negociación,Creatividad",6,Bajo,En revisión
+C995,Nuria Casado Valera,gastontello@example.net,"python,recursos humanos,impuestos,ui,diseño ux,ventas,prototipado",Bajo,"Resolución de problemas,Organización,Negociación,Análisis",1,Alto,No contratado
+C996,Lucho Tirado Rocamora,upelayo@example.org,"java,nóminas,estrategia,prototipado,desarrollo,ventas",Medio,"Organización,Resolución de problemas",15,Alto,No contratado
+C997,Regina Gelabert Cortes,rodrigocarballo@example.org,"desarrollo,estrategia,selección,diseño ux,ui,ventas,prototipado",Medio,"Creatividad,Comunicación efectiva",1,Medio,No contratado
+C998,Susana Goñi Vallés,azorrilla@example.net,"marketing,estrategia,nóminas,desarrollo,ventas,selección,diseño ux",Alto,"Organización,Comunicación efectiva,Resolución de problemas,Empatía",6,Alto,En revisión
+C999,Onofre de Fernandez,georgina94@example.com,"recursos humanos,prototipado,desarrollo,diseño ux,impuestos,python",Bajo,"Trabajo en equipo,Análisis",10,Medio,No contratado
+C1000,Yaiza Rivero Montesinos,apolinar55@example.net,"desarrollo,finanzas,recursos humanos,python,java",Medio,"Atención al detalle,Análisis,Empatía",13,Alto,En revisión

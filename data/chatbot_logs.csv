@@ -1,0 +1,1001 @@
+timestamp,empleado_id,pregunta,intencion_detectada,respuesta_chatbot,satisfaccion_usuario
+2025-04-23 12:15:12,E1088,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:14:09,E269,¿Cuál es el horario de trabajo?,Consultar_horario,Tienes 9 días disponibles.,5
+2025-04-23 12:15:21,E1068,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:15:41,E837,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:15:34,E1067,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Tienes 6 días disponibles.,4
+2025-04-23 12:13:48,E681,¿Hay oportunidades de formación?,Consultar_formacion,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:15:34,E162,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:17,E012,¿Cuál es el horario de trabajo?,Consultar_horario,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:14:29,E700,No he recibido mi nómina.,Reclamar_nomina,Puedes hacerlo a través de tu perfil.,1
+2025-04-23 12:13:58,E017,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:16:17,E179,¿Cuál es la política de teletrabajo?,Consultar_politica,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:16:11,E037,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:15:28,E356,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Por favor, contacta con el departamento de nóminas.",2
+2025-04-23 12:14:31,E588,¿Cuál es el horario de trabajo?,Consultar_horario,Tienes 18 días disponibles.,2
+2025-04-23 12:15:25,E1008,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:15:07,E940,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:15:15,E385,¿Hay oportunidades de formación?,Consultar_formacion,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:16:04,E276,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,La política se encuentra en el portal del empleado.,1
+2025-04-23 12:16:28,E722,¿Cuál es la política de teletrabajo?,Consultar_politica,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:15:37,E149,¿Hay oportunidades de formación?,Consultar_formacion,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:14:44,E632,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Por favor, contacta con el departamento de nóminas.",1
+2025-04-23 12:15:13,E1186,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,El horario es de 9:00 a 18:00.,1
+2025-04-23 12:13:57,E209,¿Cuál es mi salario?,Consultar_salario,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:15:37,E713,¿Cuál es la política de teletrabajo?,Consultar_politica,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:15:40,E330,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tu salario es 1658.16.,4
+2025-04-23 12:14:46,E119,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:16:03,E038,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:14:07,E1032,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:14:30,E1132,¿Cuál es mi salario?,Consultar_salario,Tienes 20 días disponibles.,3
+2025-04-23 12:15:00,E1017,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:16:08,E358,¿Cómo solicito una baja médica?,Solicitar_baja,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:14:18,E1028,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:15:30,E1058,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:14:25,E412,¿Hay oportunidades de formación?,Consultar_formacion,Tienes 13 días disponibles.,5
+2025-04-23 12:13:47,E064,¿Cómo solicito una baja médica?,Solicitar_baja,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:14:39,E744,¿Cuál es el horario de trabajo?,Consultar_horario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:14:19,E130,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:15:39,E1094,¿Cuál es mi salario?,Consultar_salario,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:14:03,E290,¿Cuál es el horario de trabajo?,Consultar_horario,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:14:13,E510,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tienes 25 días disponibles.,4
+2025-04-23 12:16:09,E230,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Debes seguir los siguientes pasos: el sistema de gestión.,2
+2025-04-23 12:15:57,E1190,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:26,E980,¿Cuál es la política de teletrabajo?,Consultar_politica,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:16:05,E595,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:23,E1111,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Tu salario es 3056.07.,5
+2025-04-23 12:15:30,E457,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:15:19,E203,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:14:32,E384,¿Cuál es la política de teletrabajo?,Consultar_politica,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:15:25,E925,¿Cuál es el horario de trabajo?,Consultar_horario,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:13:41,E1045,¿Hay oportunidades de formación?,Consultar_formacion,"Sí, puedes encontrar información en la intranet.",1
+2025-04-23 12:14:36,E817,No he recibido mi nómina.,Reclamar_nomina,Tienes 7 días disponibles.,4
+2025-04-23 12:13:57,E1072,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:14:09,E935,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:53,E1058,No he recibido mi nómina.,Reclamar_nomina,Tu salario es 3444.85.,3
+2025-04-23 12:14:15,E1110,¿Hay oportunidades de formación?,Consultar_formacion,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:14:06,E088,¿Cuál es la política de teletrabajo?,Consultar_politica,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:16:08,E964,¿Hay oportunidades de formación?,Consultar_formacion,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:23,E713,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes contactarnos por email o teléfono.,1
+2025-04-23 12:14:01,E152,¿Cuál es mi salario?,Consultar_salario,Puedes hacerlo a través de tu perfil.,2
+2025-04-23 12:16:07,E1147,No he recibido mi nómina.,Reclamar_nomina,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:15:20,E545,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:13:42,E871,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:13:39,E265,¿Cuál es mi salario?,Consultar_salario,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:16:25,E922,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Tienes 10 días disponibles.,1
+2025-04-23 12:16:03,E951,¿Cuál es el horario de trabajo?,Consultar_horario,Tu salario es 2119.22.,3
+2025-04-23 12:14:46,E294,¿Cuál es mi salario?,Consultar_salario,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:14:10,E943,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Ofrecemos seguro médico, plan de pensiones como beneficios.",2
+2025-04-23 12:14:34,E739,¿Cuál es la política de teletrabajo?,Consultar_politica,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:14:09,E158,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Sí, puedes encontrar información en la intranet.",2
+2025-04-23 12:14:52,E526,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tu salario es 1799.43.,3
+2025-04-23 12:14:04,E323,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tu salario es 2718.3.,1
+2025-04-23 12:15:10,E137,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:15:49,E131,¿Cuál es mi salario?,Consultar_salario,Debes seguir los siguientes pasos: el sistema de gestión.,2
+2025-04-23 12:14:22,E605,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:15:38,E795,¿Cuál es el horario de trabajo?,Consultar_horario,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:14:06,E410,¿Hay oportunidades de formación?,Consultar_formacion,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:15:44,E153,¿Cuál es la política de teletrabajo?,Consultar_politica,Tienes 29 días disponibles.,3
+2025-04-23 12:14:29,E434,¿Cuál es la política de teletrabajo?,Consultar_politica,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:15:42,E669,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:14:47,E999,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:10,E573,¿Cuál es la política de teletrabajo?,Consultar_politica,Tienes 6 días disponibles.,5
+2025-04-23 12:15:25,E132,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:14:59,E244,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:13:59,E1127,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Debes seguir los siguientes pasos: el sistema de gestión.,1
+2025-04-23 12:13:36,E017,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:16:08,E650,¿Cómo puedo cambiar mi información personal?,Actualizar_info,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:15:57,E439,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:14:47,E1036,¿Cómo solicito una baja médica?,Solicitar_baja,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:16:13,E256,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Debes seguir los siguientes pasos: el sistema de gestión.,1
+2025-04-23 12:15:28,E457,¿Cuál es la política de teletrabajo?,Consultar_politica,"Por favor, contacta con el departamento de nóminas.",1
+2025-04-23 12:15:57,E1001,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:14:21,E239,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:13:52,E131,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tu salario es 2156.76.,1
+2025-04-23 12:15:01,E022,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:13:54,E782,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tienes 16 días disponibles.,5
+2025-04-23 12:13:49,E883,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:14:25,E410,No he recibido mi nómina.,Reclamar_nomina,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:16:29,E260,No he recibido mi nómina.,Reclamar_nomina,Tu salario es 3922.28.,4
+2025-04-23 12:16:24,E400,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:15:26,E330,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:33,E637,¿Cuál es el horario de trabajo?,Consultar_horario,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:15:01,E1197,¿Cuál es la política de teletrabajo?,Consultar_politica,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:16:03,E1086,¿Cuál es mi salario?,Consultar_salario,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:16:02,E826,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes contactarnos por email o teléfono.,2
+2025-04-23 12:14:37,E429,¿Cuál es el horario de trabajo?,Consultar_horario,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:15:35,E796,No he recibido mi nómina.,Reclamar_nomina,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:15:43,E335,¿Hay oportunidades de formación?,Consultar_formacion,Tienes 22 días disponibles.,5
+2025-04-23 12:14:26,E1103,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Tienes 7 días disponibles.,1
+2025-04-23 12:14:05,E740,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:13:45,E060,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:15:12,E730,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Sí, puedes encontrar información en la intranet.",2
+2025-04-23 12:14:59,E1094,No he recibido mi nómina.,Reclamar_nomina,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:15:09,E982,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:15:14,E795,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes hacerlo a través de tu perfil.,2
+2025-04-23 12:15:24,E916,¿Cuál es el horario de trabajo?,Consultar_horario,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:16:16,E112,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:49,E123,¿Cuál es la política de teletrabajo?,Consultar_politica,Tu salario es 3230.82.,5
+2025-04-23 12:13:36,E076,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:15:12,E1195,¿Hay oportunidades de formación?,Consultar_formacion,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:14:20,E251,No he recibido mi nómina.,Reclamar_nomina,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:13:41,E1070,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:18,E449,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:16:11,E990,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:16:17,E373,¿Cuál es la política de teletrabajo?,Consultar_politica,Tu salario es 3922.92.,4
+2025-04-23 12:14:43,E259,¿Cómo solicito una baja médica?,Solicitar_baja,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:14:14,E868,¿Hay oportunidades de formación?,Consultar_formacion,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:14:52,E943,¿Cuál es el horario de trabajo?,Consultar_horario,Tienes 27 días disponibles.,5
+2025-04-23 12:14:49,E948,¿Cuál es la política de teletrabajo?,Consultar_politica,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:16:12,E272,No he recibido mi nómina.,Reclamar_nomina,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:16:15,E585,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Tienes 10 días disponibles.,4
+2025-04-23 12:16:10,E401,No he recibido mi nómina.,Reclamar_nomina,Tu salario es 1811.76.,4
+2025-04-23 12:13:47,E996,¿Cuál es mi salario?,Consultar_salario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:16:14,E170,¿Cuál es mi salario?,Consultar_salario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:16:23,E527,¿Cómo puedo cambiar mi información personal?,Actualizar_info,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:14:28,E119,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tienes 26 días disponibles.,5
+2025-04-23 12:15:20,E978,¿Hay oportunidades de formación?,Consultar_formacion,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:24,E1198,¿Cuál es el horario de trabajo?,Consultar_horario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:15:35,E990,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Ofrecemos seguro médico, plan de pensiones como beneficios.",2
+2025-04-23 12:15:48,E216,¿Cuál es el horario de trabajo?,Consultar_horario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:13:48,E424,No he recibido mi nómina.,Reclamar_nomina,Tu salario es 3546.69.,3
+2025-04-23 12:13:56,E154,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tu salario es 2946.52.,4
+2025-04-23 12:16:27,E711,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:14:34,E119,¿Cómo solicito una baja médica?,Solicitar_baja,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:14:51,E719,¿Cuál es la política de teletrabajo?,Consultar_politica,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:14:27,E089,¿Cuál es la política de teletrabajo?,Consultar_politica,Tienes 23 días disponibles.,2
+2025-04-23 12:13:40,E990,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Tienes 27 días disponibles.,5
+2025-04-23 12:14:55,E090,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:16:01,E130,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:14:52,E1008,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:15:06,E111,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:15:02,E1164,¿Cuál es el horario de trabajo?,Consultar_horario,Tu salario es 2017.56.,4
+2025-04-23 12:14:00,E506,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tu salario es 3851.75.,5
+2025-04-23 12:14:05,E025,¿Cómo solicito una baja médica?,Solicitar_baja,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:14:32,E202,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:15:21,E904,¿Cuál es la política de teletrabajo?,Consultar_politica,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:16:23,E615,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:15:01,E137,No he recibido mi nómina.,Reclamar_nomina,Tu salario es 3029.97.,5
+2025-04-23 12:13:40,E1088,¿Cómo puedo cambiar mi información personal?,Actualizar_info,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:14:28,E777,¿Cuál es el horario de trabajo?,Consultar_horario,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:13:49,E204,¿Cómo puedo cambiar mi información personal?,Actualizar_info,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:16:23,E643,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:16:19,E142,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:14:24,E095,¿Cuál es la política de teletrabajo?,Consultar_politica,Debes seguir los siguientes pasos: el sistema de gestión.,2
+2025-04-23 12:14:49,E152,¿Cuál es mi salario?,Consultar_salario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:14:59,E995,No he recibido mi nómina.,Reclamar_nomina,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:16:03,E350,¿Cuál es el horario de trabajo?,Consultar_horario,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:15:12,E010,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:13:31,E926,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tienes 16 días disponibles.,2
+2025-04-23 12:13:53,E870,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:16:15,E350,¿Cuál es el horario de trabajo?,Consultar_horario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:14:04,E947,No he recibido mi nómina.,Reclamar_nomina,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:15:38,E251,¿Cuál es el horario de trabajo?,Consultar_horario,Tienes 23 días disponibles.,5
+2025-04-23 12:15:24,E979,¿Cómo solicito una baja médica?,Solicitar_baja,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:15:10,E666,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Sí, puedes encontrar información en la intranet.",2
+2025-04-23 12:13:49,E349,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Sí, puedes encontrar información en la intranet.",2
+2025-04-23 12:14:16,E931,¿Cuál es la política de teletrabajo?,Consultar_politica,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:16:11,E1042,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Por favor, contacta con el departamento de nóminas.",2
+2025-04-23 12:16:27,E268,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:15:23,E036,¿Cuál es la política de teletrabajo?,Consultar_politica,Puedes contactarnos por email o teléfono.,1
+2025-04-23 12:15:48,E1158,¿Cómo puedo cambiar mi información personal?,Actualizar_info,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:14:16,E359,¿Cuál es el horario de trabajo?,Consultar_horario,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:14:17,E832,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes hacerlo a través de tu perfil.,2
+2025-04-23 12:14:06,E583,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:14:19,E1071,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:15:42,E953,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Tu salario es 3954.96.,5
+2025-04-23 12:15:37,E560,¿Hay oportunidades de formación?,Consultar_formacion,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:13:57,E1044,¿Cuál es mi salario?,Consultar_salario,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:13:42,E083,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:15:40,E727,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Por favor, contacta con el departamento de nóminas.",2
+2025-04-23 12:16:11,E713,¿Cómo puedo cambiar mi información personal?,Actualizar_info,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:14:56,E1029,No he recibido mi nómina.,Reclamar_nomina,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:14:04,E258,¿Cómo solicito una baja médica?,Solicitar_baja,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:14:31,E569,¿Cuál es mi salario?,Consultar_salario,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:13:45,E1185,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:14:59,E1112,¿Cómo solicito una baja médica?,Solicitar_baja,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:16:07,E842,¿Cómo solicito una baja médica?,Solicitar_baja,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:15:40,E333,¿Cuál es la política de teletrabajo?,Consultar_politica,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:14:17,E1027,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes contactarnos por email o teléfono.,2
+2025-04-23 12:13:35,E318,¿Cuál es el horario de trabajo?,Consultar_horario,Tienes 6 días disponibles.,3
+2025-04-23 12:16:11,E802,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:14:06,E1089,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:14:35,E981,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:16:03,E102,¿Cómo solicito una baja médica?,Solicitar_baja,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:16:01,E095,¿Cuál es el horario de trabajo?,Consultar_horario,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:15:39,E007,¿Cómo solicito una baja médica?,Solicitar_baja,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:14:44,E1007,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:13:38,E814,¿Hay oportunidades de formación?,Consultar_formacion,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:16:29,E647,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:13:46,E696,¿Cuál es la política de teletrabajo?,Consultar_politica,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:13:54,E545,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes contactarnos por email o teléfono.,2
+2025-04-23 12:14:51,E138,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Tienes 5 días disponibles.,3
+2025-04-23 12:14:16,E318,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Tienes 5 días disponibles.,4
+2025-04-23 12:15:24,E552,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:15:35,E033,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:15:04,E1052,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:35,E053,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tu salario es 3237.61.,3
+2025-04-23 12:16:05,E572,¿Cómo puedo cambiar mi información personal?,Actualizar_info,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:16:02,E1064,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:14:38,E493,¿Cuál es el horario de trabajo?,Consultar_horario,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:14:04,E1108,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tienes 15 días disponibles.,1
+2025-04-23 12:14:51,E131,¿Cuál es la política de teletrabajo?,Consultar_politica,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:15:08,E001,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:13:47,E249,No he recibido mi nómina.,Reclamar_nomina,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:16:18,E300,¿Hay oportunidades de formación?,Consultar_formacion,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:16:28,E995,¿Hay oportunidades de formación?,Consultar_formacion,Tienes 27 días disponibles.,5
+2025-04-23 12:14:31,E965,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:13:44,E698,¿Cuál es la política de teletrabajo?,Consultar_politica,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:13:59,E604,¿Hay oportunidades de formación?,Consultar_formacion,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:13:36,E824,¿Cuál es mi salario?,Consultar_salario,El horario es de 9:00 a 18:00.,1
+2025-04-23 12:15:57,E573,¿Cuál es mi salario?,Consultar_salario,Tienes 22 días disponibles.,1
+2025-04-23 12:14:13,E781,¿Cuál es mi salario?,Consultar_salario,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:15:40,E1027,No he recibido mi nómina.,Reclamar_nomina,"Por favor, contacta con el departamento de nóminas.",2
+2025-04-23 12:16:00,E022,¿Cómo puedo cambiar mi información personal?,Actualizar_info,El horario es de 9:00 a 18:00.,2
+2025-04-23 12:16:17,E274,¿Cómo solicito una baja médica?,Solicitar_baja,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:14:45,E361,¿Cómo solicito una baja médica?,Solicitar_baja,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:16:25,E143,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tienes 15 días disponibles.,3
+2025-04-23 12:14:35,E248,¿Cuál es la política de teletrabajo?,Consultar_politica,Tienes 30 días disponibles.,3
+2025-04-23 12:15:00,E633,¿Cuál es mi salario?,Consultar_salario,"Sí, puedes encontrar información en la intranet.",2
+2025-04-23 12:14:48,E1004,¿Cuál es el horario de trabajo?,Consultar_horario,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:16:04,E230,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:34,E857,¿Cómo solicito una baja médica?,Solicitar_baja,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:14:55,E027,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Debes seguir los siguientes pasos: el sistema de gestión.,2
+2025-04-23 12:13:57,E380,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:15:24,E276,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:13:48,E644,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes hacerlo a través de tu perfil.,1
+2025-04-23 12:15:20,E754,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tienes 29 días disponibles.,3
+2025-04-23 12:15:30,E138,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:27,E166,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:13:42,E342,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:15:58,E836,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes hacerlo a través de tu perfil.,2
+2025-04-23 12:16:28,E1007,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:14:10,E049,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Tienes 29 días disponibles.,4
+2025-04-23 12:13:55,E137,No he recibido mi nómina.,Reclamar_nomina,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:14:40,E674,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:14:25,E672,¿Cuál es mi salario?,Consultar_salario,Tienes 23 días disponibles.,5
+2025-04-23 12:13:47,E857,¿Hay oportunidades de formación?,Consultar_formacion,Tienes 7 días disponibles.,1
+2025-04-23 12:15:14,E1050,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:14:13,E170,¿Cuál es mi salario?,Consultar_salario,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:15:27,E755,¿Cuál es el horario de trabajo?,Consultar_horario,"Sí, puedes encontrar información en la intranet.",2
+2025-04-23 12:16:29,E1118,¿Cómo solicito una baja médica?,Solicitar_baja,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:16:26,E143,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:14:07,E1138,¿Hay oportunidades de formación?,Consultar_formacion,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:15:28,E197,¿Hay oportunidades de formación?,Consultar_formacion,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:13:45,E575,¿Cuál es mi salario?,Consultar_salario,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:15:00,E945,¿Cuál es el horario de trabajo?,Consultar_horario,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:13:40,E593,No he recibido mi nómina.,Reclamar_nomina,"Por favor, contacta con el departamento de nóminas.",1
+2025-04-23 12:14:42,E722,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:14:58,E564,No he recibido mi nómina.,Reclamar_nomina,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:15:17,E499,¿Cuál es el horario de trabajo?,Consultar_horario,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:14:53,E075,¿Hay oportunidades de formación?,Consultar_formacion,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:14:15,E534,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:14:31,E712,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:15:40,E120,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:14:10,E983,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:16:07,E060,¿Cómo solicito una baja médica?,Solicitar_baja,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:14:16,E328,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:15:04,E626,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tu salario es 3443.12.,3
+2025-04-23 12:14:59,E852,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:15:14,E1073,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:16:06,E1022,¿Cuál es la política de teletrabajo?,Consultar_politica,Tienes 8 días disponibles.,4
+2025-04-23 12:14:08,E260,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:13:47,E178,No he recibido mi nómina.,Reclamar_nomina,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:15:30,E996,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:14:04,E700,¿Cuál es el horario de trabajo?,Consultar_horario,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:16:29,E887,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes hacerlo a través de tu perfil.,2
+2025-04-23 12:14:27,E043,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tu salario es 3090.3.,4
+2025-04-23 12:15:59,E041,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:13:30,E658,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:14:06,E825,¿Hay oportunidades de formación?,Consultar_formacion,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:13:52,E186,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tienes 14 días disponibles.,5
+2025-04-23 12:13:52,E131,¿Cuál es la política de teletrabajo?,Consultar_politica,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:15:35,E583,¿Cuál es el horario de trabajo?,Consultar_horario,Tu salario es 3368.64.,1
+2025-04-23 12:15:40,E1009,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes hacerlo a través de tu perfil.,1
+2025-04-23 12:14:28,E233,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:15:04,E1007,¿Hay oportunidades de formación?,Consultar_formacion,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:14:53,E626,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:14:45,E794,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:14:13,E279,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:16:16,E727,No he recibido mi nómina.,Reclamar_nomina,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:14:44,E035,¿Cuál es mi salario?,Consultar_salario,Tu salario es 3056.47.,1
+2025-04-23 12:16:09,E1029,¿Cuál es la política de teletrabajo?,Consultar_politica,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:14:55,E737,¿Cuál es mi salario?,Consultar_salario,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:15:38,E961,¿Cómo solicito una baja médica?,Solicitar_baja,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:15:14,E745,No he recibido mi nómina.,Reclamar_nomina,El horario es de 9:00 a 18:00.,2
+2025-04-23 12:16:20,E457,¿Cuál es mi salario?,Consultar_salario,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:14:57,E1022,¿Hay oportunidades de formación?,Consultar_formacion,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:15:54,E867,¿Cómo solicito una baja médica?,Solicitar_baja,Tienes 5 días disponibles.,1
+2025-04-23 12:13:55,E053,¿Cómo solicito una baja médica?,Solicitar_baja,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:13:41,E1171,¿Cómo solicito una baja médica?,Solicitar_baja,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:14:18,E015,¿Cómo solicito una baja médica?,Solicitar_baja,Tu salario es 3935.49.,4
+2025-04-23 12:13:40,E889,¿Cuál es la política de teletrabajo?,Consultar_politica,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:13:49,E619,¿Cuál es el horario de trabajo?,Consultar_horario,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:16:17,E994,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tienes 9 días disponibles.,2
+2025-04-23 12:14:55,E329,¿Cuál es la política de teletrabajo?,Consultar_politica,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:14:57,E813,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes contactarnos por email o teléfono.,1
+2025-04-23 12:16:19,E1198,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Tu salario es 1506.91.,2
+2025-04-23 12:15:18,E760,¿Cuál es mi salario?,Consultar_salario,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:16:04,E931,No he recibido mi nómina.,Reclamar_nomina,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:15:00,E905,¿Cuál es el horario de trabajo?,Consultar_horario,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:16:21,E1139,¿Cuál es mi salario?,Consultar_salario,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:15:19,E864,¿Cómo solicito una baja médica?,Solicitar_baja,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:13:55,E677,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:14:07,E1009,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:16:06,E738,No he recibido mi nómina.,Reclamar_nomina,Tu salario es 3875.34.,4
+2025-04-23 12:15:07,E173,No he recibido mi nómina.,Reclamar_nomina,Tienes 5 días disponibles.,5
+2025-04-23 12:14:48,E118,No he recibido mi nómina.,Reclamar_nomina,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:15:24,E1046,¿Cuál es la política de teletrabajo?,Consultar_politica,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:15:23,E100,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:14:20,E831,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tienes 27 días disponibles.,1
+2025-04-23 12:15:30,E214,¿Cuál es mi salario?,Consultar_salario,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:14:25,E748,No he recibido mi nómina.,Reclamar_nomina,Tu salario es 2302.09.,5
+2025-04-23 12:15:13,E025,¿Cuál es el horario de trabajo?,Consultar_horario,Tienes 28 días disponibles.,4
+2025-04-23 12:15:49,E1112,¿Cómo puedo cambiar mi información personal?,Actualizar_info,El horario es de 9:00 a 18:00.,1
+2025-04-23 12:15:17,E907,¿Hay oportunidades de formación?,Consultar_formacion,Tienes 19 días disponibles.,4
+2025-04-23 12:13:53,E569,¿Cuál es el horario de trabajo?,Consultar_horario,Tienes 30 días disponibles.,3
+2025-04-23 12:16:04,E1033,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Tienes 11 días disponibles.,5
+2025-04-23 12:15:45,E1164,¿Cuál es el horario de trabajo?,Consultar_horario,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:15:22,E785,¿Hay oportunidades de formación?,Consultar_formacion,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:14:38,E416,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tu salario es 2229.61.,4
+2025-04-23 12:16:18,E1105,¿Cuál es mi salario?,Consultar_salario,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:16:00,E1142,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:16:24,E770,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:15:00,E908,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:15:54,E1078,¿Cuál es la política de teletrabajo?,Consultar_politica,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:14:09,E100,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:15:53,E383,¿Cómo solicito una baja médica?,Solicitar_baja,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:16:27,E1193,¿Cuál es mi salario?,Consultar_salario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",1
+2025-04-23 12:16:01,E485,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:15:28,E540,¿Cuál es la política de teletrabajo?,Consultar_politica,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:15:06,E975,No he recibido mi nómina.,Reclamar_nomina,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:15:08,E047,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:13:37,E698,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:13:31,E531,¿Cuál es la política de teletrabajo?,Consultar_politica,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:15:08,E365,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:14:23,E325,No he recibido mi nómina.,Reclamar_nomina,Puedes hacerlo a través de tu perfil.,2
+2025-04-23 12:14:40,E888,¿Cómo solicito una baja médica?,Solicitar_baja,Tienes 14 días disponibles.,4
+2025-04-23 12:15:54,E520,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:13:40,E909,No he recibido mi nómina.,Reclamar_nomina,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:14:10,E954,¿Cuál es mi salario?,Consultar_salario,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:14:10,E576,¿Cuál es la política de teletrabajo?,Consultar_politica,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:15:29,E117,¿Cómo solicito una baja médica?,Solicitar_baja,Tienes 18 días disponibles.,4
+2025-04-23 12:15:25,E102,¿Cuál es mi salario?,Consultar_salario,Puedes contactarnos por email o teléfono.,1
+2025-04-23 12:14:17,E853,¿Cuál es la política de teletrabajo?,Consultar_politica,Tu salario es 3651.04.,3
+2025-04-23 12:15:53,E431,¿Cuál es el horario de trabajo?,Consultar_horario,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:15:22,E685,¿Cuál es el horario de trabajo?,Consultar_horario,Tu salario es 3598.2.,5
+2025-04-23 12:15:54,E1146,¿Cómo solicito una baja médica?,Solicitar_baja,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:14:49,E536,¿Cómo solicito una baja médica?,Solicitar_baja,Tu salario es 2528.6.,1
+2025-04-23 12:14:59,E478,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Ofrecemos seguro médico, plan de pensiones como beneficios.",2
+2025-04-23 12:14:19,E758,¿Cuál es el horario de trabajo?,Consultar_horario,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:14:15,E331,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:14:52,E499,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:15:00,E956,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:15:22,E005,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:15:50,E577,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:13:31,E933,¿Cuál es mi salario?,Consultar_salario,El horario es de 9:00 a 18:00.,1
+2025-04-23 12:14:28,E1023,¿Hay oportunidades de formación?,Consultar_formacion,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:33,E465,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:16:25,E438,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tu salario es 1642.12.,4
+2025-04-23 12:13:42,E803,¿Cómo puedo cambiar mi información personal?,Actualizar_info,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:15:48,E1195,¿Cuál es mi salario?,Consultar_salario,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:15:07,E1144,¿Cuál es mi salario?,Consultar_salario,Debes seguir los siguientes pasos: el sistema de gestión.,1
+2025-04-23 12:14:35,E992,No he recibido mi nómina.,Reclamar_nomina,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:14:48,E253,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:13:39,E832,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:14:58,E370,¿Cómo solicito una baja médica?,Solicitar_baja,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:15:48,E1019,¿Cómo solicito una baja médica?,Solicitar_baja,Tienes 30 días disponibles.,4
+2025-04-23 12:14:53,E790,¿Cómo solicito una baja médica?,Solicitar_baja,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:14:27,E894,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:13:31,E032,¿Cómo solicito una baja médica?,Solicitar_baja,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:15:14,E1120,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:14:39,E1029,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Por favor, contacta con el departamento de nóminas.",2
+2025-04-23 12:15:08,E922,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:15:55,E577,¿Cuál es la política de teletrabajo?,Consultar_politica,Tienes 8 días disponibles.,5
+2025-04-23 12:13:44,E002,¿Cuál es mi salario?,Consultar_salario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:14:00,E281,¿Hay oportunidades de formación?,Consultar_formacion,Tu salario es 3330.14.,2
+2025-04-23 12:15:05,E153,¿Cuál es la política de teletrabajo?,Consultar_politica,Tu salario es 3739.53.,3
+2025-04-23 12:15:16,E892,No he recibido mi nómina.,Reclamar_nomina,El horario es de 9:00 a 18:00.,1
+2025-04-23 12:14:00,E1141,¿Hay oportunidades de formación?,Consultar_formacion,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:15:43,E893,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes contactarnos por email o teléfono.,1
+2025-04-23 12:14:33,E736,¿Cuál es la política de teletrabajo?,Consultar_politica,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:13:31,E1115,¿Cuál es la política de teletrabajo?,Consultar_politica,Tu salario es 1968.11.,3
+2025-04-23 12:15:20,E560,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Tu salario es 2307.32.,5
+2025-04-23 12:13:43,E159,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Tu salario es 1792.73.,4
+2025-04-23 12:16:25,E042,¿Cuál es el horario de trabajo?,Consultar_horario,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:16:14,E151,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes contactarnos por email o teléfono.,2
+2025-04-23 12:14:21,E052,¿Cómo puedo cambiar mi información personal?,Actualizar_info,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:14:38,E678,No he recibido mi nómina.,Reclamar_nomina,Tienes 21 días disponibles.,4
+2025-04-23 12:13:40,E1160,¿Hay oportunidades de formación?,Consultar_formacion,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:16:12,E642,¿Cuál es el horario de trabajo?,Consultar_horario,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:15:38,E899,¿Cuál es el horario de trabajo?,Consultar_horario,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:14:56,E1190,¿Cómo solicito una baja médica?,Solicitar_baja,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:16:01,E055,¿Cuál es el horario de trabajo?,Consultar_horario,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:14:09,E917,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Sí, puedes encontrar información en la intranet.",2
+2025-04-23 12:15:18,E068,No he recibido mi nómina.,Reclamar_nomina,Tienes 17 días disponibles.,2
+2025-04-23 12:14:40,E704,¿Cuál es mi salario?,Consultar_salario,Tu salario es 3392.67.,4
+2025-04-23 12:14:37,E1064,No he recibido mi nómina.,Reclamar_nomina,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:15:02,E809,¿Cuál es la política de teletrabajo?,Consultar_politica,"Sí, puedes encontrar información en la intranet.",1
+2025-04-23 12:14:49,E457,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:14:56,E941,¿Hay oportunidades de formación?,Consultar_formacion,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:14:49,E534,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:14:46,E1123,¿Cuál es la política de teletrabajo?,Consultar_politica,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:16:22,E521,No he recibido mi nómina.,Reclamar_nomina,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:15:17,E549,No he recibido mi nómina.,Reclamar_nomina,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:15:17,E139,¿Cuál es el horario de trabajo?,Consultar_horario,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:14:49,E690,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:15:03,E080,¿Cómo solicito una baja médica?,Solicitar_baja,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:15:20,E900,¿Hay oportunidades de formación?,Consultar_formacion,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:15:24,E906,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Tienes 16 días disponibles.,4
+2025-04-23 12:14:24,E923,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:43,E561,¿Hay oportunidades de formación?,Consultar_formacion,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:15:49,E040,¿Hay oportunidades de formación?,Consultar_formacion,Debes seguir los siguientes pasos: el sistema de gestión.,1
+2025-04-23 12:13:43,E198,No he recibido mi nómina.,Reclamar_nomina,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:14:27,E391,¿Cómo solicito una baja médica?,Solicitar_baja,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:14:36,E903,¿Hay oportunidades de formación?,Consultar_formacion,Tienes 19 días disponibles.,4
+2025-04-23 12:15:59,E877,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:14:27,E1105,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:14:29,E490,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:15:49,E1005,¿Cuál es mi salario?,Consultar_salario,Tu salario es 2147.96.,1
+2025-04-23 12:16:12,E931,¿Cuál es la política de teletrabajo?,Consultar_politica,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:14:05,E558,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes hacerlo a través de tu perfil.,1
+2025-04-23 12:15:58,E131,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:16:04,E622,¿Cómo solicito una baja médica?,Solicitar_baja,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:14:26,E647,No he recibido mi nómina.,Reclamar_nomina,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:16:03,E1128,¿Cuál es la política de teletrabajo?,Consultar_politica,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:15:51,E265,No he recibido mi nómina.,Reclamar_nomina,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:14:19,E325,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:15:31,E840,¿Cómo solicito una baja médica?,Solicitar_baja,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:15:03,E1174,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:15:29,E322,No he recibido mi nómina.,Reclamar_nomina,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:14:26,E191,¿Cuál es el horario de trabajo?,Consultar_horario,Tu salario es 3499.13.,5
+2025-04-23 12:15:10,E660,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:15:28,E589,¿Hay oportunidades de formación?,Consultar_formacion,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:16:11,E361,No he recibido mi nómina.,Reclamar_nomina,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:14:36,E594,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:15:56,E917,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tu salario es 1933.65.,3
+2025-04-23 12:14:45,E468,¿Cómo solicito una baja médica?,Solicitar_baja,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:16:03,E311,¿Cuál es el horario de trabajo?,Consultar_horario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:14:49,E1052,¿Cuál es mi salario?,Consultar_salario,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:15:36,E895,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:14:53,E786,¿Cuál es mi salario?,Consultar_salario,Tienes 30 días disponibles.,1
+2025-04-23 12:15:15,E1157,¿Cuál es mi salario?,Consultar_salario,Tu salario es 2637.3.,3
+2025-04-23 12:15:33,E453,¿Hay oportunidades de formación?,Consultar_formacion,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:13:56,E221,¿Cómo solicito una baja médica?,Solicitar_baja,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:16:07,E189,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:14:44,E1200,No he recibido mi nómina.,Reclamar_nomina,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:15:49,E318,¿Cuál es mi salario?,Consultar_salario,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:15:09,E978,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Tu salario es 2968.13.,5
+2025-04-23 12:13:39,E067,¿Cuál es la política de teletrabajo?,Consultar_politica,Tienes 6 días disponibles.,5
+2025-04-23 12:16:17,E964,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:14:16,E014,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Ofrecemos seguro médico, plan de pensiones como beneficios.",2
+2025-04-23 12:13:46,E332,¿Cuál es mi salario?,Consultar_salario,Tienes 17 días disponibles.,5
+2025-04-23 12:13:43,E625,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:15:16,E502,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:15:18,E119,No he recibido mi nómina.,Reclamar_nomina,"Sí, puedes encontrar información en la intranet.",1
+2025-04-23 12:13:45,E332,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:15:18,E1085,¿Hay oportunidades de formación?,Consultar_formacion,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:14:07,E812,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Ofrecemos seguro médico, plan de pensiones como beneficios.",1
+2025-04-23 12:14:52,E257,No he recibido mi nómina.,Reclamar_nomina,"Sí, puedes encontrar información en la intranet.",1
+2025-04-23 12:13:52,E200,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:13:42,E1041,¿Cuál es mi salario?,Consultar_salario,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:15:46,E246,¿Hay oportunidades de formación?,Consultar_formacion,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:14:40,E783,¿Cuál es el horario de trabajo?,Consultar_horario,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:15:46,E455,¿Cuál es la política de teletrabajo?,Consultar_politica,Tienes 27 días disponibles.,5
+2025-04-23 12:14:12,E665,¿Cuál es el horario de trabajo?,Consultar_horario,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:15:13,E943,¿Cómo solicito una baja médica?,Solicitar_baja,Tu salario es 2649.69.,4
+2025-04-23 12:14:15,E652,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:15:00,E416,¿Cuál es mi salario?,Consultar_salario,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:15:38,E889,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes contactarnos por email o teléfono.,1
+2025-04-23 12:13:38,E885,¿Cómo solicito una baja médica?,Solicitar_baja,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:13:54,E568,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes hacerlo a través de tu perfil.,1
+2025-04-23 12:15:07,E1053,¿Cuál es la política de teletrabajo?,Consultar_politica,"Ofrecemos seguro médico, plan de pensiones como beneficios.",1
+2025-04-23 12:15:41,E179,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tu salario es 2758.62.,3
+2025-04-23 12:15:54,E197,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tienes 5 días disponibles.,2
+2025-04-23 12:15:15,E879,¿Cuál es la política de teletrabajo?,Consultar_politica,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:16:16,E470,¿Cómo solicito una baja médica?,Solicitar_baja,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:14:30,E865,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:14:11,E326,¿Cuál es mi salario?,Consultar_salario,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:15:34,E557,¿Hay oportunidades de formación?,Consultar_formacion,El horario es de 9:00 a 18:00.,1
+2025-04-23 12:13:48,E711,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,El horario es de 9:00 a 18:00.,1
+2025-04-23 12:15:56,E210,¿Cuál es el horario de trabajo?,Consultar_horario,Tu salario es 3895.25.,4
+2025-04-23 12:14:25,E260,¿Cuál es el horario de trabajo?,Consultar_horario,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:13:48,E905,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Ofrecemos seguro médico, plan de pensiones como beneficios.",1
+2025-04-23 12:13:41,E330,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:16:15,E441,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:15:34,E389,¿Hay oportunidades de formación?,Consultar_formacion,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:16:29,E507,¿Cómo solicito una baja médica?,Solicitar_baja,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:13:57,E621,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:13:30,E942,No he recibido mi nómina.,Reclamar_nomina,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:14:27,E946,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tienes 25 días disponibles.,5
+2025-04-23 12:14:05,E1029,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes contactarnos por email o teléfono.,1
+2025-04-23 12:15:25,E112,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tu salario es 2602.27.,4
+2025-04-23 12:13:59,E515,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Tienes 10 días disponibles.,3
+2025-04-23 12:14:25,E283,¿Cuál es mi salario?,Consultar_salario,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:15:25,E202,No he recibido mi nómina.,Reclamar_nomina,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:15:58,E512,No he recibido mi nómina.,Reclamar_nomina,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:15:20,E1194,¿Hay oportunidades de formación?,Consultar_formacion,La política se encuentra en el portal del empleado.,2
+2025-04-23 12:16:03,E704,¿Hay oportunidades de formación?,Consultar_formacion,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:15:20,E597,¿Cómo solicito una baja médica?,Solicitar_baja,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:14:40,E188,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:26,E546,¿Cuál es mi salario?,Consultar_salario,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:15:21,E431,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:14:40,E624,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:13:43,E680,¿Cómo solicito una baja médica?,Solicitar_baja,Tu salario es 3888.25.,4
+2025-04-23 12:14:57,E248,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tienes 18 días disponibles.,3
+2025-04-23 12:14:25,E426,¿Cuál es el horario de trabajo?,Consultar_horario,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:16:10,E033,¿Cuál es mi salario?,Consultar_salario,Tienes 15 días disponibles.,3
+2025-04-23 12:14:13,E622,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:14:31,E453,¿Cuál es la política de teletrabajo?,Consultar_politica,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:15:14,E603,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:16:25,E273,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:14:30,E887,¿Cuál es mi salario?,Consultar_salario,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:13:43,E152,¿Cómo solicito una baja médica?,Solicitar_baja,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:13:37,E1185,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:13:53,E1184,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:15:59,E281,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:13:49,E143,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:14:51,E105,¿Hay oportunidades de formación?,Consultar_formacion,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:14:22,E205,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:15:42,E642,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:16:29,E099,¿Cómo puedo cambiar mi información personal?,Actualizar_info,La política se encuentra en el portal del empleado.,2
+2025-04-23 12:15:56,E454,No he recibido mi nómina.,Reclamar_nomina,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:13:50,E442,¿Cuál es el horario de trabajo?,Consultar_horario,Tu salario es 3274.64.,5
+2025-04-23 12:13:49,E751,No he recibido mi nómina.,Reclamar_nomina,Tienes 30 días disponibles.,4
+2025-04-23 12:14:49,E1052,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:15:42,E823,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes hacerlo a través de tu perfil.,2
+2025-04-23 12:15:46,E826,¿Cuál es el horario de trabajo?,Consultar_horario,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:14:49,E451,¿Cuál es mi salario?,Consultar_salario,Tu salario es 2096.56.,4
+2025-04-23 12:16:29,E419,¿Hay oportunidades de formación?,Consultar_formacion,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:14:42,E296,¿Hay oportunidades de formación?,Consultar_formacion,Puedes hacerlo a través de tu perfil.,2
+2025-04-23 12:14:21,E342,¿Cómo solicito una baja médica?,Solicitar_baja,Tu salario es 3854.17.,3
+2025-04-23 12:15:52,E351,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes contactarnos por email o teléfono.,1
+2025-04-23 12:14:07,E1116,¿Cuál es la política de teletrabajo?,Consultar_politica,Tu salario es 1988.72.,3
+2025-04-23 12:14:23,E1115,¿Cómo solicito una baja médica?,Solicitar_baja,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:13:48,E986,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,La política se encuentra en el portal del empleado.,2
+2025-04-23 12:16:14,E1012,¿Cuál es el horario de trabajo?,Consultar_horario,Tu salario es 3795.46.,5
+2025-04-23 12:15:16,E544,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:13:43,E729,¿Hay oportunidades de formación?,Consultar_formacion,Tu salario es 3990.01.,5
+2025-04-23 12:14:25,E055,¿Cuál es mi salario?,Consultar_salario,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:16:01,E257,¿Hay oportunidades de formación?,Consultar_formacion,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:16:16,E1158,¿Cuál es la política de teletrabajo?,Consultar_politica,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:16:05,E955,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:13:46,E256,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:15:54,E291,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Por favor, contacta con el departamento de nóminas.",1
+2025-04-23 12:15:27,E364,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:13:39,E060,¿Hay oportunidades de formación?,Consultar_formacion,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:14:19,E018,¿Hay oportunidades de formación?,Consultar_formacion,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:16:17,E670,¿Cuál es mi salario?,Consultar_salario,Tienes 17 días disponibles.,5
+2025-04-23 12:14:31,E629,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:14:52,E757,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:16:18,E628,¿Cuál es el horario de trabajo?,Consultar_horario,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:14:10,E014,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:16:18,E529,¿Cuál es mi salario?,Consultar_salario,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:14:20,E1042,¿Cuál es la política de teletrabajo?,Consultar_politica,Tienes 10 días disponibles.,5
+2025-04-23 12:15:42,E970,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:15:57,E1086,¿Hay oportunidades de formación?,Consultar_formacion,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:14:13,E1136,¿Cómo solicito una baja médica?,Solicitar_baja,"Ofrecemos seguro médico, plan de pensiones como beneficios.",1
+2025-04-23 12:15:37,E870,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:15:47,E894,¿Hay oportunidades de formación?,Consultar_formacion,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:14:48,E244,No he recibido mi nómina.,Reclamar_nomina,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:15:08,E1035,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:13:39,E290,¿Hay oportunidades de formación?,Consultar_formacion,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:14:53,E870,¿Cómo solicito una baja médica?,Solicitar_baja,Tienes 30 días disponibles.,3
+2025-04-23 12:13:40,E384,¿Cómo solicito una baja médica?,Solicitar_baja,Tu salario es 2213.61.,3
+2025-04-23 12:13:46,E209,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:16:23,E683,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:13:38,E637,¿Cuál es mi salario?,Consultar_salario,Tienes 14 días disponibles.,3
+2025-04-23 12:14:40,E708,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:14:39,E788,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Por favor, contacta con el departamento de nóminas.",2
+2025-04-23 12:14:31,E937,¿Cómo solicito una baja médica?,Solicitar_baja,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:15:13,E1048,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:43,E521,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:15:30,E987,¿Cuál es mi salario?,Consultar_salario,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:14:58,E309,¿Cuál es el horario de trabajo?,Consultar_horario,Tu salario es 1989.68.,5
+2025-04-23 12:15:34,E1027,¿Cuál es el horario de trabajo?,Consultar_horario,Tienes 21 días disponibles.,2
+2025-04-23 12:16:23,E1175,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tu salario es 1975.23.,4
+2025-04-23 12:13:39,E905,¿Cuál es el horario de trabajo?,Consultar_horario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:16:12,E165,No he recibido mi nómina.,Reclamar_nomina,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:37,E654,¿Cómo solicito una baja médica?,Solicitar_baja,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:14:53,E595,¿Cuál es el horario de trabajo?,Consultar_horario,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:15:49,E863,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tienes 27 días disponibles.,5
+2025-04-23 12:15:20,E046,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:14:59,E750,¿Cuál es el horario de trabajo?,Consultar_horario,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:14:41,E994,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:56,E548,¿Cuál es mi salario?,Consultar_salario,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:13:57,E445,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:15:00,E1182,¿Cuál es la política de teletrabajo?,Consultar_politica,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:15:58,E418,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:14:02,E1024,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:15:09,E628,¿Hay oportunidades de formación?,Consultar_formacion,Tienes 12 días disponibles.,2
+2025-04-23 12:16:19,E1131,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Debes seguir los siguientes pasos: el sistema de gestión.,1
+2025-04-23 12:13:46,E581,¿Cuál es la política de teletrabajo?,Consultar_politica,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:13:30,E764,¿Cuál es mi salario?,Consultar_salario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:16:10,E1012,¿Cuál es mi salario?,Consultar_salario,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:15:03,E226,¿Hay oportunidades de formación?,Consultar_formacion,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:14:53,E892,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:15:17,E641,¿Cuál es el horario de trabajo?,Consultar_horario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",1
+2025-04-23 12:13:50,E621,¿Cuál es mi salario?,Consultar_salario,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:16:09,E742,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Tienes 15 días disponibles.,4
+2025-04-23 12:13:46,E121,No he recibido mi nómina.,Reclamar_nomina,"Por favor, contacta con el departamento de nóminas.",2
+2025-04-23 12:14:25,E003,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tu salario es 2910.04.,1
+2025-04-23 12:13:54,E563,¿Cómo solicito una baja médica?,Solicitar_baja,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:14:31,E581,¿Cuál es la política de teletrabajo?,Consultar_politica,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:14:01,E268,No he recibido mi nómina.,Reclamar_nomina,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:13:54,E851,¿Cuál es la política de teletrabajo?,Consultar_politica,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:14:40,E904,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:14:37,E105,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tienes 25 días disponibles.,5
+2025-04-23 12:14:03,E429,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tienes 26 días disponibles.,4
+2025-04-23 12:13:56,E372,No he recibido mi nómina.,Reclamar_nomina,Puedes contactarnos por email o teléfono.,2
+2025-04-23 12:16:23,E1192,No he recibido mi nómina.,Reclamar_nomina,Puedes contactarnos por email o teléfono.,1
+2025-04-23 12:13:54,E840,¿Cómo solicito una baja médica?,Solicitar_baja,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:15:52,E536,¿Hay oportunidades de formación?,Consultar_formacion,"Por favor, contacta con el departamento de nóminas.",2
+2025-04-23 12:15:44,E319,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:15:19,E427,¿Cuál es la política de teletrabajo?,Consultar_politica,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:14:18,E323,¿Hay oportunidades de formación?,Consultar_formacion,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:13:41,E674,¿Cuál es la política de teletrabajo?,Consultar_politica,"Ofrecemos seguro médico, plan de pensiones como beneficios.",2
+2025-04-23 12:14:36,E1100,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes hacerlo a través de tu perfil.,1
+2025-04-23 12:13:53,E646,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tu salario es 2687.03.,1
+2025-04-23 12:15:54,E476,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:14:09,E1157,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Por favor, contacta con el departamento de nóminas.",1
+2025-04-23 12:15:46,E330,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:15:47,E438,¿Hay oportunidades de formación?,Consultar_formacion,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:13:50,E579,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:14:40,E934,No he recibido mi nómina.,Reclamar_nomina,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:15:46,E419,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tu salario es 1771.32.,5
+2025-04-23 12:14:13,E591,¿Cuál es mi salario?,Consultar_salario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:14:34,E217,No he recibido mi nómina.,Reclamar_nomina,Tienes 5 días disponibles.,2
+2025-04-23 12:13:54,E1131,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes contactarnos por email o teléfono.,2
+2025-04-23 12:15:16,E220,No he recibido mi nómina.,Reclamar_nomina,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:16:01,E554,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:14:48,E308,¿Cuál es mi salario?,Consultar_salario,El horario es de 9:00 a 18:00.,1
+2025-04-23 12:14:29,E1120,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:14:29,E1163,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:15,E1048,¿Cuál es la política de teletrabajo?,Consultar_politica,Tienes 30 días disponibles.,4
+2025-04-23 12:15:18,E1009,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Por favor, contacta con el departamento de nóminas.",2
+2025-04-23 12:14:29,E414,¿Cuál es mi salario?,Consultar_salario,Tienes 29 días disponibles.,5
+2025-04-23 12:14:13,E143,¿Cómo solicito una baja médica?,Solicitar_baja,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:13:33,E028,¿Cómo puedo cambiar mi información personal?,Actualizar_info,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:14:33,E199,¿Cuál es mi salario?,Consultar_salario,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:15:54,E498,No he recibido mi nómina.,Reclamar_nomina,"Ofrecemos seguro médico, plan de pensiones como beneficios.",1
+2025-04-23 12:14:35,E189,¿Cómo solicito una baja médica?,Solicitar_baja,Tu salario es 2471.58.,4
+2025-04-23 12:14:24,E656,¿Cuál es mi salario?,Consultar_salario,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:42,E335,¿Hay oportunidades de formación?,Consultar_formacion,Tienes 6 días disponibles.,4
+2025-04-23 12:15:32,E522,No he recibido mi nómina.,Reclamar_nomina,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:16:07,E740,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:15:43,E611,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:15:24,E007,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tu salario es 3631.57.,3
+2025-04-23 12:15:47,E886,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,La política se encuentra en el portal del empleado.,2
+2025-04-23 12:13:59,E365,¿Cómo solicito una baja médica?,Solicitar_baja,Tu salario es 3797.83.,5
+2025-04-23 12:15:27,E413,¿Hay oportunidades de formación?,Consultar_formacion,Puedes contactarnos por email o teléfono.,2
+2025-04-23 12:16:09,E1115,¿Cuál es la política de teletrabajo?,Consultar_politica,Tu salario es 2983.12.,3
+2025-04-23 12:16:29,E1194,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Tienes 6 días disponibles.,3
+2025-04-23 12:15:44,E718,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:13:45,E213,¿Hay oportunidades de formación?,Consultar_formacion,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:14:05,E776,¿Cómo solicito una baja médica?,Solicitar_baja,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:15:34,E383,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:14:54,E392,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:13:45,E708,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:13:55,E264,¿Hay oportunidades de formación?,Consultar_formacion,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:15:40,E1140,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:16:15,E113,No he recibido mi nómina.,Reclamar_nomina,"Sí, puedes encontrar información en la intranet.",1
+2025-04-23 12:15:40,E510,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:14:00,E783,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:16:12,E389,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Tu salario es 3569.26.,2
+2025-04-23 12:14:06,E078,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:15:02,E319,¿Cómo solicito una baja médica?,Solicitar_baja,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:14:00,E249,¿Cuál es mi salario?,Consultar_salario,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:41,E604,¿Cuál es el horario de trabajo?,Consultar_horario,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:15:29,E720,¿Hay oportunidades de formación?,Consultar_formacion,Tienes 20 días disponibles.,4
+2025-04-23 12:14:18,E203,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Sí, puedes encontrar información en la intranet.",2
+2025-04-23 12:13:49,E890,¿Cuál es el horario de trabajo?,Consultar_horario,La política se encuentra en el portal del empleado.,1
+2025-04-23 12:14:50,E332,¿Hay oportunidades de formación?,Consultar_formacion,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:14:25,E1090,¿Cuál es el horario de trabajo?,Consultar_horario,Tu salario es 3798.42.,2
+2025-04-23 12:14:46,E856,¿Hay oportunidades de formación?,Consultar_formacion,Tienes 29 días disponibles.,3
+2025-04-23 12:16:18,E955,No he recibido mi nómina.,Reclamar_nomina,Tienes 5 días disponibles.,4
+2025-04-23 12:16:17,E444,¿Cuál es la política de teletrabajo?,Consultar_politica,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:15:21,E094,¿Cuál es la política de teletrabajo?,Consultar_politica,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:16:11,E204,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Tu salario es 2704.09.,2
+2025-04-23 12:14:33,E109,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:16:14,E257,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:14:29,E515,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:13:40,E641,¿Cuál es la política de teletrabajo?,Consultar_politica,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:15:10,E210,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:14:15,E906,¿Cuál es el horario de trabajo?,Consultar_horario,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:15:54,E720,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:16:26,E065,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes contactarnos por email o teléfono.,2
+2025-04-23 12:14:45,E644,¿Cuál es el horario de trabajo?,Consultar_horario,Tu salario es 1676.97.,5
+2025-04-23 12:14:13,E080,No he recibido mi nómina.,Reclamar_nomina,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:15:02,E497,No he recibido mi nómina.,Reclamar_nomina,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:14:36,E1010,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:13:45,E180,¿Cuál es la política de teletrabajo?,Consultar_politica,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:14:02,E763,¿Hay oportunidades de formación?,Consultar_formacion,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:40,E277,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:14:35,E075,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:14:47,E058,¿Cuál es mi salario?,Consultar_salario,Tu salario es 3739.21.,1
+2025-04-23 12:16:06,E022,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Tu salario es 3826.65.,1
+2025-04-23 12:14:12,E1192,¿Cuál es mi salario?,Consultar_salario,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:53,E1078,No he recibido mi nómina.,Reclamar_nomina,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:13:58,E1023,¿Cómo solicito una baja médica?,Solicitar_baja,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:15:52,E649,¿Cómo solicito una baja médica?,Solicitar_baja,Tu salario es 2943.92.,1
+2025-04-23 12:13:55,E446,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:15:12,E324,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:13:36,E1018,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:13:31,E620,No he recibido mi nómina.,Reclamar_nomina,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:15:38,E941,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:16:25,E143,¿Cuál es la política de teletrabajo?,Consultar_politica,Debes seguir los siguientes pasos: el sistema de gestión.,2
+2025-04-23 12:13:48,E671,¿Cómo solicito una baja médica?,Solicitar_baja,El horario es de 9:00 a 18:00.,2
+2025-04-23 12:16:22,E518,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:15:03,E772,¿Cómo solicito una baja médica?,Solicitar_baja,Tienes 25 días disponibles.,3
+2025-04-23 12:15:57,E066,¿Hay oportunidades de formación?,Consultar_formacion,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:36,E423,¿Cuál es mi salario?,Consultar_salario,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:15:41,E448,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:13:30,E314,No he recibido mi nómina.,Reclamar_nomina,La política se encuentra en el portal del empleado.,1
+2025-04-23 12:14:44,E316,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Tu salario es 1615.15.,3
+2025-04-23 12:14:03,E293,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:15:15,E938,¿Cuál es mi salario?,Consultar_salario,Tu salario es 2845.4.,3
+2025-04-23 12:14:42,E259,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:16:11,E664,¿Cómo solicito una baja médica?,Solicitar_baja,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:16:12,E879,¿Hay oportunidades de formación?,Consultar_formacion,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:15:49,E1058,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:15:29,E212,¿Cuál es mi salario?,Consultar_salario,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:16:11,E169,¿Cuál es el horario de trabajo?,Consultar_horario,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:14:25,E619,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:15:08,E935,No he recibido mi nómina.,Reclamar_nomina,Puedes contactarnos por email o teléfono.,1
+2025-04-23 12:15:18,E791,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:16:08,E191,¿Hay oportunidades de formación?,Consultar_formacion,Puedes hacerlo a través de tu perfil.,1
+2025-04-23 12:14:51,E268,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tienes 23 días disponibles.,2
+2025-04-23 12:15:46,E494,¿Cuál es mi salario?,Consultar_salario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:13:58,E575,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:10,E894,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tu salario es 2773.13.,3
+2025-04-23 12:13:36,E912,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:15:36,E329,¿Hay oportunidades de formación?,Consultar_formacion,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:14:27,E401,¿Cuál es mi salario?,Consultar_salario,Tienes 11 días disponibles.,5
+2025-04-23 12:13:31,E474,¿Cuál es el horario de trabajo?,Consultar_horario,Tienes 9 días disponibles.,5
+2025-04-23 12:14:06,E439,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tienes 29 días disponibles.,1
+2025-04-23 12:14:48,E969,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Sí, puedes encontrar información en la intranet.",2
+2025-04-23 12:14:40,E716,¿Cuál es mi salario?,Consultar_salario,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:14:42,E860,¿Cuál es mi salario?,Consultar_salario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:15:55,E595,¿Hay oportunidades de formación?,Consultar_formacion,Tienes 8 días disponibles.,5
+2025-04-23 12:14:56,E1144,¿Cómo solicito una baja médica?,Solicitar_baja,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:15:16,E969,¿Cuál es el horario de trabajo?,Consultar_horario,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:14:12,E803,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,La política se encuentra en el portal del empleado.,2
+2025-04-23 12:16:25,E341,¿Cuál es mi salario?,Consultar_salario,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:15:11,E899,No he recibido mi nómina.,Reclamar_nomina,El horario es de 9:00 a 18:00.,1
+2025-04-23 12:15:05,E102,¿Cuál es mi salario?,Consultar_salario,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:14:47,E1116,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:15:08,E448,No he recibido mi nómina.,Reclamar_nomina,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:16:17,E873,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:14:10,E768,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:16:21,E127,¿Cuál es el horario de trabajo?,Consultar_horario,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:16:16,E394,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes hacerlo a través de tu perfil.,1
+2025-04-23 12:13:30,E177,¿Cuál es mi salario?,Consultar_salario,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:13:51,E178,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Tu salario es 3532.57.,5
+2025-04-23 12:15:57,E027,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Tienes 19 días disponibles.,4
+2025-04-23 12:15:31,E729,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:14:38,E395,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:14:32,E247,No he recibido mi nómina.,Reclamar_nomina,"Por favor, contacta con el departamento de nóminas.",1
+2025-04-23 12:13:55,E561,No he recibido mi nómina.,Reclamar_nomina,Tu salario es 3690.77.,4
+2025-04-23 12:15:19,E208,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:42,E285,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:15:39,E297,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:13:56,E1127,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes hacerlo a través de tu perfil.,1
+2025-04-23 12:15:36,E806,¿Hay oportunidades de formación?,Consultar_formacion,Puedes contactarnos por email o teléfono.,2
+2025-04-23 12:13:41,E660,¿Cómo solicito una baja médica?,Solicitar_baja,Tu salario es 2387.38.,5
+2025-04-23 12:13:52,E832,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:15:17,E963,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:15:12,E1172,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tienes 10 días disponibles.,2
+2025-04-23 12:13:58,E486,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:13:45,E747,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,El horario es de 9:00 a 18:00.,1
+2025-04-23 12:13:47,E730,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:14:04,E1171,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:16:15,E012,¿Cuál es mi salario?,Consultar_salario,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:14:54,E910,¿Cuál es el horario de trabajo?,Consultar_horario,El horario es de 9:00 a 18:00.,2
+2025-04-23 12:13:55,E840,¿Cuál es mi salario?,Consultar_salario,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:13:46,E822,¿Cuál es el horario de trabajo?,Consultar_horario,Tienes 27 días disponibles.,2
+2025-04-23 12:14:25,E680,¿Cuál es la política de teletrabajo?,Consultar_politica,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:14:47,E070,¿Cuál es la política de teletrabajo?,Consultar_politica,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:16:05,E952,¿Cuál es el horario de trabajo?,Consultar_horario,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:15:23,E394,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tienes 15 días disponibles.,5
+2025-04-23 12:14:59,E877,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:15:30,E483,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:15:15,E748,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:14:29,E861,¿Cuál es mi salario?,Consultar_salario,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:15:41,E978,¿Hay oportunidades de formación?,Consultar_formacion,Tu salario es 1909.62.,1
+2025-04-23 12:14:04,E610,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:01,E747,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:58,E1061,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:13:52,E307,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:16:24,E197,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:15:09,E037,¿Cuál es el horario de trabajo?,Consultar_horario,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:14:14,E562,No he recibido mi nómina.,Reclamar_nomina,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:15:47,E1047,¿Hay oportunidades de formación?,Consultar_formacion,Tienes 28 días disponibles.,3
+2025-04-23 12:14:50,E453,No he recibido mi nómina.,Reclamar_nomina,"Ofrecemos seguro médico, plan de pensiones como beneficios.",1
+2025-04-23 12:16:12,E928,¿Cómo solicito una baja médica?,Solicitar_baja,Tu salario es 1677.09.,5
+2025-04-23 12:13:33,E973,¿Hay oportunidades de formación?,Consultar_formacion,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:16:20,E190,No he recibido mi nómina.,Reclamar_nomina,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:14:18,E189,No he recibido mi nómina.,Reclamar_nomina,Tienes 28 días disponibles.,4
+2025-04-23 12:14:27,E578,¿Cómo puedo cambiar mi información personal?,Actualizar_info,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:14:15,E609,No he recibido mi nómina.,Reclamar_nomina,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:15:17,E1056,No he recibido mi nómina.,Reclamar_nomina,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:13:33,E058,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Tu salario es 1937.67.,4
+2025-04-23 12:14:52,E1035,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:15:11,E742,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:15:01,E886,¿Cómo solicito una baja médica?,Solicitar_baja,"Por favor, contacta con el departamento de nóminas.",1
+2025-04-23 12:15:35,E180,¿Cómo solicito una baja médica?,Solicitar_baja,Tienes 25 días disponibles.,5
+2025-04-23 12:14:17,E019,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:14:41,E173,¿Cuál es la política de teletrabajo?,Consultar_politica,La política se encuentra en el portal del empleado.,2
+2025-04-23 12:16:00,E301,¿Hay oportunidades de formación?,Consultar_formacion,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:15:18,E929,¿Cuál es la política de teletrabajo?,Consultar_politica,Debes seguir los siguientes pasos: el sistema de gestión.,1
+2025-04-23 12:14:15,E963,No he recibido mi nómina.,Reclamar_nomina,Puedes hacerlo a través de tu perfil.,2
+2025-04-23 12:15:39,E946,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:14:50,E684,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:14:19,E681,¿Cuál es el horario de trabajo?,Consultar_horario,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:14:35,E1133,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:14:20,E743,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:25,E712,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Sí, puedes encontrar información en la intranet.",2
+2025-04-23 12:16:09,E615,¿Cómo solicito una baja médica?,Solicitar_baja,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:14:01,E886,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:31,E021,¿Cuál es mi salario?,Consultar_salario,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:16:26,E977,No he recibido mi nómina.,Reclamar_nomina,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:13:43,E757,¿Cuál es mi salario?,Consultar_salario,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:13:57,E512,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:13:38,E1147,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:14:58,E117,¿Cuál es el horario de trabajo?,Consultar_horario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:13:37,E628,¿Cuál es el horario de trabajo?,Consultar_horario,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:15:41,E392,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:15:52,E914,¿Hay oportunidades de formación?,Consultar_formacion,"Ofrecemos seguro médico, plan de pensiones como beneficios.",1
+2025-04-23 12:14:21,E1029,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:15:25,E515,¿Cuál es el horario de trabajo?,Consultar_horario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:16:17,E294,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:15:34,E1145,¿Cómo solicito una baja médica?,Solicitar_baja,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:14:59,E1128,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes contactarnos por email o teléfono.,2
+2025-04-23 12:16:04,E1124,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:13:56,E737,¿Cuál es la política de teletrabajo?,Consultar_politica,El horario es de 9:00 a 18:00.,2
+2025-04-23 12:15:12,E1011,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:14:12,E1062,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:15:29,E907,¿Cuál es la política de teletrabajo?,Consultar_politica,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:14:08,E716,¿Cuál es la política de teletrabajo?,Consultar_politica,Tu salario es 2448.32.,1
+2025-04-23 12:15:05,E446,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:15:42,E953,¿Cuál es la política de teletrabajo?,Consultar_politica,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:13:31,E876,No he recibido mi nómina.,Reclamar_nomina,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:14:03,E158,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Debes seguir los siguientes pasos: el sistema de gestión.,2
+2025-04-23 12:15:51,E933,No he recibido mi nómina.,Reclamar_nomina,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:16:21,E675,No he recibido mi nómina.,Reclamar_nomina,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:15:03,E375,¿Cómo solicito una baja médica?,Solicitar_baja,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:13:44,E930,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Tu salario es 1837.28.,5
+2025-04-23 12:14:12,E763,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:14:00,E822,¿Hay oportunidades de formación?,Consultar_formacion,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:15:19,E840,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:15:54,E754,No he recibido mi nómina.,Reclamar_nomina,"Sí, puedes encontrar información en la intranet.",2
+2025-04-23 12:16:10,E963,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tu salario es 2279.49.,4
+2025-04-23 12:14:47,E150,¿Hay oportunidades de formación?,Consultar_formacion,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:14:26,E928,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Ofrecemos seguro médico, plan de pensiones como beneficios.",1
+2025-04-23 12:14:55,E1059,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:15:42,E970,No he recibido mi nómina.,Reclamar_nomina,Tu salario es 2880.31.,4
+2025-04-23 12:15:22,E730,¿Cuál es mi salario?,Consultar_salario,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:16:01,E331,¿Cuál es la política de teletrabajo?,Consultar_politica,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:15:52,E832,¿Cómo puedo cambiar mi información personal?,Actualizar_info,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:16:04,E351,No he recibido mi nómina.,Reclamar_nomina,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:15:46,E490,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:13:30,E848,¿Cómo puedo cambiar mi información personal?,Actualizar_info,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:16:06,E1022,¿Cuál es el horario de trabajo?,Consultar_horario,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:14:11,E511,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:13:35,E1085,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,La política se encuentra en el portal del empleado.,1
+2025-04-23 12:16:23,E1013,¿Cuál es la política de teletrabajo?,Consultar_politica,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:15:30,E748,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Tu salario es 3843.52.,3
+2025-04-23 12:14:34,E807,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:16:10,E698,¿Hay oportunidades de formación?,Consultar_formacion,"Sí, puedes encontrar información en la intranet.",1
+2025-04-23 12:14:52,E822,No he recibido mi nómina.,Reclamar_nomina,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:13:35,E695,¿Cuál es mi salario?,Consultar_salario,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:57,E136,¿Hay oportunidades de formación?,Consultar_formacion,Tu salario es 2294.49.,2
+2025-04-23 12:14:48,E477,No he recibido mi nómina.,Reclamar_nomina,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:15:59,E1165,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:15:46,E618,¿Cuál es mi salario?,Consultar_salario,Tu salario es 3655.74.,3
+2025-04-23 12:15:55,E001,¿Cuál es el horario de trabajo?,Consultar_horario,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:15:27,E1180,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:15:41,E473,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:14:54,E038,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:14:18,E898,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:16:21,E932,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,El horario es de 9:00 a 18:00.,1
+2025-04-23 12:15:40,E1075,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:15:42,E009,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:14:22,E535,¿Cuál es la política de teletrabajo?,Consultar_politica,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:14:28,E267,¿Cuál es mi salario?,Consultar_salario,Tu salario es 3709.72.,3
+2025-04-23 12:15:55,E868,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:15:21,E266,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Tienes 11 días disponibles.,2
+2025-04-23 12:15:34,E1140,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:14:08,E069,¿Cuál es el horario de trabajo?,Consultar_horario,La política se encuentra en el portal del empleado.,4
+2025-04-23 12:14:52,E896,No he recibido mi nómina.,Reclamar_nomina,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:21,E489,¿Cuál es el horario de trabajo?,Consultar_horario,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:16:04,E113,No he recibido mi nómina.,Reclamar_nomina,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:15:26,E1022,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:14:22,E040,¿Cómo solicito una baja médica?,Solicitar_baja,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:16:14,E808,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:15:18,E190,¿Cuál es la política de teletrabajo?,Consultar_politica,Debes seguir los siguientes pasos: el sistema de gestión.,2
+2025-04-23 12:14:08,E1114,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Sí, puedes encontrar información en la intranet.",1
+2025-04-23 12:16:21,E448,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:15:06,E243,¿Cómo solicito una baja médica?,Solicitar_baja,Puedes contactarnos por email o teléfono.,5
+2025-04-23 12:14:55,E655,¿Hay oportunidades de formación?,Consultar_formacion,Tienes 6 días disponibles.,5
+2025-04-23 12:15:56,E1069,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tu salario es 2181.7.,4
+2025-04-23 12:16:21,E1114,No he recibido mi nómina.,Reclamar_nomina,Tienes 9 días disponibles.,4
+2025-04-23 12:15:18,E813,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:13:43,E051,¿Cómo solicito una baja médica?,Solicitar_baja,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:15:40,E528,¿Cómo solicito una baja médica?,Solicitar_baja,Tienes 9 días disponibles.,3
+2025-04-23 12:14:07,E069,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Debes seguir los siguientes pasos: el sistema de gestión.,4
+2025-04-23 12:15:28,E1025,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Ofrecemos seguro médico, plan de pensiones como beneficios.",1
+2025-04-23 12:14:58,E456,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Ofrecemos seguro médico, plan de pensiones como beneficios.",1
+2025-04-23 12:13:49,E310,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Ofrecemos seguro médico, plan de pensiones como beneficios.",2
+2025-04-23 12:14:44,E043,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Por favor, contacta con el departamento de nóminas.",5
+2025-04-23 12:14:14,E424,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes hacerlo a través de tu perfil.,5
+2025-04-23 12:15:46,E906,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:16:27,E1068,¿Cuál es el horario de trabajo?,Consultar_horario,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:13:47,E956,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:13:34,E672,¿Cuál es el horario de trabajo?,Consultar_horario,Tienes 23 días disponibles.,4
+2025-04-23 12:13:38,E867,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:14:49,E546,¿Cuál es el horario de trabajo?,Consultar_horario,"Ofrecemos seguro médico, plan de pensiones como beneficios.",4
+2025-04-23 12:14:56,E383,¿Cuál es la política de teletrabajo?,Consultar_politica,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:15:26,E520,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,"Sí, puedes encontrar información en la intranet.",3
+2025-04-23 12:14:04,E909,¿Cuál es la política de teletrabajo?,Consultar_politica,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:15:17,E591,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Tienes 28 días disponibles.,3
+2025-04-23 12:13:33,E177,¿Cuál es mi salario?,Consultar_salario,Tu salario es 2284.87.,3
+2025-04-23 12:16:04,E999,¿Cuál es la política de teletrabajo?,Consultar_politica,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:14:50,E926,¿Cómo solicito una baja médica?,Solicitar_baja,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:14:16,E368,¿Hay oportunidades de formación?,Consultar_formacion,Puedes contactarnos por email o teléfono.,1
+2025-04-23 12:14:15,E123,¿Cuál es el horario de trabajo?,Consultar_horario,Puedes hacerlo a través de tu perfil.,2
+2025-04-23 12:16:01,E637,¿Cuál es mi salario?,Consultar_salario,"Por favor, contacta con el departamento de nóminas.",2
+2025-04-23 12:15:29,E637,¿Hay oportunidades de formación?,Consultar_formacion,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:13:45,E832,No he recibido mi nómina.,Reclamar_nomina,"Por favor, contacta con el departamento de nóminas.",1
+2025-04-23 12:13:42,E293,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:15:01,E913,¿Cuál es el horario de trabajo?,Consultar_horario,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:16:25,E579,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,"Ofrecemos seguro médico, plan de pensiones como beneficios.",5
+2025-04-23 12:13:44,E969,¿Cuál es el horario de trabajo?,Consultar_horario,Tu salario es 2246.15.,5
+2025-04-23 12:16:06,E994,¿Cómo puedo cambiar mi información personal?,Actualizar_info,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:15:05,E831,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:15:08,E372,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:15:39,E853,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:16:21,E841,¿Cómo puedo cambiar mi información personal?,Actualizar_info,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:14:19,E1020,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:15:03,E958,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:15:23,E1118,¿Cuál es el horario de trabajo?,Consultar_horario,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:13:50,E100,¿Cuál es mi salario?,Consultar_salario,"Por favor, contacta con el departamento de nóminas.",3
+2025-04-23 12:15:16,E645,¿Cuál es la política de teletrabajo?,Consultar_politica,La política se encuentra en el portal del empleado.,3
+2025-04-23 12:14:50,E374,No he recibido mi nómina.,Reclamar_nomina,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:13:54,E518,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,La política se encuentra en el portal del empleado.,2
+2025-04-23 12:13:40,E600,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:14:48,E1015,¿Cuál es mi salario?,Consultar_salario,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:13:48,E471,¿Cuál es el horario de trabajo?,Consultar_horario,Tu salario es 3984.95.,5
+2025-04-23 12:15:45,E504,¿Cuál es mi salario?,Consultar_salario,Debes seguir los siguientes pasos: el sistema de gestión.,2
+2025-04-23 12:14:39,E676,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,El horario es de 9:00 a 18:00.,4
+2025-04-23 12:16:18,E347,¿Cuál es el horario de trabajo?,Consultar_horario,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:15:35,E207,No he recibido mi nómina.,Reclamar_nomina,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:14:07,E442,No he recibido mi nómina.,Reclamar_nomina,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:13:44,E353,¿Cuántos días de vacaciones me quedan?,Consultar_vacaciones,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:15:34,E608,¿Hay oportunidades de formación?,Consultar_formacion,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:15:22,E379,¿Cuál es la política de teletrabajo?,Consultar_politica,"Ofrecemos seguro médico, plan de pensiones como beneficios.",3
+2025-04-23 12:14:12,E413,¿Cuál es mi salario?,Consultar_salario,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:14:07,E759,¿Cuál es el horario de trabajo?,Consultar_horario,Tu salario es 2718.01.,2
+2025-04-23 12:14:07,E326,¿Cuál es la política de teletrabajo?,Consultar_politica,Puedes hacerlo a través de tu perfil.,4
+2025-04-23 12:14:28,E924,¿Cómo solicito una baja médica?,Solicitar_baja,Tienes 6 días disponibles.,3
+2025-04-23 12:14:44,E044,¿Cuál es el horario de trabajo?,Consultar_horario,Tienes 26 días disponibles.,5
+2025-04-23 12:13:39,E974,No he recibido mi nómina.,Reclamar_nomina,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:13:32,E069,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Ofrecemos seguro médico, plan de pensiones como beneficios.",1
+2025-04-23 12:14:39,E1037,¿Cómo puedo cambiar mi información personal?,Actualizar_info,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:16:29,E720,¿Hay oportunidades de formación?,Consultar_formacion,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:13:58,E078,¿Cuál es mi salario?,Consultar_salario,Debes seguir los siguientes pasos: el sistema de gestión.,5
+2025-04-23 12:14:35,E1040,¿Cuál es mi salario?,Consultar_salario,Puedes contactarnos por email o teléfono.,4
+2025-04-23 12:16:14,E402,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Sí, puedes encontrar información en la intranet.",4
+2025-04-23 12:15:00,E601,¿Cuál es mi salario?,Consultar_salario,"Por favor, contacta con el departamento de nóminas.",4
+2025-04-23 12:15:31,E755,¿Cuál es el horario de trabajo?,Consultar_horario,Debes seguir los siguientes pasos: el sistema de gestión.,3
+2025-04-23 12:13:30,E208,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,El horario es de 9:00 a 18:00.,5
+2025-04-23 12:16:17,E351,¿Cómo solicito una baja médica?,Solicitar_baja,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:16:20,E592,¿Cuál es el horario de trabajo?,Consultar_horario,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:14:33,E018,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Tu salario es 3628.51.,3
+2025-04-23 12:14:55,E771,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,Puedes hacerlo a través de tu perfil.,3
+2025-04-23 12:14:50,E635,¿Hay oportunidades de formación?,Consultar_formacion,La política se encuentra en el portal del empleado.,5
+2025-04-23 12:16:20,E772,¿Qué beneficios ofrece la empresa?,Consultar_beneficios,"Sí, puedes encontrar información en la intranet.",5
+2025-04-23 12:16:13,E014,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes hacerlo a través de tu perfil.,2
+2025-04-23 12:13:43,E174,¿Hay oportunidades de formación?,Consultar_formacion,Tienes 14 días disponibles.,3
+2025-04-23 12:16:29,E956,¿Cómo puedo contactar con RRHH?,Contactar_RRHH,El horario es de 9:00 a 18:00.,3
+2025-04-23 12:16:17,E122,¿Cómo puedo cambiar mi información personal?,Actualizar_info,Puedes contactarnos por email o teléfono.,3
+2025-04-23 12:14:37,E067,¿Cómo puedo cambiar mi información personal?,Actualizar_info,"Sí, puedes encontrar información en la intranet.",5
