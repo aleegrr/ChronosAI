@@ -11,6 +11,7 @@ xgboost = "*"
 matplotlib = "*"
 seaborn = "*"
 catboost = "*"
+imblearn = "*"
 
 [dev-packages]
 
