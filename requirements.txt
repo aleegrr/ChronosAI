@@ -1,0 +1,11 @@
+streamlit>=1.26.0
+streamlit-audiorecorder>=0.0.6
+openai>=1.77.0
+gTTS>=2.5.4
+python-dotenv>=1.1.0
+langchain-openai>=0.0.29
+langchain-core>=0.0.25
+langchain-chroma>=0.2.3
+chromadb>=0.3.24
+sentence-transformers>=2.3.0
+langfuse>=2.60.4
