@@ -4,14 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-faker = "*"
-pandas = "*"
-scikit-learn = "*"
-xgboost = "*"
-matplotlib = "*"
-seaborn = "*"
-catboost = "*"
-imblearn = "*"
+langchain-openai = "*"
+langchain-core = "*"
+langchain = "*"
+dotenv = "*"
+langchain-chroma = "*"
+langfuse = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
 
 [dev-packages]
 

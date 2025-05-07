@@ -1,0 +1,151 @@
+id_empleado,nombre,departamento,puesto,fecha_contratacion,antiguedad_meses,correo_electronico,edad,genero,nivel_educacion
+1,Erasmo Barrios Álamo,Recursos Humanos,Técnico de Selección,2024-10-14,6,erasmo.barrios@empresa.com,46,Femenino,Máster
+2,Serafina Arévalo Ros,Recursos Humanos,Especialista en RRHH,2024-11-01,5,serafina.arévalo@empresa.com,28,Femenino,Grado
+3,Concha Checa Segovia,Recursos Humanos,Técnico de Selección,2021-01-02,52,concha.checa@empresa.com,52,Femenino,Grado
+4,Catalina Zorrilla Domínguez,IT,Analista de Datos,2024-10-18,6,catalina.zorrilla@empresa.com,46,Femenino,Grado
+5,Benigna Ochoa Ribas,Recursos Humanos,Técnico de Selección,2025-03-11,1,benigna.ochoa@empresa.com,47,Otro,Bachillerato
+6,Nazaret Villalba Montero,Ventas,Gerente de Ventas,2020-11-25,53,nazaret.villalba@empresa.com,30,Masculino,Máster
+7,Ildefonso Tomé Blanch,Recursos Humanos,Técnico de Selección,2021-12-11,41,ildefonso.tomé@empresa.com,47,Otro,Bachillerato
+8,Regina Font,Marketing,Analista de Marketing,2021-04-11,49,regina.font@empresa.com,23,Femenino,Doctorado
+9,Marisela Micaela Gutiérrez Asenjo,Ventas,Representante de Ventas,2023-01-29,27,marisela.micaela@empresa.com,54,Otro,Doctorado
+10,Luz Gallart Sola,Recursos Humanos,Responsable de Formación,2024-11-10,5,luz.gallart@empresa.com,39,Masculino,Grado
+11,Eugenio Isern Mateu,Finanzas,Analista Financiero,2021-07-10,46,eugenio.isern@empresa.com,27,Masculino,Bachillerato
+12,Dorita Julie Leon Arnal,Ventas,Gerente de Ventas,2023-07-16,21,dorita.julie@empresa.com,55,Masculino,Bachillerato
+13,Leandro Rubio Guzmán,Recursos Humanos,Responsable de Formación,2021-12-30,40,leandro.rubio@empresa.com,52,Masculino,Grado
+14,Guiomar Montserrat Frías Borrego,Marketing,Community Manager,2024-04-11,12,guiomar.montserrat@empresa.com,32,Masculino,Máster
+15,Francisco Jose Andrade Gascón,IT,Desarrollador Front-end,2023-02-18,26,francisco.jose@empresa.com,46,Femenino,Máster
+16,Cristian Maximino Abril Pazos,Ventas,Ejecutivo de Cuentas,2023-03-29,25,cristian.maximino@empresa.com,25,Otro,Bachillerato
+17,Iris Gonzalez-Ibáñez,Operaciones,Coordinador de Operaciones,2022-12-23,28,iris.gonzalez-ibáñez@empresa.com,36,Masculino,Grado
+18,Fortunata del Peral,Marketing,Especialista en Marketing,2024-04-05,12,fortunata.del@empresa.com,42,Otro,Bachillerato
+19,Tito Coca,Finanzas,Tesorero,2023-01-10,27,tito.coca@empresa.com,39,Femenino,Grado
+20,León Ruiz Raya,IT,Desarrollador Front-end,2022-09-13,31,león.ruiz@empresa.com,31,Femenino,Grado
+21,Toño Girona Menendez,Finanzas,Analista Financiero,2021-10-07,43,toño.girona@empresa.com,26,Femenino,Grado
+22,Valeria Pacheco Figueroa,Finanzas,Analista Financiero,2024-03-02,13,valeria.pacheco@empresa.com,34,Otro,Máster
+23,Miriam Domingo-Rosado,Recursos Humanos,Especialista en RRHH,2020-12-22,52,miriam.domingo-rosado@empresa.com,49,Otro,Doctorado
+24,Gustavo Pardo-Coronado,Marketing,Especialista en Marketing,2023-05-19,23,gustavo.pardo-coronado@empresa.com,22,Otro,Doctorado
+25,Francisca Roselló Delgado,IT,Administrador de Sistemas,2020-08-08,57,francisca.roselló@empresa.com,55,Masculino,Grado
+26,Emilio Portero Carlos,Finanzas,Analista Financiero,2024-04-15,12,emilio.portero@empresa.com,35,Otro,Máster
+27,Gaspar José Ángel Calvet Pintor,Ventas,Gerente de Ventas,2024-09-14,7,gaspar.josé@empresa.com,54,Otro,Máster
+28,Ema Campillo Ferrández,Finanzas,Analista Financiero,2022-11-28,29,ema.campillo@empresa.com,29,Masculino,Grado
+29,Damián Borrás Pascual,Recursos Humanos,Especialista en RRHH,2023-10-11,18,damián.borrás@empresa.com,44,Masculino,Doctorado
+30,Nidia Larrañaga Rocha,Marketing,Especialista en Marketing,2023-05-22,23,nidia.larrañaga@empresa.com,41,Masculino,Máster
+31,Tomás Máximo Gaya Torralba,IT,Desarrollador Back-end,2021-01-08,52,tomás.máximo@empresa.com,22,Masculino,Bachillerato
+32,Charo Leyre Márquez Simó,IT,Analista de Datos,2020-06-15,59,charo.leyre@empresa.com,53,Masculino,Máster
+33,Dan Criado Rivera,Finanzas,Analista Financiero,2023-04-27,24,dan.criado@empresa.com,28,Femenino,Grado
+34,Baldomero Corral Pomares,Marketing,Analista de Marketing,2024-10-02,6,baldomero.corral@empresa.com,29,Femenino,Bachillerato
+35,Teófilo Ferrera Dávila,Marketing,Especialista en Marketing,2024-03-04,13,teófilo.ferrera@empresa.com,42,Masculino,Máster
+36,Gabriel Tamayo Fábregas,IT,Desarrollador Back-end,2020-07-26,57,gabriel.tamayo@empresa.com,41,Femenino,Doctorado
+37,Osvaldo Ramos,Finanzas,Contador,2021-10-24,42,osvaldo.ramos@empresa.com,35,Otro,Doctorado
+38,Obdulia Dominguez,Recursos Humanos,Técnico de Selección,2022-03-16,37,obdulia.dominguez@empresa.com,39,Femenino,Bachillerato
+39,Rodrigo Escamilla Español,Marketing,Especialista en Marketing,2021-07-18,45,rodrigo.escamilla@empresa.com,45,Otro,Bachillerato
+40,Chema Elías Pedrero,Finanzas,Tesorero,2022-12-10,28,chema.elías@empresa.com,47,Femenino,Máster
+41,Santos Téllez-Hoz,Recursos Humanos,Responsable de Formación,2021-06-20,46,santos.téllez-hoz@empresa.com,46,Masculino,Máster
+42,Melania María Ángeles Ibañez Valentín,Operaciones,Asistente de Producción,2023-08-02,21,melania.maría@empresa.com,47,Otro,Grado
+43,Marisol Campoy Amo,Recursos Humanos,Especialista en RRHH,2022-08-28,32,marisol.campoy@empresa.com,41,Femenino,Grado
+44,Fátima Vergara Fábregas,Ventas,Ejecutivo de Cuentas,2022-09-11,31,fátima.vergara@empresa.com,25,Otro,Máster
+45,Eli de Baró,Marketing,Analista de Marketing,2023-02-23,26,eli.de@empresa.com,31,Otro,Bachillerato
+46,Leonel Pallarès Martinez,Marketing,Especialista en Marketing,2023-05-23,23,leonel.pallarès@empresa.com,55,Otro,Grado
+47,Cloe Coloma Cobo,Finanzas,Analista Financiero,2022-02-12,38,cloe.coloma@empresa.com,28,Femenino,Grado
+48,Efraín Tello-Escobar,Marketing,Especialista en Marketing,2023-12-21,16,efraín.tello-escobar@empresa.com,37,Otro,Máster
+49,Nicolasa del Esteve,Finanzas,Contador,2024-06-20,10,nicolasa.del@empresa.com,51,Femenino,Bachillerato
+50,Alondra Seguí,Finanzas,Contador,2020-07-16,58,alondra.seguí@empresa.com,24,Masculino,Máster
+51,Conrado del Arjona,IT,Desarrollador Back-end,2024-08-07,8,conrado.del@empresa.com,23,Masculino,Máster
+52,Adán Jerez Gómez,Marketing,Analista de Marketing,2020-04-26,60,adán.jerez@empresa.com,37,Masculino,Grado
+53,Jose de Sanmiguel,Operaciones,Coordinador de Operaciones,2022-09-06,32,jose.de@empresa.com,53,Masculino,Bachillerato
+54,Felisa Mayo Tovar,Operaciones,Coordinador de Operaciones,2023-04-07,24,felisa.mayo@empresa.com,32,Otro,Bachillerato
+55,Encarnación Ródenas-Alemán,Recursos Humanos,Técnico de Selección,2020-10-24,54,encarnación.ródenas-alemán@empresa.com,38,Otro,Grado
+56,Jordán Rosado,IT,Desarrollador Front-end,2022-08-14,32,jordán.rosado@empresa.com,31,Femenino,Grado
+57,Arturo Gabaldón-Uriarte,Marketing,Analista de Marketing,2024-02-21,14,arturo.gabaldón-uriarte@empresa.com,41,Femenino,Bachillerato
+58,Juan Bautista Peláez Cerdán,IT,Desarrollador Back-end,2020-07-14,58,juan.bautista@empresa.com,39,Otro,Grado
+59,Encarna Saez Castell,IT,Desarrollador Back-end,2021-04-24,48,encarna.saez@empresa.com,32,Masculino,Máster
+60,Piedad Santamaria,Marketing,Especialista en Marketing,2022-07-07,34,piedad.santamaria@empresa.com,35,Otro,Bachillerato
+61,Ignacia Barrios Giner,Operaciones,Coordinador de Operaciones,2022-02-24,38,ignacia.barrios@empresa.com,40,Femenino,Bachillerato
+62,Tamara Grau Julián,Marketing,Community Manager,2024-10-19,6,tamara.grau@empresa.com,30,Masculino,Máster
+63,Odalis Abigaíl Gonzalo Berrocal,Recursos Humanos,Especialista en RRHH,2023-02-04,27,odalis.abigaíl@empresa.com,28,Masculino,Bachillerato
+64,Mayte Puga Guijarro,Finanzas,Tesorero,2021-09-21,43,mayte.puga@empresa.com,34,Masculino,Grado
+65,Lupita Ramirez Dueñas,IT,Administrador de Sistemas,2021-04-28,48,lupita.ramirez@empresa.com,49,Masculino,Bachillerato
+66,Laura Campos Carrión,Ventas,Representante de Ventas,2020-08-22,56,laura.campos@empresa.com,35,Femenino,Doctorado
+67,Lope de Gómez,Recursos Humanos,Responsable de Formación,2022-01-08,40,lope.de@empresa.com,31,Masculino,Máster
+68,Elpidio Tadeo Pombo Naranjo,Ventas,Gerente de Ventas,2024-08-08,8,elpidio.tadeo@empresa.com,28,Masculino,Grado
+69,Jessica Bravo Borrego,Recursos Humanos,Especialista en RRHH,2022-08-03,33,jessica.bravo@empresa.com,30,Femenino,Doctorado
+70,Catalina Bru Bustos,IT,Analista de Datos,2023-03-07,25,catalina.bru@empresa.com,44,Femenino,Bachillerato
+71,Isabela Peral Planas,IT,Desarrollador Front-end,2021-07-07,46,isabela.peral@empresa.com,22,Masculino,Grado
+72,Morena Rivas Gargallo,Marketing,Especialista en Marketing,2021-06-24,46,morena.rivas@empresa.com,55,Otro,Grado
+73,Imelda Mendizábal Castell,IT,Desarrollador Back-end,2021-01-06,52,imelda.mendizábal@empresa.com,46,Otro,Bachillerato
+74,Anita Plana Alcalá,IT,Administrador de Sistemas,2020-04-27,60,anita.plana@empresa.com,39,Otro,Bachillerato
+75,Calixta Barral-Crespi,IT,Desarrollador Back-end,2024-11-27,4,calixta.barral-crespi@empresa.com,48,Femenino,Grado
+76,Rubén Valencia Alberola,Finanzas,Contador,2020-08-07,57,rubén.valencia@empresa.com,22,Otro,Doctorado
+77,Almudena Duque Arjona,IT,Administrador de Sistemas,2024-01-27,15,almudena.duque@empresa.com,22,Masculino,Máster
+78,Rufino Iñiguez Arias,Marketing,Analista de Marketing,2022-10-17,30,rufino.iñiguez@empresa.com,46,Otro,Bachillerato
+79,Roberta Olivares Osuna,Marketing,Analista de Marketing,2020-05-07,60,roberta.olivares@empresa.com,49,Masculino,Máster
+80,Luis Plana Fuente,Ventas,Representante de Ventas,2022-10-02,31,luis.plana@empresa.com,50,Masculino,Bachillerato
+81,Cristóbal Catalán Robles,Ventas,Representante de Ventas,2020-10-13,55,cristóbal.catalán@empresa.com,53,Masculino,Grado
+82,Urbano Bayona Sevilla,Marketing,Analista de Marketing,2022-07-06,34,urbano.bayona@empresa.com,53,Otro,Máster
+83,Telmo Vallés Roldan,Ventas,Representante de Ventas,2022-12-24,28,telmo.vallés@empresa.com,38,Masculino,Grado
+84,Cándido Gordillo,Operaciones,Especialista en Logística,2022-05-05,36,cándido.gordillo@empresa.com,23,Masculino,Grado
+85,Eulalia Ramirez Lorenzo,Operaciones,Asistente de Producción,2024-04-03,12,eulalia.ramirez@empresa.com,34,Otro,Bachillerato
+86,Zaira de Plaza,Ventas,Gerente de Ventas,2023-05-15,23,zaira.de@empresa.com,40,Otro,Grado
+87,Gil Berrocal Duarte,Finanzas,Contador,2024-06-24,10,gil.berrocal@empresa.com,27,Otro,Máster
+88,Juana Llanos,Recursos Humanos,Especialista en RRHH,2023-08-29,20,juana.llanos@empresa.com,55,Femenino,Bachillerato
+89,Duilio Santiago Araujo,Ventas,Representante de Ventas,2024-11-11,5,duilio.santiago@empresa.com,37,Femenino,Bachillerato
+90,Marco Tejedor Fuster,Finanzas,Contador,2021-12-16,40,marco.tejedor@empresa.com,34,Otro,Grado
+91,Ruben Jesús Baena Marín,Ventas,Ejecutivo de Cuentas,2020-12-20,52,ruben.jesús@empresa.com,43,Otro,Bachillerato
+92,Silvio de Vélez,Finanzas,Contador,2023-01-14,27,silvio.de@empresa.com,48,Femenino,Grado
+93,Nidia Matas Nieto,IT,Analista de Datos,2024-11-08,5,nidia.matas@empresa.com,36,Masculino,Doctorado
+94,Donato de Comas,Ventas,Representante de Ventas,2023-07-02,22,donato.de@empresa.com,49,Masculino,Grado
+95,Fátima Nerea Tovar Valenzuela,Recursos Humanos,Responsable de Formación,2022-01-01,40,fátima.nerea@empresa.com,28,Otro,Máster
+96,Nico Tejero,Finanzas,Contador,2023-12-02,16,nico.tejero@empresa.com,55,Femenino,Máster
+97,Marcio Páez Agustín,Marketing,Analista de Marketing,2025-02-09,2,marcio.páez@empresa.com,36,Masculino,Máster
+98,Casandra Arnaiz Pou,Operaciones,Coordinador de Operaciones,2024-07-03,9,casandra.arnaiz@empresa.com,35,Otro,Bachillerato
+99,Fidel Amador Perelló,IT,Administrador de Sistemas,2022-12-25,28,fidel.amador@empresa.com,45,Femenino,Doctorado
+100,Onofre de Dalmau,IT,Desarrollador Front-end,2020-06-17,59,onofre.de@empresa.com,40,Femenino,Bachillerato
+101,Moreno Barrio Dávila,IT,Administrador de Sistemas,2021-10-14,42,moreno.barrio@empresa.com,43,Otro,Máster
+102,Zoraida Nogueira Mata,Marketing,Analista de Marketing,2023-07-01,22,zoraida.nogueira@empresa.com,46,Femenino,Bachillerato
+103,Alfonso Artigas Almeida,IT,Administrador de Sistemas,2023-09-16,19,alfonso.artigas@empresa.com,41,Femenino,Doctorado
+104,María Luisa Carrera Sanabria,Marketing,Analista de Marketing,2021-05-25,47,maría.luisa@empresa.com,43,Otro,Grado
+105,Aníbal Leiva Tenorio,Recursos Humanos,Especialista en RRHH,2024-02-10,14,aníbal.leiva@empresa.com,41,Femenino,Bachillerato
+106,Eliana Rozas Clemente,Ventas,Ejecutivo de Cuentas,2024-10-11,6,eliana.rozas@empresa.com,22,Femenino,Bachillerato
+107,Micaela Contreras Novoa,Operaciones,Asistente de Producción,2020-11-05,54,micaela.contreras@empresa.com,49,Masculino,Doctorado
+108,Fausto Lago-Beltrán,Recursos Humanos,Responsable de Formación,2025-01-02,3,fausto.lago-beltrán@empresa.com,24,Masculino,Máster
+109,Marita Garay,Marketing,Analista de Marketing,2022-10-22,30,marita.garay@empresa.com,24,Otro,Grado
+110,Flavia Piña,Marketing,Analista de Marketing,2024-01-08,15,flavia.piña@empresa.com,23,Otro,Doctorado
+111,Fabiola Sandoval Mascaró,IT,Administrador de Sistemas,2023-10-30,18,fabiola.sandoval@empresa.com,33,Masculino,Grado
+112,Bienvenida Calvo-Llamas,IT,Desarrollador Back-end,2022-01-30,39,bienvenida.calvo-llamas@empresa.com,36,Masculino,Grado
+113,Demetrio Madrigal Lara,Ventas,Gerente de Ventas,2023-02-19,26,demetrio.madrigal@empresa.com,49,Femenino,Máster
+114,Jose Luis Izaguirre Camps,Recursos Humanos,Técnico de Selección,2020-11-22,53,jose.luis@empresa.com,33,Masculino,Máster
+115,Angelina Iglesia Cerdán,Marketing,Analista de Marketing,2021-11-10,42,angelina.iglesia@empresa.com,25,Masculino,Grado
+116,Marcial de Mateo,Finanzas,Tesorero,2020-08-10,57,marcial.de@empresa.com,43,Otro,Máster
+117,Goyo Planas Vidal,Operaciones,Coordinador de Operaciones,2021-12-28,40,goyo.planas@empresa.com,34,Otro,Doctorado
+118,Mireia Cañete,IT,Desarrollador Front-end,2025-01-23,3,mireia.cañete@empresa.com,22,Otro,Doctorado
+119,Leocadio Lisandro Solsona Villalonga,Recursos Humanos,Responsable de Formación,2021-05-03,48,leocadio.lisandro@empresa.com,34,Femenino,Doctorado
+120,Josep Valverde Aguado,Marketing,Especialista en Marketing,2023-08-11,20,josep.valverde@empresa.com,50,Femenino,Grado
+121,Lorenza Flor,Finanzas,Contador,2021-11-30,41,lorenza.flor@empresa.com,26,Otro,Máster
+122,Fabiana Garriga Montes,IT,Analista de Datos,2024-08-29,7,fabiana.garriga@empresa.com,29,Masculino,Bachillerato
+123,Odalis Tello-Águila,Operaciones,Especialista en Logística,2023-10-24,18,odalis.tello-águila@empresa.com,27,Femenino,Máster
+124,Esperanza Cifuentes Aroca,Finanzas,Tesorero,2024-08-16,8,esperanza.cifuentes@empresa.com,36,Otro,Máster
+125,Magdalena Andreu,IT,Desarrollador Back-end,2023-08-24,20,magdalena.andreu@empresa.com,53,Masculino,Máster
+126,Carlito Piñeiro,Marketing,Community Manager,2022-06-12,34,carlito.piñeiro@empresa.com,42,Femenino,Bachillerato
+127,Olalla Arteaga Gomis,Marketing,Analista de Marketing,2022-03-19,37,olalla.arteaga@empresa.com,52,Otro,Bachillerato
+128,Álvaro Villaverde,Operaciones,Asistente de Producción,2021-11-10,42,álvaro.villaverde@empresa.com,42,Femenino,Doctorado
+129,Leticia Tamara Gabaldón Calleja,IT,Administrador de Sistemas,2023-02-28,26,leticia.tamara@empresa.com,50,Femenino,Bachillerato
+130,Mónica Aguiló Alba,Finanzas,Contador,2023-04-04,25,mónica.aguiló@empresa.com,28,Otro,Bachillerato
+131,Valeria Benavent-Guijarro,IT,Desarrollador Back-end,2022-11-13,29,valeria.benavent-guijarro@empresa.com,48,Masculino,Bachillerato
+132,Eufemia Pozo Fortuny,Recursos Humanos,Especialista en RRHH,2024-01-12,15,eufemia.pozo@empresa.com,55,Otro,Bachillerato
+133,Zoraida Barroso Barceló,IT,Desarrollador Front-end,2023-09-16,19,zoraida.barroso@empresa.com,36,Femenino,Doctorado
+134,Teobaldo Espejo Llorens,Marketing,Community Manager,2024-12-12,4,teobaldo.espejo@empresa.com,51,Masculino,Máster
+135,Lucas Lago Rosa,Marketing,Community Manager,2022-07-17,33,lucas.lago@empresa.com,53,Femenino,Máster
+136,Demetrio Grau Yuste,Finanzas,Analista Financiero,2022-03-19,37,demetrio.grau@empresa.com,44,Masculino,Bachillerato
+137,Eusebia Cruz Solano Pera,Finanzas,Tesorero,2022-05-08,36,eusebia.cruz@empresa.com,36,Femenino,Grado
+138,Manuelita Ochoa Plana,Ventas,Ejecutivo de Cuentas,2022-07-26,33,manuelita.ochoa@empresa.com,30,Femenino,Bachillerato
+139,Susanita de Villanueva,Ventas,Gerente de Ventas,2023-07-23,21,susanita.de@empresa.com,26,Femenino,Doctorado
+140,Nazario Heras Peiró,Operaciones,Asistente de Producción,2024-02-03,14,nazario.heras@empresa.com,22,Otro,Doctorado
+141,Nidia Mendoza Neira,Recursos Humanos,Técnico de Selección,2025-03-03,1,nidia.mendoza@empresa.com,41,Otro,Grado
+142,Jordán Alvarez Mayol,Operaciones,Coordinador de Operaciones,2025-02-27,1,jordán.alvarez@empresa.com,27,Femenino,Máster
+143,Hermenegildo Valero Bellido,Operaciones,Asistente de Producción,2023-08-29,20,hermenegildo.valero@empresa.com,52,Otro,Doctorado
+144,Eva María Goicoechea Lerma,Finanzas,Analista Financiero,2024-11-03,5,eva.maría@empresa.com,38,Femenino,Bachillerato
+145,Elías Gracia Alba,Finanzas,Tesorero,2023-10-10,18,elías.gracia@empresa.com,52,Otro,Grado
+146,Eleuterio de Bauzà,Ventas,Gerente de Ventas,2022-10-08,30,eleuterio.de@empresa.com,48,Masculino,Bachillerato
+147,Pilar del Múñiz,Ventas,Representante de Ventas,2023-01-04,28,pilar.del@empresa.com,32,Femenino,Grado
+148,Pepe Reyes Escribano Carretero,Ventas,Representante de Ventas,2022-10-24,30,pepe.reyes@empresa.com,22,Masculino,Grado
+149,Martirio Arnaiz Perea,Finanzas,Contador,2024-08-18,8,martirio.arnaiz@empresa.com,27,Masculino,Máster
+150,Román Saavedra Roldan,Finanzas,Contador,2022-04-15,36,román.saavedra@empresa.com,49,Otro,Grado
