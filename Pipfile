@@ -4,17 +4,18 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-langchain-openai = "*"
-langchain-core = "*"
-langchain = "*"
 dotenv = "*"
+langchain-openai = "*"
 langchain-chroma = "*"
+langchain-huggingface = "*"
 langfuse = "*"
-torch = "*"
-torchvision = "*"
-torchaudio = "*"
+langchain = "*"
+langchain-core = "*"
+faker = "*"
+streamlit = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.13"
