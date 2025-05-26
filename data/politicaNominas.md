@@ -32,8 +32,8 @@ La nómina mensual de cada empleado se compondrá de los siguientes elementos, s
   - **Incentivos y Bonus:** Pagos variables ligados al cumplimiento de objetivos individuales o colectivos, según los criterios y sistemas de evaluación establecidos por la empresa. Su cálculo y abono se regirán por la política de incentivos vigente.
   - **Participación en Beneficios:** En caso de existir, se abonará según lo establecido en la normativa y/o acuerdo de empresa.
   - **Pagas Extraordinarias:** Se abonarán **dos pagas extraordinarias** al año:
-    - **Paga de Verano:** Abonada antes del [Especificar fecha, ej: 30 de junio], equivalente a [Especificar importe, ej: una mensualidad del salario base más antigüedad].
-    - **Paga de Navidad:** Abonada antes del [Especificar fecha, ej: 20 de diciembre], equivalente a [Especificar importe, ej: una mensualidad del salario base más antigüedad].
+    - **Paga de Verano:** Abonada antes del 30 de junio, equivalente a una mensualidad del salario base más antigüedad.
+    - **Paga de Navidad:** Abonada antes del 20 de diciembre, equivalente a una mensualidad del salario base más antigüedad.
       Estas pagas podrán ser prorrateadas mensualmente si así se acuerda individualmente o por convenio colectivo.
 
 - **3.2. Deducciones (Importe a Deducir):**
@@ -90,14 +90,14 @@ El cálculo de la nómina se realizará mensualmente por el departamento de Admi
 
 **6. Incidencias y Reclamaciones:**
 
-- Cualquier duda, error o reclamación relacionada con la nómina deberá comunicarse al departamento de **Recursos Humanos** en un plazo máximo de [Especificar plazo, ej: 10 días hábiles] desde la fecha de recepción de la nómina.
-- La comunicación deberá realizarse preferentemente por **correo electrónico** a la dirección [Especificar dirección de correo electrónico de RRHH, ej: rrhh@empresa_ejemplo.com], detallando claramente la incidencia y adjuntando la nómina correspondiente.
+- Cualquier duda, error o reclamación relacionada con la nómina deberá comunicarse al departamento de **Recursos Humanos** en un plazo máximo de 10 días hábiles desde la fecha de recepción de la nómina.
+- La comunicación deberá realizarse preferentemente por **correo electrónico** a la dirección rrhh@empresa-ejemplo.com, detallando claramente la incidencia y adjuntando la nómina correspondiente.
 - El departamento de Recursos Humanos investigará la incidencia y proporcionará una respuesta al empleado en el menor plazo posible. En caso de error, se procederá a su subsanación en la nómina siguiente o mediante un abono/descuento complementario.
 
 **7. Anticipos de Salario:**
 
-- Los empleados podrán solicitar **anticipos de salario** de hasta el [Especificar porcentaje, ej: 50%] del importe neto de una mensualidad, previa justificación de la necesidad.
-- Las solicitudes deberán dirigirse al departamento de Recursos Humanos con una antelación mínima de [Especificar plazo, ej: 5 días hábiles] a la fecha deseada para el anticipo.
+- Los empleados podrán solicitar **anticipos de salario** de hasta el 50% del importe neto de una mensualidad, previa justificación de la necesidad.
+- Las solicitudes deberán dirigirse al departamento de Recursos Humanos con una antelación mínima de 5 días hábiles a la fecha deseada para el anticipo.
 - La concesión del anticipo estará sujeta a la aprobación de la dirección y se descontará íntegramente en la nómina del mes siguiente.
 
 **8. Protección de Datos:**
@@ -122,10 +122,10 @@ La presente Política de Nóminas será revisada y actualizada anualmente o cuan
 
 **Empresa Ejemplo S.A.**
 
+
 ---
 
 **Referencias Legales:**
-
 - Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015)
 - Ley General de la Seguridad Social (LGSS)
 - Reglamento General de Protección de Datos (UE 2016/679)
@@ -137,12 +137,13 @@ Los datos personales y económicos del trabajador serán tratados conforme al Re
 **Sobre el IRPF:**
 La empresa calculará y aplicará el IRPF en base a los datos personales, familiares y económicos aportados por el trabajador. Este podrá solicitar una revisión de su porcentaje de retención una vez al año o tras un cambio relevante en su situación.
 
+
+
 ---
 
 **4. Anticipos Salariales:**
 
-La empresa permite la solicitud de anticipos de hasta el **50% del salario neto mensual**.
-
+La empresa permite la solicitud de anticipos de hasta el **50% del salario neto mensual**.  
 - Solo se podrá solicitar un anticipo cada **2 meses**.
 - El empleado podrá iniciar la solicitud a través del chatbot o por escrito.
 - Si se cumplen las condiciones y no hay anticipos pendientes, se aprobará automáticamente.
@@ -201,12 +202,13 @@ La empresa permite la solicitud de anticipos de hasta el **50% del salario neto 
 - **Carga crítica:** periodo donde no se permite la ausencia simultánea de varios empleados por razones operativas.
 - **Anticipo:** pago adelantado de una parte del salario a cuenta de la nómina.
 
+
+
 ---
 
 **9. Simulaciones y Cálculos Personalizados:**
 
 El chatbot podrá ofrecer una estimación de la nómina neta mensual basada en los siguientes factores:
-
 - Salario bruto
 - IRPF actual
 - Plus aplicables (turnicidad, nocturnidad, transporte, idiomas, etc.)
@@ -215,7 +217,6 @@ El chatbot podrá ofrecer una estimación de la nómina neta mensual basada en l
 
 **Ejemplo:**
 Empleado con salario bruto 2.000 €, IRPF 15%, nocturnidad (4 horas), sin transporte:
-
 - Devengo: 2.000 € + (4h × 20% de salario/hora) = 2.066,67 €
 - IRPF: -310 €
 - SS: -135 €
@@ -226,7 +227,7 @@ Empleado con salario bruto 2.000 €, IRPF 15%, nocturnidad (4 horas), sin trans
 **10. Tabla Orientativa de IRPF por Tramos Estimados (Sin hijos ni deducciones)**
 
 | Bruto Anual (€) | IRPF Aproximado |
-| --------------- | --------------- |
+|-----------------|-----------------|
 | 14.000          | 4%              |
 | 21.000          | 14%             |
 | 30.000          | 19%             |
@@ -237,7 +238,7 @@ Empleado con salario bruto 2.000 €, IRPF 15%, nocturnidad (4 horas), sin trans
 **11. Calendario Trimestral de Bonus**
 
 | Trimestre | Periodo Evaluado | Pago del Bonus |
-| --------- | ---------------- | -------------- |
+|-----------|------------------|----------------|
 | Q1        | Ene–Mar          | 10 de abril    |
 | Q2        | Abr–Jun          | 10 de julio    |
 | Q3        | Jul–Sep          | 10 de octubre  |
@@ -256,37 +257,37 @@ Empleado con salario bruto 2.000 €, IRPF 15%, nocturnidad (4 horas), sin trans
 
 **13. Situaciones Especiales: Baja Médica, Excedencias, Maternidad/Paternidad**
 
-| Situación             | Impacto en Nómina                           | Bonus            | Antigüedad |
-| --------------------- | ------------------------------------------- | ---------------- | ---------- |
-| Baja IT               | Base mínima = parte proporcional según baja | No computa bonus | Sí cuenta  |
-| Maternidad/Paternidad | Retribución 100% vía INSS                   | No computa bonus | Sí cuenta  |
-| Excedencia voluntaria | Suspensión total                            | No computa       | No cuenta  |
+| Situación | Impacto en Nómina | Bonus | Antigüedad |
+|-----------|--------------------|-------|------------|
+| Baja IT   | Base mínima = parte proporcional según baja | No computa bonus | Sí cuenta |
+| Maternidad/Paternidad | Retribución 100% vía INSS | No computa bonus | Sí cuenta |
+| Excedencia voluntaria | Suspensión total | No computa | No cuenta |
 
 ---
 
 **14. Comandos y Frases Útiles para el Chatbot**
 
-| Tipo de Consulta | Frase Sugerida                                 |
-| ---------------- | ---------------------------------------------- |
-| Nómina           | “Muéstrame mi nómina de abril”                 |
-| Bonus            | “¿Cuánto bonus me corresponde este trimestre?” |
-| IRPF             | “¿Cuál es mi IRPF y cómo puedo cambiarlo?”     |
-| Transporte       | “¿Cuánto me corresponde por distancia?”        |
-| Vacaciones       | “¿Puedo tomar vacaciones en julio?”            |
-| Anticipo         | “Solicito anticipo de 300 €”                   |
-| Incidencia       | “Mi plus de nocturnidad no se pagó”            |
+| Tipo de Consulta | Frase Sugerida |
+|------------------|----------------|
+| Nómina | “Muéstrame mi nómina de abril” |
+| Bonus | “¿Cuánto bonus me corresponde este trimestre?” |
+| IRPF | “¿Cuál es mi IRPF y cómo puedo cambiarlo?” |
+| Transporte | “¿Cuánto me corresponde por distancia?” |
+| Vacaciones | “¿Puedo tomar vacaciones en julio?” |
+| Anticipo | “Solicito anticipo de 300 €” |
+| Incidencia | “Mi plus de nocturnidad no se pagó” |
 
 ---
 
 **15. Bancos y Tiempos Estimados de Ingreso**
 
-| Banco     | Tiempo de Abono desde Pago |
-| --------- | -------------------------- |
-| BBVA      | Mismo día                  |
-| Santander | +1 día hábil               |
-| ING       | +1 día hábil               |
-| Caixabank | Mismo día                  |
-| Otros     | hasta +2 días hábiles      |
+| Banco | Tiempo de Abono desde Pago |
+|-------|----------------------------|
+| BBVA  | Mismo día                  |
+| Santander | +1 día hábil          |
+| ING   | +1 día hábil              |
+| Caixabank | Mismo día             |
+| Otros | hasta +2 días hábiles     |
 
 ---
 
@@ -294,24 +295,25 @@ Empleado con salario bruto 2.000 €, IRPF 15%, nocturnidad (4 horas), sin trans
 
 La empresa puede ofrecer planes de retribución flexible (vales comida, seguro médico, guardería, etc.) de manera voluntaria y con acuerdo firmado. Estos beneficios serán informados de forma personalizada y el chatbot podrá ayudarte a simular su impacto fiscal y en tu nómina neta.
 
+
+
 ---
 
 **17. Fechas Límite Operativas para Trámites Mensuales**
 
-| Gestión                                       | Fecha límite mensual para procesamiento en nómina |
-| --------------------------------------------- | ------------------------------------------------- |
-| Cambio de IRPF                                | Día 15                                            |
-| Solicitud de anticipo                         | Día 20                                            |
-| Actualización de turnos por supervisor        | Día 25                                            |
-| Solicitud de vacaciones para el mes siguiente | Día 10                                            |
-| Corrección de error en nómina                 | Hasta día 25 del mes en curso                     |
+| Gestión | Fecha límite mensual para procesamiento en nómina |
+|---------|---------------------------------------------------|
+| Cambio de IRPF | Día 15 |
+| Solicitud de anticipo | Día 20 |
+| Actualización de turnos por supervisor | Día 25 |
+| Solicitud de vacaciones para el mes siguiente | Día 10 |
+| Corrección de error en nómina | Hasta día 25 del mes en curso |
 
 ---
 
 **18. Justificación Automática de Cálculos**
 
 El sistema podrá explicar al empleado por qué:
-
 - No se ha aplicado un complemento (ej: turnicidad): “No se detectó rotación entre turnos este mes.”
 - No ha recibido bonus: “El objetivo mínimo del 80% no fue alcanzado.”
 - No se aplicó IRPF actualizado: “La solicitud fue posterior al día 15, se aplicará el mes siguiente.”
@@ -336,14 +338,12 @@ El sistema podrá explicar al empleado por qué:
 **21. Retribución Flexible (Específica)**
 
 La empresa podrá ofrecer, en función del perfil y la política interna, beneficios como:
-
 - Vales de comida
 - Seguro médico privado
 - Guardería
 - Formación externa subvencionada
 
 Estos conceptos:
-
 - **Están sujetos a tributación** si superan el límite exento legal (ej. 11 €/día para comida).
 - Podrán visualizarse y simularse en el chatbot en la sección “Mis beneficios”.
 - Afectan al IRPF real del empleado.
@@ -353,31 +353,43 @@ Estos conceptos:
 **22. Marcadores de Entrenamiento para Chatbot (Interno para IA)**
 
 Cada concepto clave en esta política podrá marcarse internamente con etiquetas NLP para mejorar el reconocimiento en modelos:
-
 - `##IRPF##` = Impuesto sobre la renta
 - `##ANTICIPO##` = Pago adelantado
 - `##NOCTURNIDAD##`, `##TURNO##`, `##PLUS_IDIOMA##`, etc.
 
 Esto permite respuestas adaptativas como:
-
 > “Según lo definido en ##NOCTURNIDAD##, tienes derecho al 20% por cada hora entre 22:00 y 06:00.”
 
 ---
 
 **23. Cronograma Operativo de Nómina Mensual**
 
-| Día del mes | Actividad principal                                          |
-| ----------- | ------------------------------------------------------------ | -------------------------------- |
+| Día del mes | Actividad principal |
+|-------------|---------------------|
 | 1–5         | Registro de horas, validación de turnos, cierre de objetivos |
-| 6–15        | Solicitudes IRPF, validación vacaciones, cierre bonus        |
-| 16–25       | Simulaciones, revisión de nómina preliminar                  |
-| 25–28       | Emisión de recibos de salario                                |
-| 30–31       | Abono de nómina                                              | ara revisar su fila en la base d |
+| 6–15        | Solicitudes IRPF, validación vacaciones, cierre bonus |
+| 16–25       | Simulaciones, revisión de nómina preliminar |
+| 25–28       | Emisión de recibos de salario |
+| 30–31       | Abono de nómina |
+
+---
+
+**24. Recursos legales y normativos enlazables**
+
+- Art. 29 Estatuto de los Trabajadores: https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430
+- IRPF y retenciones: https://sede.agenciatributaria.gob.es
+- Convenio del Metal Cádiz: [enlace interno o adjunto PDF]
+- RGPD (UE): https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0679
+
+---
+
+
+
+---
 
 **25. Situaciones de Nómina Negativa o Cero:**
 
 En casos donde la suma de deducciones (IRPF, Seguridad Social, embargos, anticipos, devoluciones) supere el importe total devengado:
-
 - El empleado recibirá una notificación automática vía chatbot y correo electrónico.
 - Se explicará el origen del saldo negativo.
 - Se habilitará un plan de regularización progresiva del importe en los próximos tres meses, salvo acuerdo específico.
@@ -387,7 +399,6 @@ En casos donde la suma de deducciones (IRPF, Seguridad Social, embargos, anticip
 **26. Bonificaciones Externas o Ayudas Estatales:**
 
 Toda ayuda estatal (formación bonificada, incentivos por contratación, discapacidad, movilidad) aparecerá:
-
 - Como línea no contributiva informativa.
 - No afecta el líquido a percibir del empleado salvo que tenga naturaleza retributiva.
 - El chatbot explicará su origen si se consulta.
@@ -397,11 +408,10 @@ Toda ayuda estatal (formación bonificada, incentivos por contratación, discapa
 **27. Reintegros o Descuentos por Devoluciones o Préstamos:**
 
 Si un empleado devuelve:
-
 - Un anticipo no justificado,
 - Una ayuda para formación abandonada,
 - Un préstamo interno,
-  entonces el importe aparecerá bajo “Deducción extraordinaria”, con leyenda explicativa visible en el detalle de nómina.
+entonces el importe aparecerá bajo “Deducción extraordinaria”, con leyenda explicativa visible en el detalle de nómina.
 
 ---
 
@@ -454,6 +464,8 @@ Para asuntos legales o interpretaciones legales complejas, el empleado debe cont
 
 ---
 
+
+
 ---
 
 **34. Traducciones y Lenguaje Accesible**
@@ -462,6 +474,8 @@ Para asuntos legales o interpretaciones legales complejas, el empleado debe cont
 - Traducciones al inglés, francés y catalán estarán disponibles bajo solicitud a RRHH o en la Intranet.
 - Estas versiones tendrán valor informativo. El documento oficial es el redactado en español.
 
+
+
 ---
 
 **35. Condiciones en Teletrabajo o Conciliación**
@@ -469,12 +483,16 @@ Para asuntos legales o interpretaciones legales complejas, el empleado debe cont
 - El plus de transporte no se aplicará durante los meses en los que el trabajador esté en teletrabajo total o trabajo remoto al 100%, salvo pacto escrito entre empresa y trabajador.
 - En caso de jornada reducida por guarda legal o conciliación, se aplicará el salario proporcional y se mantendrán los complementos fijos pactados.
 
+
+
 ---
 
 **36. Baja Parcial o Reducción de Jornada Temporal**
 
 - En situaciones de baja parcial (jornada reducida por accidente, enfermedad o conciliación), el salario será proporcional al tiempo trabajado.
 - El chatbot podrá calcular estos escenarios según lo registrado por RRHH en cada caso.
+
+
 
 ---
 
@@ -509,24 +527,82 @@ En esta política se utilizará preferentemente un lenguaje neutro e inclusivo. 
 
 ## 41. Preguntas Frecuentes Simuladas (FAQ)
 
-| Pregunta                                             | Respuesta Modelo                                                                        |
-| ---------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| ¿Cuánto voy a cobrar este mes?                       | Puedes consultar tu nómina en PDF o ver el desglose en este mismo chat.                 |
-| ¿Por qué me han descontado más IRPF?                 | Puede deberse a un aumento de ingresos, bonus o a que has cambiado tu situación fiscal. |
-| ¿Cuándo me pagarán el bonus del trimestre?           | El día 10 del mes siguiente al cierre del trimestre (abril, julio, octubre, enero).     |
-| ¿Tengo derecho al plus de transporte si teletrabajo? | No, salvo acuerdo específico.                                                           |
-| ¿Qué pasa si detecto un error en mi nómina?          | Se abre un ticket automático. Te informaremos en un plazo de 5 días hábiles.            |
-| ¿Cómo puedo cambiar mi IRPF?                         | Puedes modificarlo una vez al año hasta el día 15 del mes en curso.                     |
-| ¿El chatbot puede equivocarse?                       | El sistema está entrenado con esta política, pero siempre puedes escalar a RRHH.        |
+| Pregunta | Respuesta Modelo |
+|---------|------------------|
+| ¿Cuánto voy a cobrar este mes? | Puedes consultar tu nómina en PDF o ver el desglose en este mismo chat. |
+| ¿Por qué me han descontado más IRPF? | Puede deberse a un aumento de ingresos, bonus o a que has cambiado tu situación fiscal. |
+| ¿Cuándo me pagarán el bonus del trimestre? | El día 10 del mes siguiente al cierre del trimestre (abril, julio, octubre, enero). |
+| ¿Tengo derecho al plus de transporte si teletrabajo? | No, salvo acuerdo específico. |
+| ¿Qué pasa si detecto un error en mi nómina? | Se abre un ticket automático. Te informaremos en un plazo de 5 días hábiles. |
+| ¿Cómo puedo cambiar mi IRPF? | Puedes modificarlo una vez al año hasta el día 15 del mes en curso. |
+| ¿El chatbot puede equivocarse? | El sistema está entrenado con esta política, pero siempre puedes escalar a RRHH. |
 
 ---
 
 ## 42. Contacto Directo con RRHH
 
 Si el chatbot no puede resolver tu solicitud:
-
 - Contacta con tu responsable de RRHH asignado.
 - Consulta el listado de personas asignadas en la Intranet.
 - O bien, escribe a: **rrhh@empresa-ejemplo.com**
 
 ---
+
+
+
+---
+
+**Anexo IRPF Estimado - Madrid 2025**
+
+| Bruto Anual (€) | Nº Hijos | IRPF Estatal (%) | IRPF Autonómico (%) | IRPF Total Estimado (%) |
+|----------------|----------|------------------|----------------------|--------------------------|
+| 14000 | 0 | 2.5 | 1.5 | 4.0 |
+| 14000 | 1 | 1.5 | 0.5 | 2.0 |
+| 14000 | 2 | 0.0 | 0.0 | 0.0 |
+| 14000 | 3 | 0.0 | 0.0 | 0.0 |
+| 14000 | 4 | 0.0 | 0.0 | 0.0 |
+| 18000 | 0 | 6.0 | 3.0 | 9.0 |
+| 18000 | 1 | 4.0 | 2.0 | 6.0 |
+| 18000 | 2 | 2.0 | 2.0 | 4.0 |
+| 18000 | 3 | 1.0 | 1.0 | 2.0 |
+| 18000 | 4 | 0.0 | 0.0 | 0.0 |
+| 21000 | 0 | 9.0 | 5.0 | 14.0 |
+| 21000 | 1 | 7.0 | 4.0 | 11.0 |
+| 21000 | 2 | 5.0 | 2.0 | 7.0 |
+| 21000 | 3 | 3.0 | 2.0 | 5.0 |
+| 21000 | 4 | 2.0 | 1.0 | 3.0 |
+| 25000 | 0 | 11.0 | 6.0 | 17.0 |
+| 25000 | 1 | 9.0 | 5.0 | 14.0 |
+| 25000 | 2 | 6.0 | 4.0 | 10.0 |
+| 25000 | 3 | 5.0 | 3.0 | 8.0 |
+| 25000 | 4 | 3.0 | 2.0 | 5.0 |
+| 30000 | 0 | 12.0 | 7.0 | 19.0 |
+| 30000 | 1 | 10.0 | 6.0 | 16.0 |
+| 30000 | 2 | 7.0 | 5.0 | 12.0 |
+| 30000 | 3 | 6.0 | 4.0 | 10.0 |
+| 30000 | 4 | 4.0 | 3.0 | 7.0 |
+| 40000 | 0 | 15.0 | 8.0 | 23.0 |
+| 40000 | 1 | 13.0 | 7.0 | 20.0 |
+| 40000 | 2 | 10.0 | 7.0 | 17.0 |
+| 40000 | 3 | 9.0 | 6.0 | 15.0 |
+| 40000 | 4 | 7.0 | 5.0 | 12.0 |
+| 50000 | 0 | 17.0 | 9.0 | 26.0 |
+| 50000 | 1 | 15.0 | 8.0 | 23.0 |
+| 50000 | 2 | 13.0 | 8.0 | 21.0 |
+| 50000 | 3 | 11.0 | 7.0 | 18.0 |
+| 50000 | 4 | 9.0 | 6.0 | 15.0 |
+| 60000 | 0 | 18.5 | 9.5 | 28.0 |
+| 60000 | 1 | 17.0 | 9.0 | 26.0 |
+| 60000 | 2 | 14.0 | 9.0 | 23.0 |
+| 60000 | 3 | 12.0 | 8.0 | 20.0 |
+| 60000 | 4 | 10.0 | 7.0 | 17.0 |
+| 80000 | 0 | 21.0 | 11.0 | 32.0 |
+| 80000 | 1 | 20.0 | 10.0 | 30.0 |
+| 80000 | 2 | 17.0 | 10.0 | 27.0 |
+| 80000 | 3 | 15.0 | 9.0 | 24.0 |
+| 80000 | 4 | 13.0 | 8.0 | 21.0 |
+| 100000 | 0 | 24.0 | 12.0 | 36.0 |
+| 100000 | 1 | 22.0 | 11.0 | 33.0 |
+| 100000 | 2 | 19.0 | 12.0 | 31.0 |
+| 100000 | 3 | 17.0 | 10.0 | 27.0 |
+| 100000 | 4 | 15.0 | 9.0 | 24.0 |
