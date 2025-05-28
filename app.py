@@ -201,7 +201,7 @@ def get_context(query):
                 missing_info.append('el **ID** de empleado')
             if not final_name:
                 missing_info.append('el **nombre completo**')
-            return {'context': f'Para poder consultar su nómina, necesito {', y '.join(missing_info)}.', 'source': 'request_credentials'}
+                return {'context': f'Para poder consultar su nómina, necesito {", y ".join(missing_info)}.', 'source': 'request_credentials'}
 
         # B. Si tenemos ambos datos (final_id y final_name), intentar validar/consultar
         try:
