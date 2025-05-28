@@ -8,7 +8,6 @@ import unicodedata
 import sys
 
 # --- INICIO DE SOLUCIÓN PARA SQLITE3 PARA STREAMLIT ---
-__import__('pysqlite3')
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 # --- FIN DE SOLUCIÓN PARA SQLITE3 ---
 
