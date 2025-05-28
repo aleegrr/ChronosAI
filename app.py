@@ -264,9 +264,9 @@ def format_chat_history(chat_history):
     formatted_history = ''
     for message in chat_history:
         if message['role'] == 'user':
-            formatted_history += f'Usuario: {message['content']}\n'
+            formatted_history += f'Usuario: {message["content"]}\n'
         elif message['role'] == 'assistant':
-            formatted_history += f'Asistente: {message['content']}\n'
+            formatted_history += f'Asistente: {message["content"]}\n'
     return formatted_history.strip()
 
 def get_response_with_history(query, chat_history):
