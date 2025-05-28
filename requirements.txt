@@ -11,3 +11,4 @@ pysqlite3-binary
 langfuse
 anyio==3.7.1
 exceptiongroup==1.2.0
+protobuf<=3.20.3

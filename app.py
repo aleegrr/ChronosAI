@@ -1,10 +1,13 @@
-import streamlit as st
 import os
+# MODIFICACIÓN PARA STREAMLIT
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
+
+import streamlit as st
 import re
 import unicodedata
 import sys
 
-# --- INICIO DE SOLUCIÓN PARA SQLITE3 ---
+# --- INICIO DE SOLUCIÓN PARA SQLITE3 PARA STREAMLIT ---
 __import__('pysqlite3')
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 # --- FIN DE SOLUCIÓN PARA SQLITE3 ---
