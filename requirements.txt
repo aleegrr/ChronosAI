@@ -3,12 +3,12 @@ python-dotenv
 langchain==0.1.16
 langchain-core
 langchain-chroma
-langchain-huggingface
 langchain-chroma
 langchain-together
 chromadb==0.4.24
 pysqlite3-binary
 langfuse
+fastembed
 anyio==3.7.1
 exceptiongroup==1.2.0
 protobuf<=3.20.3

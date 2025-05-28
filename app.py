@@ -18,7 +18,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough, RunnableLambda
 from langchain_chroma import Chroma
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain.embeddings import FastEmbedEmbeddings
 from langfuse.callback import CallbackHandler
 
 # Cargar variables de entorno
@@ -41,11 +41,7 @@ model = ChatOpenAI(
 )
 
 # Embeddings
-embeddings = HuggingFaceEmbeddings(
-    model_name='BAAI/bge-large-en',
-    model_kwargs={'device': 'cpu'},
-    encode_kwargs={'normalize_embeddings': False},
-)
+embeddings = FastEmbedEmbeddings(model_name="BAAI/bge-base-en-v1.5")
 
 # Cargar vector stores
 try:
