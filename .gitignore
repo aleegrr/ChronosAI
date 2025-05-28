@@ -3,5 +3,4 @@ __pycache__/
 
 # Environments
 .env
-Pipfile
 Pipfile.lock
