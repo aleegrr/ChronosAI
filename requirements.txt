@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-openai
+langchain-core
+langchain-chroma
+langchain-huggingface
+python-dotenv
+langfuse
+faker
