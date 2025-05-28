@@ -1,9 +1,13 @@
 streamlit
-langchain
-langchain-openai
+python-dotenv
+langchain==0.1.16
 langchain-core
 langchain-chroma
 langchain-huggingface
-python-dotenv
+langchain-chroma
+langchain-together
+chromadb==0.4.24
+pysqlite3-binary
 langfuse
-faker
+anyio==3.7.1
+exceptiongroup==1.2.0
