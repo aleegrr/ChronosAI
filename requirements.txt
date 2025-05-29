@@ -4,7 +4,7 @@ langchain>=0.1.0
 langchain-core
 langchain-chroma>=0.1.0
 langchain-together
-chromadb==0.4.24
+chromadb==0.4.22
 pysqlite3-binary
 langfuse
 fastembed
@@ -12,4 +12,4 @@ openai
 anyio==3.7.1
 exceptiongroup==1.2.0
 protobuf<=3.20.3
-numpy<2.0.0
+numpy==1.26.4
