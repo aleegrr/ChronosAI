@@ -1,14 +1,14 @@
 streamlit
 python-dotenv
-langchain==0.1.16
+langchain>=0.1.0
 langchain-core
-langchain-chroma
-langchain-chroma
+langchain-chroma>=0.1.0
 langchain-together
 chromadb==0.4.24
 pysqlite3-binary
 langfuse
 fastembed
+openai
 anyio==3.7.1
 exceptiongroup==1.2.0
 protobuf<=3.20.3
