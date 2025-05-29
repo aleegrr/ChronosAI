@@ -234,7 +234,7 @@ def get_context(query):
                 if is_current_query_a_data_question:
                     context_lines = ['Información del empleado:']
                     for k, v in matched_metadata.items():
-                        context_lines.append(f'- **{k.replace('_', ' ').title()}**: {v}')
+                        context_lines.append(f'- **{k.replace("_", " ").title()}**: {v}')
                     return {'context': '\n'.join(context_lines), 'source': 'empleados_data'}
                 else:
                     return {
