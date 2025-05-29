@@ -5,7 +5,22 @@ os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
 import streamlit as st
 import re
 import unicodedata
-import sys
+
+# INICIO DEL PARCHE PARA SQLITE3 COMPATIBLE CON CHROMADB
+# Las líneas de print y st.info son para depuración, puedes quitarlas una vez funcione
+print("Intentando parchear pysqlite3...")
+# st.info("Intentando parchear pysqlite3...") # Si no se muestra, no importa mucho
+try:
+    __import__('pysqlite3')
+    import sys
+    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+    print("Parche pysqlite3 aplicado con éxito.")
+    # st.info("Parche pysqlite3 aplicado con éxito.")
+except ImportError as e:
+    print(f"ERROR: Fallo al importar pysqlite3: {e}. Asegúrate de que 'pysqlite3-binary' está en requirements.txt")
+    # st.error(f"ERROR: Fallo al importar pysqlite3: {e}. Asegúrate de que 'pysqlite3-binary' está en requirements.txt")
+    st.stop() # Detenemos la ejecución si el parche falla
+# FIN DEL PARCHE
 
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
