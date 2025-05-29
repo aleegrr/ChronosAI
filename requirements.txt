@@ -13,3 +13,4 @@ anyio==3.7.1
 exceptiongroup==1.2.0
 protobuf<=3.20.3
 numpy==1.26.4
+langchain-community
