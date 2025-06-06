@@ -1,6 +1,6 @@
 import os
 # MODIFICACIÓN PARA STREAMLIT
-os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
+os.environ['PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION'] = 'python'
 
 import streamlit as st
 import re
@@ -8,17 +8,17 @@ import unicodedata
 
 # INICIO DEL PARCHE PARA SQLITE3 COMPATIBLE CON CHROMADB
 # Las líneas de print y st.info son para depuración, puedes quitarlas una vez funcione
-print("Intentando parchear pysqlite3...")
-# st.info("Intentando parchear pysqlite3...") # Si no se muestra, no importa mucho
+print('Intentando parchear pysqlite3...')
+# st.info('Intentando parchear pysqlite3...') # Si no se muestra, no importa mucho
 try:
     __import__('pysqlite3')
     import sys
     sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
-    print("Parche pysqlite3 aplicado con éxito.")
-    # st.info("Parche pysqlite3 aplicado con éxito.")
+    print('Parche pysqlite3 aplicado con éxito.')
+    # st.info('Parche pysqlite3 aplicado con éxito.')
 except ImportError as e:
-    print(f"ERROR: Fallo al importar pysqlite3: {e}. Asegúrate de que 'pysqlite3-binary' está en requirements.txt")
-    # st.error(f"ERROR: Fallo al importar pysqlite3: {e}. Asegúrate de que 'pysqlite3-binary' está en requirements.txt")
+    print(f'ERROR: Fallo al importar pysqlite3: {e}. Asegúrate de que "pysqlite3-binary" está en requirements.txt')
+    # st.error(f'ERROR: Fallo al importar pysqlite3: {e}. Asegúrate de que 'pysqlite3-binary' está en requirements.txt')
     st.stop() # Detenemos la ejecución si el parche falla
 # FIN DEL PARCHE
 
@@ -51,7 +51,7 @@ model = ChatOpenAI(
 )
 
 # Embeddings
-embeddings = FastEmbedEmbeddings(model_name="BAAI/bge-base-en-v1.5")
+embeddings = FastEmbedEmbeddings(model_name='BAAI/bge-base-en-v1.5')
 
 # Cargar vector stores
 try:
@@ -60,6 +60,14 @@ try:
 except Exception as e:
     st.error(f'Error al cargar las bases de datos vectoriales. Asegúrate de que los directorios existan y contengan datos válidos: {e}')
     st.stop()
+
+# Limpiar el estado de la sesión si es un nuevo arranque
+if 'initialized' not in st.session_state:
+    # Se interpreta como un nuevo arranque (por F5, o primera carga)
+    st.session_state.clear()
+    st.cache_data.clear()
+    st.cache_resource.clear()
+    st.session_state['initialized'] = True  # Para no volver a limpiar
 
 
 # Prompt template con historial de conversación
@@ -181,6 +189,8 @@ def get_context(query):
     id_from_current_query = extract_employee_id(query)
     name_from_current_query = extract_employee_name(query)
 
+    print(f'DENTRO DE GETCONTEXT{st.session_state}')  # Para depuración, puedes quitarlo después
+
     # 2. Obtener el estado actual de la sesión
     stored_id = st.session_state.get('current_employee_id')
     stored_name = st.session_state.get('current_employee_name')
@@ -290,15 +300,13 @@ def get_response_with_history(query, chat_history):
 
 # --- STREAMLIT INTERFAZ ---
 
-st.cache_data.clear()
-st.cache_resource.clear()
-
 st.title('Chatbot de Nóminas')
 st.subheader('Asistente de Recursos Humanos')
-st.write('Este asistente está diseñado para responder preguntas relacionadas con nóminas y empleados.')
 
 if 'messages' not in st.session_state:
     st.session_state['messages'] = [{'role': 'assistant', 'content': '¡Hola! ¿En qué puedo ayudarte hoy?'}]
+
+print(f'antes: {st.session_state}')  # Para depuración, puedes quitarlo después
 
 if 'current_employee_id' not in st.session_state:
     st.session_state['current_employee_id'] = None
@@ -307,17 +315,22 @@ if 'current_employee_name' not in st.session_state:
 if 'employee_validated' not in st.session_state:
     st.session_state['employee_validated'] = False
 
+print(f'despues: {st.session_state}')  # Para depuración, puedes quitarlo después
 
+
+# Mostrar historial de mensajes
 for msg in st.session_state['messages']:
-    st.chat_message(msg['role']).write(msg['content'])
+    with st.chat_message(msg['role']):
+        st.markdown(msg['content'])
 
-if prompt := st.chat_input('Escribe tu consulta aquí...'):
+# Entrada del usuario
+if prompt := st.chat_input('Escribe tu pregunta sobre tu nómina o la política de la empresa'):
     st.session_state['messages'].append({'role': 'user', 'content': prompt})
-    st.chat_message('user').write(prompt)
 
-    chat_history_for_model = st.session_state['messages'][:-1]
+    with st.chat_message('user'):
+        st.markdown(prompt)
 
-    response_content = get_response_with_history(prompt, chat_history_for_model)
-
-    st.session_state['messages'].append({'role': 'assistant', 'content': response_content})
-    st.chat_message('assistant').write(response_content)
+    with st.chat_message('assistant'):
+        response = get_response_with_history(prompt, st.session_state['messages'])
+        st.markdown(response)
+        st.session_state['messages'].append({'role': 'assistant', 'content': response})
